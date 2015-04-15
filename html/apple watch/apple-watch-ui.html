@@ -1,0 +1,142 @@
+<img src="http://i.imgur.com/FGa2hMX.png" alt="Apple Watch Illustration">
+
+<p>With the impending launch of Apple's newest and shiniest product, the Apple Watch, there are many designers out there itching to get a feel for the newest toy to come out of Cupertino. There are some new ways to interract with the device like Apple's force touch menu as well as many UI elements you may already be familiar with like buttons, text styles and switches, but these elements have some limitations on how they can be implemented and used that you should familiarize yourself with.</p>
+
+<p>Before exploring the UI elements in the Apple Watch let's first cover some of the basics that you should keep in mind when designing for this new device.</p>
+
+<h2>Physical Attachment</h2>
+<p>Firstly, the Apple Watch is physically attached to the user. Be mindful of this connection and how it will make your users feel when interacting with your UI. The Apple Watch is not only a utilitarian device, it is also a fashion statement. Design plays a big roll when it comes to fashion. It is important to always remember that form follows function, but form is more important now than it might have been in the past. Your users don't want something ugly on their bodies.</p>
+
+<h2>K.I.S.S.</h2>
+<p>Speaking of function, the Apple Watch isn't as powerful as your new smartphone. When designing for web and mobile I'm sometimes guilty of using a pretty image over a smaller one, after all will the user experience a difference in load times from 32kb to 38kb? In the case of the Apple Watch you need to keep things as lightweight as possible. Users do not want a slow and sluggish experience and those extra kilobytes make a big difference. The use of large images and animations will not only create a poor user experience, it will also likely get your app rejected when the time comes to submit it to Apple.</p>
+
+<p>Are your animations really necessary? Pretty animations won't make your app stand out if they are causing a delay. Remember you are building something for a computer the size of a postage stamp that also has to stream data over a wireless network from the phone. Try to pretend you are building a website in the early 90s that needs to transfer its information over a 14.4k modem to a user on a computer with a 386 processor and 2mb of ram. You wouldn't use custom fonts, animations and large javascript libraries in that example would you? Keep things lightweight. Build for speed and respect your users time. Resist the urge to dazzle. Keep interractions meaningful. Don't use unnecessary animations.</p>
+
+<h2>Color and Typography</h2>
+<p>The use of color and typography is important in the branding of your application, but there are some key considerations to keep in mind.</p>
+
+<h3>Color</h3>
+<p>
+<ul>
+<li>Use black for your background. It will blend with the screens physical bezel and maintains an illusion of no screen edge. Do not use bright backgrounds.</li>
+<li>Use high contrast colors for text. Remember the watch is not used for long periods of time, users need to be able to read your content quickly and easily.</li>
+<li>Be mindful of color blindness (as you should be in all of your designs anyway).</li>
+</ul>
+</p>
+
+<h3>Typography</h3>
+<p>You can use custom fonts but keep in mind that the system font was designed to work well on this new device.</p>
+<blockquote>"Above all, text must be legible. If users can’t read the words in your app, it doesn’t matter how beautiful the typography is."</blockquote>
+
+<h4>Benefits of the System Font (San Francisco)</h4>
+<p>
+<ul>
+<li>At large sizes the font's condensed letters take up less horizontal space.</li>
+<li>At large sizes they are spaced more loosely and have larger glyph apertures.</li>
+<li>Punctuation gets proportionally larger when the font gets smaller.</li>
+</ul>
+</p>
+
+<h4>Text Styles</h4>
+<p><a href="https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/CustomTextProcessing/CustomTextProcessing.html#//apple_ref/doc/uid/TP40009542-CH4-SW65">Text styles</a> are semantic descriptions of the intended uses for your fonts. Examples are things like Headline, Body, Footnote etc. If you use the built-in text styles, you get free Dynamic Type support. If you use custom fonts, you must do some work to adopt the feature. Text styles using dynamic type help to enhance the usability and readability of your app's content by responding in a coordinated way to user's accessibility preferences.</p>
+ 
+
+<h2>Space</h2>
+<p>The Apple Watch is smaller than a smart phone, obviously. Keep in mind that it is considerably smaller than a smart phone. All of the space available needs to be used intelligently to make the interactions your users will be making as pleasant as possible. Keep your buttons large so it's easy to tap on them, don't cram everything onto the screen but instead find ways to use the force touch menu and rethink the importance of the information you are giving to your users. Resist the temptation to display your logo in the app, there are other ways to brand your app through the use of colors and imagery that is meaningful and contextual.</p>
+
+<p>The Apple Watch has a bezel around the edges that adds physical padding to your designs. You do not need to add margins to the edges of your screens because of this. It looks a bit odd at first in Xcode, as it does not add this padding to the edges, but keep this in mind for your designs.</p>
+
+<h3>Screen Size</h3>
+<p>Apps display the same interface on both sizes of the Apple Watch, by using relative units you can allow your items to grow and shrink to fill the available space on both sizes. The watch is always in portrait mode, that is the height is greater than the width.<br>
+38mm - 272 x 340
+<br>
+42mm - 390 x 312
+</p>
+
+<blockquote>"If you measure interactions with your iOS app in minutes, you can expect interactions with your WatchKit app to be measured in seconds. So keep interactions brief and interfaces simple."</blockquote>
+
+<h2>Navigation</h2>
+<p>You can either make the interface of your app Hierarchal, which is a vertical scrolling list that allows the user to make one selection (by tapping) per screen until they reach their desired destination, or Page Based, which is a horizontal scrolling navigation that indicates current page by a series of dots along the bottom of the watch screen. You can not combine these two systems into the same app but you can display modal sheets regardless of your navigation type.</p>
+
+<h3>Modal Sheets</h3>
+<p>You can think of a modal sheet as a card that gives the user a way to complete a task. If you have multiple modal sheet screens they are displayed in a page-based layout.</p>
+
+<p>Don't add a close button to your modal sheet, as there is one in the top left of the screen by default. It is always white, though you can change the text from close to cancel or something else to add more meaning. A user can also close a modal sheet by swiping from the left of the screen.</p>
+
+<p>Consider allowing any buttons on your modal sheets to perform the action they are designed for and then closing the modal sheet so the user doesn't have to perform that extra step. Apple suggests you don't add a second modal interface from the initial one, though there might be a reason for you to do this but it could be cause for rejection upon app submission. If Apple warns against something it is usually best to listen unless you have a very good reason not to.</p>
+
+<h2>Interactions</h2>
+<p>There may be more ways for a user to interact with your app in the future (such as multi touch and new gestures), but for now these are the only ways.</p>
+<p>
+<ul>
+<li><em>Single Tap</em> - Used for things like pressing buttons and making selections.</li>
+<li><em>Gestures</em> - Vertical swipe for navigating hiearchial screens, horizontal swipes for navigating through page based screens, left edge horizontal swipe to go back to the previous screen. There is no way to make swiping work outside of navigating between pages or in a vertical table.</li>
+<li><em>Force Touch</em> - Press hard on the watch face to access a menu associated with the current screen.</li>
+<li><em>Digital Crown</em> - The wheel on the side of the mouse can be used in your app to allow for vertical scrolling only.</li>
+</ul>
+</p>
+
+<h2>Glances</h2>
+<p>Information you need quickly on one screen, like the time. Does your app have information the user will want to look at frequently? Consider building a glance to display that information. Glances are built from a series of predefined templates for the upper and lower half, you can not change how they look outside of the templates. Glances are not scrollable by the user and will open the app to the appropriate screen when the user taps on one. Glances are optional and are not required.</p>
+
+<p>You should use the time and location to make the glance meaningful to the user. You can think of the clock as a glance, if the time were 20 minutes behind would the user get any meaningful use out of it?</p>
+
+<h2>Notifications</h2>
+<p>Notifications are displayed to the user in two different ways. A short-look and a long-look.</p>
+
+<h3>Short-Look</h3>
+<p>These tell the user which app is notifying them and headline. If the user lowers their wrist quickly or doesnt tap, the notification is dismissed. The user doesn't have to manually interact with the notification to get it to go away. The design of the short-look notification is template based and contains the app icon, app name and a title string. Keep your title strings as short and meaningful as possible.</p>
+ 
+
+<h3>Long-Look</h3>
+<p>These provide more detail about the notification and are more customizable in their appearance. The basic structure is the same for all apps and includes a sash at the top which displays the app's icon and name, your app's custom content and up to four action buttons and finally a dismiss button at the bottom.</p>
+
+<p>With these basics held firmly in your mind, let's explore the different elements of the Apple Watch's User Interface.</p>
+
+<h2>UI Elements</h2>
+<h3>Animations</h3>
+<p>Dynamic animations have to be transferred from the iPhone and there will be a delay. Many early watch apps have been rejected due to heavy reliance on animations, so try to only use animations only to communicate status and provides feedback to the user. Gratuitous use of animations is not recommended. Store prerendered animations using a sequence of static images in your WatchKit app bundle so that they can be presented quickly to the user instead of transferred from the phone.</p>
+
+<h3>Buttons</h3>
+<p>Use icons instead of text for buttons placed side-by-side and never have more than three next to each other. (Apple says in one instance not to use more than two buttons next to each other, and in another instance not to use more than three.) Remember the watch screens are small so keep your buttons as large as possible, dont make it difficult for the user to tap on a button. Buttons can have an image or color set for the background, as well as a different color for the text. It can contain a label or group object and will have rounded corners (default corner radius is 6 points).</p>
+
+<h3>Dates + Timers</h3>
+<p>Displays time and date related labels.</p>
+
+<h3>Force Touch Menu</h3>
+<p>Displays the current screens optional context menu (if one is set) with up to four actions. It will display the actions from top to bottom, left to right, depending on the order they are added to the menu and they do not scroll. Do not create a menu that affects only a portion of the screen, it should apply to the entire screen. For example if you have a menu item that changes colors in the app make sure it changes all of the colors and not just the colors of a single button.</p>
+
+<p>Menu actions (buttons) require an image and a label. The image should be line art and a single color with a transparent background. Use line weights that are appropriate for the device size and the complexity of the icon, between 4px and 9px <a href="https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/MenuImages.html#//apple_ref/doc/uid/TP40014992-CH18-SW1.">according to Apple</a></p>
+
+<p>Remember the force touch context menu, as this is a new and exciting way to interact with the device. Instead of adding extra buttons to your interface use the force touch context menu.</p>
+
+... icon required sizes need to be verified, tempalte created etc.
+
+
+<h3>Groups</h3>
+<p>Groups are containers for objects in your app, you can think of them like divs in html. Groups have a default padding that you can change or remove if you wish. They have no default appearance but have attributes for setting position, corner radius, size, margins and background. You can set a group to layout items horizontally or vertically and you can nest groups inside of groups to create more sophisticated layouts.</p>
+
+<h3>Icons</h3>
+<p>Icons are png circles. You can create them as indexed colors to save space, 24 bit and no transparency. Icons do not have text on them on the watch home screen.</p>
+
+... icon file sizes need to be verified, template created.
+
+<h3>Images</h3>
+<p>Use one image for all screen sizes. Speed and efficiency are extremely important, so compress your images as much as possible. Try saving your pngs with indexed color on a solid black background instead of on a transparent background. You can also use tools like pngout and pngcrush. Create all image assets as @2x resources. There is no need to create non-Retina images.</p>
+
+<h3>Maps</h3>
+<p>Maps are a static screenshot of a location and are not interactive. Tapping on a map takes the user to the map app.</p>
+
+<h3>Labels</h3>
+<p>A label is a fancy way of saying static text. It does not allow for direct user interaction, it can be updated programatically and it can span multiple lines.</p>
+
+<h3>Sliders</h3>
+<p>Sliders let users make adjustments by tapping the images at the left or right. If you do not provide images the defaults are a plus (+) and minus (-)</p>
+
+<h3>Switches</h3>
+<p>Switches give your user a way to specify one of two options. On or off, yes or no, etc. Switches always include a label.</p>
+
+<h3>Tables</h3>
+<p>A table presents rows of data in a single column that the user can vertically scroll through. Keep tables smaller than 20 rows, as more than that is difficult to scroll through. If you have more than 20 rows you can give the user the option to load more. Tables resize dynamically based on the number of rows they contain. As a result, tables ignore any height restrictions placed on them by groups. Apple recommends that you do not embed tables inside groups.</p>
+
+<p>Apple's Watch is an exciting new platform that will continue to evolve as designers and developers continue to play and build new things with it. The ideas involved with a device and platform that is attached to the user is one that will continue to evolve. If you have new ideas on how best to work with and create interesting new interactions with these systems let us know!</p>
