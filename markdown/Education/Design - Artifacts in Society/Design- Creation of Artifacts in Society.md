@@ -62,3 +62,17 @@ Identify 10 gaps throughout the day and star one to use as a course project. Pla
 
 * The curb going up to my driveway is not slanted enough which causes the front of my vehicle to scrape if I don't back out slowly at an angle.
 
+#The Problem or Gap
+With so many ways to manage tasks it's difficult to remember to begin and finish an important task each day. Notebooks and emails can't automatically notify and remind you unless you manually check on them. Calendars don't allow you to check-off a completed item and are tedious in their execution. To-do list apps are quickly distracting as they fill up with dozens of tasks. If you want to accomplish one important task each day there isn't an easy and fun way to accomplish this.
+
+Criteria
+The gap meets the following criteria:
+
+1. I feel the pain: Many times while it's raining my stuff gets wet, and many times I just carry my phone, wallet, keys and it's a bother to carry this in my body when I have a whole bike to carry it for me.
+
+2. Access to at least 5 people: I have many friends that bike, and they certainly don't like to get their stuff wet. Also, most of them don't like baskets because they are too "girly" or expensive, so a thing that carries the basic items would be well-recieved.
+
+3. Simple enough: This two gaps are simple enough for me to find a solution, specially since I am the main affected user.
+
+4. I have the hability to solve it: Indeed. I know how to sew and I know a thing or two about water-resistant fabrics, I also know how to take advantage of the non-occupied volumes of the bike.
+
