@@ -50,6 +50,8 @@ Identify 10 gaps throughout the day and star one to use as a course project. Pla
 
 * If I want to accomplish important tasks during the day my current method of task scheduling (calendars, trello, clear, etc) makes that difficult. because I never remember to check all those resources as much as I'm checking my email. I end up emailing myself important tasks for the day which isn't very efficient on mobile (open email app, select new email, select account to send to, select account to send from, enter subject, optional message, no option for reminder notifications, difficult for long term management of tasks, isn't very fun)
 
+There are many todo apps but none that focus on only 1 item per day.
+
 * The wheels on my toddler's stroller randomly lock due to the locking mechanism engaging when a small piece of plastic is pressed down. Over time gravity has worn down this plastic, so it falls down on its own now.
 
 * My coffee bean grinder is too loud in the morning and wakes up everyone in the house.
