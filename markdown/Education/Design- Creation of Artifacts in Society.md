@@ -13,6 +13,8 @@ Plan
 *Select the Plan:* Converge your ideas to the best solutions.
 [Designers iterating over 2 hours](http://i.imgur.com/dL6QPhW.png)
 
+Great design is iterative from great designers that worked on the same problems before.
+
 Establish expectations for the artifact in a [spec](http://en.wikipedia.org/wiki/Specification_(technical_standard)), which is also something you will improve upon later.
 
 
