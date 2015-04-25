@@ -9,8 +9,9 @@ What are the Four Steps in an Iterative Design Process?
 Plan
 ====
 *Problem Definition:* What are the problems?
-*Exploration:* Research all the ways the problem can be solved. Exploration is fundamentaly divergent to understand the full space of possibilities.
+*Exploration:* Research all the ways the problem can be solved. Exploration is fundamentaly divergent to understand the full space of possibilities. As you explore more options you gain more clarity into the problem definitions which will give you more areas to explore.
 *Select the Plan:* Converge your ideas to the best solutions.
+[Designers iterating over 2 hours](http://i.imgur.com/dL6QPhW.png)
 
 Establish expectations for the artifact in a [spec](http://en.wikipedia.org/wiki/Specification_(technical_standard)), which is also something you will improve upon later.
 
