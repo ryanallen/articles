@@ -36,4 +36,4 @@ Question 1.1
 What is an artifact that evokes an emotion of love, or enjoyment every time I use it?
 Write <100 word explanation of why I love using the artifact.
 
-
+I purchased a [Saddleback thin leather briefcase](http://i.imgur.com/r8ZWQOj.jpg) a few years ago to carry my design tools around in and it has become an artifact I would find it difficult to live without. The artifact is a well designed utilitarian piece, as well as a subjectively beautiful example of artistic craftsmanship. I love everything about the experience of using it, from the many pockets to store important items, to the heavy and high-quality leather constrution which protects the important artifacts contained within.
