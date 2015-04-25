@@ -28,3 +28,12 @@ Act
 ===
 
 
+Homework
+--------
+Draw a chair. Fill the frame, dark lines, annotate and add my name, high quality.
+
+Question 1.1
+What is an artifact that evokes an emotion of love, or enjoyment every time I use it?
+Write <100 word explanation of why I love using the artifact.
+
+
