@@ -76,3 +76,13 @@ The gap meets the following criteria:
 
 4. I have the hability to solve it: Indeed. I know how to sew and I know a thing or two about water-resistant fabrics, I also know how to take advantage of the non-occupied volumes of the bike.
 
+##Assignment 1.3
+[Chair sketch](http://i.imgur.com/hA69leq.jpg) that fills the page, uses dark lines and has appropriate annotations.
+
+---
+
+##Assignment 1.4
+A [visual sketch](http://i.imgur.com/muxY8LW.jpg) of a solution that solves my problem for myself.  
+
+An [image of my prototype](http://i.imgur.com/6Ocgjx4.gif ).
+
