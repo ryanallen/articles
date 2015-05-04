@@ -1,5 +1,7 @@
 #So You Want to Make an App
 
+(images for all of these)
+
 1. Define the Problem
   1.1 Problem Definition
   1.2 Validation
