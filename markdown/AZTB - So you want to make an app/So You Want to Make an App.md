@@ -1,5 +1,23 @@
 #So You Want to Make an App
 
+1. Define the Problem
+  1.1 Problem Definition
+  1.2 Validation
+  1.3 Define User Needs
+2. Design the Solution
+  2.1 UX
+  2.2 UI
+  Wireframes first then final
+3. Develop the Solution
+  3.1 Discovery
+  3.2 Building
+4. Market the App
+  4.1 Content Strategy
+  4.2 IRL
+  4.3 Paid Solutions
+5. Rinse and Repeat
+
+
 So you've had an amazing idea to solve a problem that you've found in your industry and you think an app is the best way to do it. Congratulations! Making an app is amazing, fun and exciting and I am going to tell you how to do it. So who am I?
 
 My name is Ryan Allen. I have been professionally designing digital solutions to problems since the mid 90's with some of the most talented and hard-working groups of people around.  INTRO STUFF
