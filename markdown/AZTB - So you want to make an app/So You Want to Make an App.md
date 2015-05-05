@@ -13,7 +13,7 @@
 3. Develop the Solution
   3.1 Discovery
   3.2 Building
-4. Market the App
+4. Market the App (releasing and app doesn't count as marketing)
   4.1 Content Strategy
   4.2 IRL
   4.3 Paid Solutions
