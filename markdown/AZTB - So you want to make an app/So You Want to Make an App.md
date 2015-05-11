@@ -26,10 +26,12 @@
 
 ---
 (chartsninja)
+[slide#]
 
-Congratulations on deciding to build an app. You are not alone, in fact [2.5 million]() mobile apps are now in existence, and apps can help engage your target audience for up to [400%](https://blog.newrelic.com/2014/02/11/mobile-apps-mobile-site-engagement/) longer than a website alone. Apps are everywhere and for everyone.
+[1] Congratulations on deciding to build an app.
+[2] You are not alone, in fact [2.5 million]() mobile apps are now in existence, and apps can help [3] engage your target audience for up to [400%](https://blog.newrelic.com/2014/02/11/mobile-apps-mobile-site-engagement/) longer than a website alone. Apps are everywhere and for everyone.
 
-## Who Is Your App For?
+[4] ## Who Is Your App For?
 This is the most important question you will answer. The answers to this question will determine the foundation from which everyone working on your app will build from, from design to development to marketing. 
 
 ### Do You Understand Your Audience?
