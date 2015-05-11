@@ -41,6 +41,11 @@ How will your app fill your users' needs in ways that your competitors don't? Wh
 ## How Will You Make Your App?
 What skills do you bring to the table? What skills do you need to develop? What skill-sets will you need to hire out? How will you measure and analyze success?
 
+Conclusion
+
+I. Summary statement - review all of your main points.
+
+II. Concluding statement - prepare a closing statement that ends your presentation smoothly.
 
 
 
