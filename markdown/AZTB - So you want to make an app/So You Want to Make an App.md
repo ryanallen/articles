@@ -2,6 +2,10 @@
 
 (images for all of these)
 
+1. What App Do You Want to Make?
+2. Who do You Want to Make it For?
+3. How Do You Make Your App?
+
 1. Define the Problem
   1.1 Problem Definition
   1.2 Validation
