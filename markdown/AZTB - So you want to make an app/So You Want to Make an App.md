@@ -3,9 +3,9 @@
 (images for all of these)
 
 1. Intro
-1. What App Do You Want to Make?
 2. Who do You Want to Make it For?
-3. How Do You Make Your App?
+3. What App Do You Want to Make?
+4. How Do You Make Your App?
 
 1. Define the Problem
   1.1 Problem Definition
@@ -26,7 +26,16 @@
 
 ---
 
-Congratulations on deciding to build an app. You are not alone, in fact [x%]() of top brands now have mobile apps, and they are finding an increase in user engagement by [x](). While there are many relative reasons companies and individuals decide to build an app to solve a design problem, some of the more common ones are [x](), [x](), and [x](). So what is the process in building an app and what can you expect?
+Congratulations on deciding to build an app. You are not alone, in fact [x%]() of top brands now have mobile apps, and they are finding an increase in user engagement by [x](). While there are many relative reasons companies and individuals decide to build an app to solve a design problem, some of the more common ones are [x](), [x](), and [x](). SEGWAY
+
+## Who Is Your App For?
+
+## What App Will You Make?
+
+What problem are you solving?
+Is the problem you are solving shared by others?
+What will your app do differently than similar apps?
+
 
 
 
