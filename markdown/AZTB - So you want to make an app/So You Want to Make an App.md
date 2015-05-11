@@ -30,11 +30,16 @@ Congratulations on deciding to build an app. You are not alone, in fact [x%]() o
 
 ## Who Is Your App For?
 
-## What App Will You Make?
+This is the most important question you will answer. The answers to this question will determine the foundation from which everyone working on your app will build from, from design to development to marketing. What problems are you solving for your target users?
 
-What problem are you solving?
-Is the problem you are solving shared by others?
-What will your app do differently than similar apps?
+### Do You Understand Your Audience?
+Self interest, needs, and social identification precede motivation. Understand the person, their lifestyles, behaviors, and attitudes. Research your target audience. What motivates them psychologically? What are their values? Where are they located? What do they expect at different times during the day? Are they interested in bettering themselves?
+
+## What App Will You Make?
+How will your app fill your users' needs in ways that your competitors don't? What platforms are your users engaging with? Which solutions will you use from the hundreds and thousands of concept sketches, wireframes, user-flows and mockups you create? What are the most important features of your app?
+
+## How Will You Make Your App?
+What skills do you bring to the table? What skills do you need to develop? What skill-sets will you need to hire out? How will you measure and analyze success?
 
 
 
