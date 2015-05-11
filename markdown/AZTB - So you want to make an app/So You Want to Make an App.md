@@ -25,8 +25,9 @@
 5. Rinse and Repeat
 
 ---
+(chartsninja)
 
-Congratulations on deciding to build an app. You are not alone, in fact [2.5 million]() mobile apps are now in existence, and those that have web siblings show an increase in user engagement by [300 - 400%](https://blog.newrelic.com/2014/02/11/mobile-apps-mobile-site-engagement/). Apps are everywhere and for everyone.
+Congratulations on deciding to build an app. You are not alone, in fact [2.5 million]() mobile apps are now in existence, and apps can help engage your target audience for up to [400%](https://blog.newrelic.com/2014/02/11/mobile-apps-mobile-site-engagement/) longer than a website alone. Apps are everywhere and for everyone.
 
 ## Who Is Your App For?
 This is the most important question you will answer. The answers to this question will determine the foundation from which everyone working on your app will build from, from design to development to marketing. 
