@@ -28,20 +28,25 @@
 (chartsninja)
 [slide#]
 
-[1] Congratulations on deciding to build an app.
-[2] You are not alone, in fact [2.5 million]() mobile apps are now in existence, and apps can help [3] engage your target audience for up to [400%](https://blog.newrelic.com/2014/02/11/mobile-apps-mobile-site-engagement/) longer than a website alone. Apps are everywhere and for everyone.
-
-[4] ## Who Is Your App For?
-This is the most important question you will answer. The answers to this question will determine the foundation from which everyone working on your app will build from, from design to development to marketing. 
-
-### Do You Understand Your Audience?
-Self interest, needs, and social identification precede motivation. Understand the person, their lifestyles, behaviors, and attitudes. Research your target audience. What motivates them psychologically? What are their values? Where are they located? What do they expect at different times during the day? What problems are you solving for your target users?
-
-## What App Will You Make?
-How will your app fill your users' needs in ways that your competitors don't? What platforms are your users engaging with? Which solutions will you use from the hundreds and thousands of concept sketches, wireframes, user-flows and mockups you create? What are the most important features of your app?
-
-## How Will You Make Your App?
-What skills do you bring to the table? What skills do you need to develop? What skill-sets will you need to hire out? How will you measure and analyze success?
+* **[1]** Congratulations on deciding to build an app.
+* **[2]** You are not alone, in fact [2.5 million]() mobile apps are now in existence
+* **[3]** They can engage your target audience for up to [400%](https://blog.newrelic.com/2014/02/11/mobile-apps-mobile-site-engagement/) longer than a website alone. 
+* **[4]** ## Who Is Your App For?  
+* **[5]** This is important. Do research don't guess.
+* **[6]** Everything is based on knowing this. User centered design.
+* **[7]** ### Do You Understand Your Audience?  
+    * What are there needs?
+    * What are there attitudes?
+    * What motivates them psychologically?
+    * What are there values?
+    * What do they expect at different times of the day?
+* **[8]** Your audience faces more distractions now than they ever have. If you aren't in tune with your users, how will you solve their needs? [quote from eric](http://techcrunch.com/2010/08/04/schmidt-data/)
+    * [Your attention span is shorter than that of a goldfish](http://www.nydailynews.com/life-style/health/human-attention-span-shorter-goldfish-study-article-1.2223541)
+* **[9]** ## What App Will You Make?
+    * Identify the users needs through research (decide on platforms)
+* **[10]** Prototype and test your concepts
+* **[11]** Develop the most important, limited feature set.
+* **[12]** Iterate. Lather, rinse, repeat.
 
 ---
 
