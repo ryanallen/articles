@@ -14,13 +14,6 @@ Part of being smarter is staying updated on the latest industry trends and news.
 
 ----------
 
-##To Belong
-[We are social creatures](www.google.com) but not all of us do well in social situations. Online communities can give users the ability to try out different identities and personas and get a feeling for who they really are. Online communities can provide one of the basic human needs, the need to belong.
-###It helps to define the user's identity
-When we are younger we don't yet know who we really are. Many people can go most of their lives without really knowing who they are. Self-actualization is a constant search as our ideas of self are always changing. By being part of a community users can take experiences and advice from members of that community and relate them to their own ideas about self.
-###The whole is stronger than the sum of its parts
-[RESEARCH](www.google.com)
-
 ##It is Useful
 The utilitarian experience of a site can be one of the most powerful for users who are interested in doing things themselves. Many of the users interested in learning new things will find utilitarian content extremely valuable as it can teach them to stay productive and do things correctly.
 
@@ -39,7 +32,20 @@ When you do great work you feel great. Being inspired to create something better
 
 ----------
 
+##To Belong
+[We are social creatures](www.google.com) but not all of us do well in social situations. Online communities can give users the ability to try out different identities and personas and get a feeling for who they really are. Online communities can provide one of the basic human needs, the need to belong.
+###It helps to define the user's identity
+When we are younger we don't yet know who we really are. Many people can go most of their lives without really knowing who they are. Self-actualization is a constant search as our ideas of self are always changing. By being part of a community users can take experiences and advice from members of that community and relate them to their own ideas about self.
+###The whole is stronger than the sum of its parts
+[RESEARCH](www.google.com)
+
+----------
+
 ##To Waste Time
-###It helps me unwind
-###It is a reward
-###It entertains me
+Sometimes users just need a break. Learning new and useful things, being inspired and interacting with others can take a lot of brain power. It is nice to be rewarded with a bit of entertainment every now and then, and if your users are looking for this experience on your site there are many ways you can design your content to accomodate those needs.
+
+###Media Types
+Reading relevant and interesting content is a great way to consume the content, but it is not the easiest or quickest way to do it. If your users have limited time (most of them do) or are looking to be passivly entertained, you should consider designing your content in ways other than just text.
+* Video
+* Images
+* Audio
