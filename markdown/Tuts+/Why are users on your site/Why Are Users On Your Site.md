@@ -22,13 +22,22 @@ When we are younger we don't yet know who we really are. Many people can go most
 [RESEARCH](www.google.com)
 
 ##It is Useful
-###It helps me stay productive
-###It helps me do things correctly
+The utilitarian experience of a site can be one of the most powerful for users who are interested in doing things themselves. Many of the users interested in learning new things will find utilitarian content extremely valuable as it can teach them to stay productive and do things correctly.
+
+When your site is useful for your users you will have them coming back again and again to explore and use your content. By designing your site to make it easy to navigate and use for repeat users you will be doing these users a great service.
+
+----------
 
 ##Inspiration
-###It helps me be creative
-###It makes me feel good
+As a designer you are no doubt aware of the difficulty of being creative. Some days are easier than others, but even on those days learning and being inspired from those who have come before you is an incredibley powerful force. Sites like pinterest, envato, and behance give users the tools to create beautiful, useful, and efficient designs that enhance and push the boundaries of the work we do as designers.
+###Creativity
+[RESEARCH](www.google.com)
 ###It pushes me to be better
+One of the reasons many designers like working with great teams is the effect each designer has on each other. By working with talented teams we each push the other to be better, and they in turn push us back.
+###It makes me feel good
+When you do great work you feel great. Being inspired to create something better than you thought possible is one of the greatest joys of being a designer.
+
+----------
 
 ##To Waste Time
 ###It helps me unwind
