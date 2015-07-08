@@ -1,6 +1,12 @@
 #Why Are Users On Your Site
 Users are on your site to experience and engage with your content. Engagement happens when the user is turned on to your brand's ideas which are enhanced by the content that surrounds it.
 
+How these tips help you as a designer:
+What are you designing?
+Who are you designing for?
+
+----------
+
 ##To Become Smarter
 The first reason users are on your site is to learn. There can be many reasons why a user wants to learn more about the content you are teaching them from the need and desire to perform better at work to the simple joy of learning.
 
@@ -49,3 +55,7 @@ Reading relevant and interesting content is a great way to consume the content, 
 * Video
 * Images
 * Audio
+
+----------
+
+##Summary
