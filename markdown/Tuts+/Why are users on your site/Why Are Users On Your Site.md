@@ -16,11 +16,10 @@ Part of being smarter is staying updated on the latest industry trends and news.
 
 ##To Belong
 [We are social creatures](www.google.com) but not all of us do well in social situations. Online communities can give users the ability to try out different identities and personas and get a feeling for who they really are. Online communities can provide one of the basic human needs, the need to belong.
-###To be a better member of a community
-###The whole is stronger than the sum of its parts
 ###It helps to define the user's identity
-###It allows users to be social and share experiences
-[SHARED EXPERIENCES](www.google.com)
+When we are younger we don't yet know who we really are. Many people can go most of their lives without really knowing who they are. Self-actualization is a constant search as our ideas of self are always changing. By being part of a community users can take experiences and advice from members of that community and relate them to their own ideas about self.
+###The whole is stronger than the sum of its parts
+[RESEARCH](www.google.com)
 
 ##It is Useful
 ###It helps me stay productive
