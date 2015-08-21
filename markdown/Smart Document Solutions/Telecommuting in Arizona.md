@@ -9,7 +9,7 @@ Some businesses around town welcome coworkers with open arms as well as the many
 
 [HIVE Downtown – Phoenix Burton Barr Library](http://www.phoenixpubliclibrary.org/hive)
 [1221 N Central Ave, Phoenix, AZ  ](https://goo.gl/maps/bw8s6)
-The HIVE is located on the 2nd floor of the Burton Barr – downtown library. The HIVE has a conference room section, a seminar section and also a private room. The Staff at the HIVE often host and put on many different events and seminars weekly. This is also (like all of the locations in this list) a great place to network especially before or after any of their entrepreneurial events. I’ve had the pleasure of presenting in this space on the Periscope app. 
+The HIVE is located on the second floor of the Burton Barr – downtown library. The HIVE has a conference room section, a seminar section and also a private room. The Staff at the HIVE often host and put on many different events and seminars weekly. This is also (like all of the locations in this list) a great place to network especially before or after any of their entrepreneurial events. I’ve had the pleasure of presenting in this space on the Periscope app. 
 
 Eureka Loft – Scottsdale Civic Center Library (http://www.scottsdalelibrary.org/eurekaloft)
 
