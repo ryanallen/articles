@@ -9,36 +9,37 @@ Some businesses around town welcome coworkers with open arms as well as the many
 
 [HIVE Downtown – Phoenix Burton Barr Library](http://www.phoenixpubliclibrary.org/hive)
 [1221 N Central Ave, Phoenix, AZ  ](https://goo.gl/maps/bw8s6)
-The HIVE is located on the second floor of the Burton Barr – downtown library. The HIVE has a conference room section, a seminar section and also a private room. The Staff at the HIVE often host and put on many different events and seminars weekly. This is also (like all of the locations in this list) a great place to network especially before or after any of their entrepreneurial events. I’ve had the pleasure of presenting in this space on the Periscope app. 
+The HIVE is located on the second floor of the Burton Barr – downtown library. The HIVE has a conference room section, a seminar section and also a private room. The staff at the HIVE host and put on many different events and seminars every week. This is also (like all of the locations in this list) a great place to network, especially before or after any of their entrepreneurial events. I've had the pleasure of presenting in this space on the Periscope app and I was surprised at how receptive and engaged the audience was. It really is a great place to work and network.
 
-Eureka Loft – Scottsdale Civic Center Library (http://www.scottsdalelibrary.org/eurekaloft)
+[Eureka Loft – Scottsdale Civic Center Library ](http://www.scottsdalelibrary.org/eurekaloft)
+[3839 North Drinkwater Boulevard, Scottsdale, AZ 85251](https://goo.gl/maps/gjaZK)
 
-The Eureka Loft is the City of Scottsdale’s entrepreneurial center. It is on the same floor as the City of Scottsdale’s Economic Development department. What makes this center a little different is its access to audio video equipment and regular training. I’ve also had the pleasure of presenting here on the same subject (Periscope app). 
+The Eureka Loft is the City of Scottsdale’s entrepreneurial center. It is on the same floor as the City of Scottsdale's Economic Development department. What makes this center a little different is its access to audio video equipment and regular training. I've also had the pleasure of presenting here on the same subject (Periscope app) and was very impressed with how intelligent, helpful, and friendly the staff was. Eureka is a great place to work if you prefer less distractions as it doesn't get as much traffic as the Phoenix Burton Barr Library and the people that do use the facility are very respectful and quiet. If you are in the area on September 4th, [Ryan](http://www.azsmartoffice.com/articles/?author=550093c4e4b05464fc84667b) will be speaking at [Eureka on how to build mobile apps](http://www.meetup.com/Eureka-Scottsdale/).
 
 
-Thinkspot MESA – Mesa Library
-(http://www.mesathinkspot.org/) 
-635 N Power Rd, Mesa, AZ 85205
-ThinkSPOT is the Mesa Library system’s entry into the entrepreneurial co-working space. What sets this center apart from its sister centers across the valley is the fact that they are highly focused as both a makerspace and an audio/video production resource. They have all the equipment one would need to do a high level podcast and/or vlog but the resources are available on a first come, first serve basis. I will be presenting on (you guessed it) Periscope at this facility on Thursday, August 20th at 5:30pm. Feel free to stop by if you’d like to learn more about the app or at least meet in person. 
+[Thinkspot MESA – Mesa Library](http://www.mesathinkspot.org/)
+[635 N Power Rd, Mesa, AZ 85205](https://goo.gl/maps/Ak68q)
 
-Buckeye – Entrepreneurial Center
-(http://growbuckeye.com/543/) 
- 21699 W Yuma Rd #116, Buckeye, AZ 85326  The Buckeye Entrepreneurial Center is by far the newest entrepreneurial center here in the valley however, this by no means, downplays the center’s . This facility boasts both a conference room and a larger meeting room. I had the pleasure of attending their grand opening in June and I hope to present at their facility in the near future. 
+ThinkSPOT is the Mesa Library's entry into the entrepreneurial co-working space. What sets this center apart from its sister centers across the valley is the fact that they are highly focused as both a maker-space and an audio/video production resource. They have all the equipment one would need to do a high level podcast and/or vlog. 
 
-Goodyear – Innovation Hub
- (http://develop.goodyearaz.com/business-assistance/the-innovationhub-goodyearaz) 
-190 North Litchfield Road, Goodyear, AZ 85338
+[Buckeye – Entrepreneurial Center](http://growbuckeye.com/543/)
+[21699 W Yuma Rd #116, Buckeye, AZ 85326](https://goo.gl/maps/ZDO3z)
 
-This is likely the second youngest of the library-based entrepreneurial centers around town. This facility – Innovation Hub – is a little smaller than others but includes a large training room, a smaller boardroom with whiteboards and a small office that can be reserved from time to time. I will be presenting on Periscope at this facility on Saturday – August 15th at 2:30pm. 
+The Buckeye Entrepreneurial Center is by far the newest entrepreneurial center here in the valley. This facility boasts both a conference room and a larger meeting room. I had the pleasure of attending their grand opening in June and I hope to present at their facility in the near future.
 
-Gangplank Chandler 
-(http://gangplankhq.com/)  260 S Arizona Ave, Chandler, AZ 85225
+[Goodyear – Innovation Hub](http://develop.goodyearaz.com/business-assistance/the-innovationhub-goodyearaz )
+[190 North Litchfield Road, Goodyear, AZ 85338](https://goo.gl/maps/v4otn)
 
-Gangplank is such a great ide in my opinion. It brings together the cost-effectiveness (i.e., FREE) that one of the library entrepreneurial centers offers while combining the collaborative element that you see at most paid co-working spaces. The basic idea that Gangplank offers is that you can have a space to work, for free but once you’ve seen enough benefit you are expected to give back. 
+This is likely the second youngest of the library-based entrepreneurial centers around town. This facility – Innovation Hub – is a little smaller than others but includes a large training room, a smaller boardroom with white boards and a small office that can be reserved from time to time.
 
-Gangplank Avondale 
-(http://gangplankhq.com/avondale/)
-525 N. Central, Avondale, AZ 85323
+[Gangplank Chandler](http://gangplankhq.com/)
+[260 S Arizona Ave, Chandler, AZ 85225](https://goo.gl/maps/2puwn)
+
+Gangplank is such a great idea in my opinion. It brings together the cost-effectiveness (i.e., FREE) that one of the library entrepreneurial centers offers while combining the collaborative element that you see at most paid co-working spaces. The basic idea that Gangplank offers is that you can have a space to work, for free but once you've seen enough benefit you are expected to give back in social capital. Giving back means presenting to the group on a topic you are knowledgable about, helping other people with their projects, and being a resource for the community. They have every toy and resource you can imagine (3d printers, redbull vending machines, fully stocked kitchen, etc) and best of all they are free. They don't even have an option for you to give them money thanks to [funding from the City of Chandler](http://www.azcentral.com/story/news/local/chandler/2014/11/19/gangplank-chandler-collaborative-working-space/19280949/).
+
+[Gangplank Avondale](http://gangplankhq.com/avondale/
+)
+[525 N. Central, Avondale, AZ 85323](https://goo.gl/maps/8L2bk)
 
 This is simply the West side outpost for the Gangplank brand. A little less busy than the Chandler location but, I believe hat has everything to do with the fact that those in the west valley aren’t even aware it exists. You are now armed with the knowledge – if you’re in the west valley and want to check out a co-working space you should absolutely drop by Gangplank Avondale. 
 
