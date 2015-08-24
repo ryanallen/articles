@@ -10,9 +10,8 @@ Edit for images
 
 1. The Problem  
 	1.1 Recognize the Problem
-	1.2 What is the Real Problem
-	1.3 The Five Whys
-	1.4 Problem Definition
+	1.2 The Five Whys
+	1.3 Problem Definition Redefined
 
 
 2. User Needs
@@ -31,29 +30,31 @@ If you identify the problem as the existence of the river what are your options 
 
 The solution to the problem of there not being a way to cross the river (instead of the existence of the river) could be to build a boat, or a bridge. By recognizing what the actual problem is we as designers are able to design and build a solution to that problem. So how do you effectively recognize the problem?
 
-First we start with the perceived problem. This is about the UX design process for a mobile app, so we aren't going to use the example of the river. Instead we will use an example of a problem I find myself constantly experiencing, one that I want to solve. It is a problem that [every designer (and other professionals) experiences](https://vimeo.com/85040589), to some degree, whether they are industry veterans or newbies. The problem of not being good enough for the project they are working on.
+First we start with the perceived problem. This is about the UX design process for a mobile app, so we aren't going to use the example of the river. Instead we will use an example of a problem I find myself constantly experiencing that I would like to find a solution for. The problem is a lack of mental focus. 
+
+**Problem Definition:**
+*It is difficult to focus on my current task.*
+
+The problem of lacking mental focus appears too general to design an app around. We could design an app that is a todo list to help focus on our current task for example. The problem here is we aren't tackling the root of the problem, which we haven't identified yet. Why would I be able to focus and commit on using a todo list app if I can't focus on the task itself? What is the root of my inability to focus? A todo list might address things like forgetfulness or prioritizing, but it is dependent on me having the discipline and focus of managing the todo list. So how can we quickly identify the root of the problem?
 
 ---
 
-##What is The Real Problem
+##The Five Whys Technique
 
-Try to think of some ideas on how you would solve the problem of not being the best designer that you can be. I'm guessing you can come up with a dozen solutions to that problem, as it is very broad. There are a so many things I could do to be a better designer:
+> For Want of a Nail  
+> For want of a nail the shoe is lost;  
+> For want of a shoe the horse is lost; For want of a horse the rider is lost; For want of a rider the battle is lost;  
+> For want of a battle the kingdom is lost; And all for the want of a horseshoe nail.  
+> — [George Herbert](https://en.wikipedia.org/wiki/George_Herbert)
 
-	- Become better at listening
-	- Practice a growth mindset
-	- Draw more
-	- More education
-	- Find a mentor
-	- Become a mentor
-	- Work on more projects
-	- Work on less projects (maybe I'm too stressed)
+The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique used to explore the cause-and-effect relationships underlying a particular problem to help you find the root cause of that problem. There are three things to keep in mind when using this technique: https://www.google.com/search?client=safari&rls=en&q=the+five+why+methodology&ie=UTF-8&oe=UTF-8
 
-Are these solutions to the problem of my perception of my design ability, or is there something deeper than me wanting to be better at my job? Fortunately there is a fun method to analyze my perceived problem in an attempt to find the root of it as well as a way to decide on the best problem to try to tackle to solve the real problem. That is the five why methodology.
+- Accurate and complete statements of problems
+- Complete honesty in answering the questions
+- The determination to get to the bottom of problems and resolve them
 
----
+Start with the problem statement.
 
-##The Five Whys and Hows
-The five whys is an iterative question-asking technique used to explore the cause-and-effect relationships underlying a particular problem. https://www.google.com/search?client=safari&rls=en&q=the+five+why+methodology&ie=UTF-8&oe=UTF-8
 
 Why is broader
 How is more focused
