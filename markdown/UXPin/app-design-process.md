@@ -15,6 +15,7 @@ Edit for images
 
 
 2. User Needs
+	2.1 Interviews - http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html
 3. Concept Exploration
 4. Prototyping
 5. Visual Design
@@ -30,42 +31,52 @@ If you identify the problem as the existence of the river what are your options 
 
 The solution to the problem of there not being a way to cross the river (instead of the existence of the river) could be to build a boat, or a bridge. By recognizing what the actual problem is we as designers are able to design and build a solution to that problem. So how do you effectively recognize the problem?
 
-First we start with the perceived problem. This is about the UX design process for a mobile app, so we aren't going to use the example of the river. Instead we will use an example of a problem I find myself constantly experiencing that I would like to find a solution for. The problem is a lack of mental focus. 
+First we start with the perceived problem. This is about the UX design process for a mobile app, so we aren't going to use the example of the river. Instead we will use an example of a problem I find myself constantly experiencing that I would like to find a solution for. The problem is a feeling of too much stress.
 
-**Problem Definition:**
-*It is difficult to focus on my current task.*
+**Original Problem:**
+*I have too much stress.*
 
-The problem of lacking mental focus appears too general to design an app around. We could design an app that is a todo list to help focus on our current task for example. The problem here is we aren't tackling the root of the problem, which we haven't identified yet. Why would I be able to focus and commit on using a todo list app if I can't focus on the task itself? What is the root of my inability to focus? A todo list might address things like forgetfulness or prioritizing, but it is dependent on me having the discipline and focus of managing the todo list. So how can we quickly identify the root of the problem?
+The problem of having too much stress is too general to design a solution around. How many different ways can you think of to manage stress? Maybe you take a cigarette break, or listen to music, or maybe you can't even recognize when you are stressed and have no way of dealing with it. How many of these solutions would work for other people in your target audience? It is important to discover the root of the problem, and to do that we can use a simple technique known as the Five Whys Technique.
 
 ---
 
 ##The Five Whys Technique
+https://www.google.com/search?client=safari&rls=en&q=the+five+why+methodology&ie=UTF-8&oe=UTF-8
 
 > For Want of a Nail  
 > For want of a nail the shoe is lost;  
-> For want of a shoe the horse is lost; For want of a horse the rider is lost; For want of a rider the battle is lost;  
-> For want of a battle the kingdom is lost; And all for the want of a horseshoe nail.  
+> For want of a shoe the horse is lost;  
+> For want of a horse the rider is lost;  
+> For want of a rider the battle is lost;    
+> For want of a battle the kingdom is lost;  
+> And all for the want of a horseshoe nail.  
 > — [George Herbert](https://en.wikipedia.org/wiki/George_Herbert)
 
-The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique used to explore the cause-and-effect relationships underlying a particular problem to help you find the root cause of that problem. There are three things to keep in mind when using this technique: https://www.google.com/search?client=safari&rls=en&q=the+five+why+methodology&ie=UTF-8&oe=UTF-8
+The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique used to explore the cause-and-effect relationships underlying a particular problem to help you find the root cause of that problem. To use [this technique](http://www.shmula.com/jeff-bezos-5-why-exercise-root-cause-analysis-cause-and-effect-ishikawa-lean-thinking-six-sigma/987/) we first start with our original problem:
 
-- Accurate and complete statements of problems
-- Complete honesty in answering the questions
-- The determination to get to the bottom of problems and resolve them
+***I have too much stress.***
 
-Start with the problem statement.
+Now it is time to start asking and answering the *whys*.
 
+**Why am I so stressed?**  
+*I am so stressed because I have too many stressful thoughts.*
+**Why do I have so many stressful thoughts?**
+*...because I am unable to remove distracting thoughts.*
+**Why am I unable to remove distracting thoughts?**
+*...because I am unable to identify distracting thoughts.*
+**Why am I unable to identify distracting thoughts?**
+*...because I am not aware of how thoughts arise in my mind.*
+**Why am I not aware of how my thoughts arise in my mind?**
+*...because I do not understand my mind.*
 
-Why is broader
-How is more focused
-
-This forces the designer to focus on what level of abstraction is most appropriate for solving this problem.
-
-Reasons to be more general:
-It opens up more opportunities to explore.
-If you are too general you will not have the resources to make a measurable difference for that problem. The key is to make it slightly more general than you are comfortable with, but not so general that you feel you have no way to make a measurable difference.
+And so, the root cause of my stress is my lack of understanding of my own mind, which is something I can learn about and design a process or solution to fix. They key to understanding the root cause of the problem is in identifying a broken process or an alterable behavior.
 
 ---
+
+##Problem Definition
+
+With the knowledge we now have of our real problem, it is time to redefine the problem definition. Originally it was
+
 Interview people with that experience the same problem that you do.
 
 ##The Problem Definition
