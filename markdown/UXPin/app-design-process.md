@@ -90,7 +90,6 @@ So how can I get a better understanding of my mind in an effort to increase my m
 
 Research a process or theory that has to do with my mind like stress, mental focus and happiness.
 
-
 Problem Definition:
 How can I better understand my own mind in an effort to increase my mental focus, reduce my stress and become a happier person.
 
