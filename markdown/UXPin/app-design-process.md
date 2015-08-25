@@ -31,12 +31,12 @@ If you identify the problem as the existence of the river what are your options 
 
 The solution to the problem of there not being a way to cross the river (instead of the existence of the river) could be to build a boat, or a bridge. By recognizing what the actual problem is we as designers are able to design and build a solution to that problem. So how do you effectively recognize the problem?
 
-First we start with the perceived problem. This is about the UX design process for a mobile app, so we aren't going to use the example of the river. Instead we will use an example of a problem I find myself constantly experiencing that I would like to find a solution for. The problem is a feeling of too much stress.
+First we start with the perceived problem. This is about the UX design process for a mobile app, so we aren't going to use the example of the river. Instead we will use an example of a problem I find myself constantly experiencing that I would like to find a solution for. The problem is *a feeling of too much stress and a desire to reduce that stress*.
 
-**Original Problem:**
-*I have too much stress.*
+**Original Problem Definition:**
+*I have too much stress and I would like to reduce that amount.*
 
-The problem of having too much stress is too general to design a solution around. How many different ways can you think of to manage stress? Maybe you take a cigarette break, or listen to music, or maybe you can't even recognize when you are stressed and have no way of dealing with it. How many of these solutions would work for other people in your target audience? It is important to discover the root of the problem, and to do that we can use a simple technique known as the Five Whys Technique.
+The problem of having too much stress and wanting to reduce it is too general to design a solution around. How many different ways can you think of to manage stress? Maybe you take a cigarette break, or listen to music, or maybe you can't even recognize when you are stressed and have no way of dealing with it. How many of these solutions would work for other people in your target audience? It is important to discover the root of the problem, and to do that we can use a simple technique known as the Five Whys Technique.
 
 ---
 
@@ -54,22 +54,45 @@ https://www.google.com/search?client=safari&rls=en&q=the+five+why+methodology&ie
 
 The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique used to explore the cause-and-effect relationships underlying a particular problem to help you find the root cause of that problem. To use [this technique](http://www.shmula.com/jeff-bezos-5-why-exercise-root-cause-analysis-cause-and-effect-ishikawa-lean-thinking-six-sigma/987/) we first start with our original problem:
 
-***I have too much stress.***
+***I have too much stress and I would like to reduce that amount.***
 
 Now it is time to start asking and answering the *whys*.
 
 **Why am I so stressed?**  
 *I am so stressed because I have too many stressful thoughts.*
 **Why do I have so many stressful thoughts?**
-*...because I am unable to remove distracting thoughts.*
-**Why am I unable to remove distracting thoughts?**
-*...because I am unable to identify distracting thoughts.*
-**Why am I unable to identify distracting thoughts?**
+*...because I am unable to remove stressful thoughts.*
+**Why am I unable to remove stressful thoughts?**
+*...because I am unable to identify stressful thoughts.*
+**Why am I unable to identify stressful thoughts?**
 *...because I am not aware of how thoughts arise in my mind.*
 **Why am I not aware of how my thoughts arise in my mind?**
 *...because I do not understand my mind.*
 
-And so, the root cause of my stress is my lack of understanding of my own mind, which is something I can learn about and design a process or solution to fix. They key to understanding the root cause of the problem is in identifying a broken process or an alterable behavior.
+
+And so, the root cause of my stress is my lack of understanding of my own mind, which is something I can learn about and design a process or solution to fix. They key to understanding the root cause of the problem is in identifying a broken process or an alterable behavior. 
+
+How do I increase my mental focus, reduce my stress, and become a happier person?
+
+Get a better understanding of my mind and how it works.
+Research and develop a process to assist in [the motive to realize one's full potential](https://en.wikipedia.org/wiki/Self-actualization).
+Practice meditation
+Discover religion
+A financial plan that would afford me to see a psychotherapist.
+Learn more about psychology
+LSD Induced Shock Therapy
+Just LSD no Shock Therapy
+
+A few of these things can be designed into an app.
+
+So how can I get a better understanding of my mind in an effort to increase my mental focus, reduce my stress and become a happier person?
+
+
+Research a process or theory that has to do with my mind like stress, mental focus and happiness.
+
+
+Problem Definition:
+How can I better understand my own mind in an effort to increase my mental focus, reduce my stress and become a happier person.
 
 ---
 
