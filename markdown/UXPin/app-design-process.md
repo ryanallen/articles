@@ -1,7 +1,10 @@
 Process:
 
 1. Write + Research
-2. Edit for clarity + consistent use of words and tense, use action words etc. Edit for section headings and evolve outline
+2. Edit for clarity
+	2.1 consistent use of words and tense
+	2.2 use action words
+	2.3 Edit for section headings and evolve outline
 3. Edit for links
 4. Edit for humor
 5. Edit for images
