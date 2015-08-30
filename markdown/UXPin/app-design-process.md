@@ -14,12 +14,12 @@ Process:
 #From Idea to App in 16 Steps
 1. Recognize the Problem with 5 Whys  
 2. Determine Your Target Audience  
-3. Identify your target audiences' needs with interviews and surveys  
-4. Explore Solutions with Concept Sketches  
+3. Identify your target audiences' needs with interviews and surveys (this is great because it also identifies specific individuals who will test your app)  
+4. Explore Solutions with Concept Sketches and storyboards
 5. Select the Best Solutions with a Concept Selection Matrix  
 6. Mockups  
 7. Stakeholder Validation  
-8. Lo-fi Prototypes with Design Iterations  
+8. Lo-fi Prototypes aka Wireframes
 9. User Testing with lo-fi prototypes  
    (users includes stakeholders)  
 10. Hi-fi Prototypes with Design Iterations  
