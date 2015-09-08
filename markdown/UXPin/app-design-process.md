@@ -63,11 +63,27 @@ Now that we have perceived a problem we can define it in a [problem definition](
 
 ##Perceiving the Problem
 
-WRITE SOMETHING HERE ABOUT A DESIGN PROBLEM IN AN APP WHERE USERS ARENT READING AT NIGHT BECAUSE THE SCREEN IS TOO BRIGHT. SOLUTION IS TO MAKE IT BLACK. LIKE YOUR HEART.
+[My partners](http://dappergentlemen.com/team) and [I](http://twitter.com/ryanallen_com) love making apps, but not every client needs an app designed and built. We get a lot of clients that come to us with the same problem, or at least, the same perceived problem.
+
+"I'm not making any money on my website" they say.
+"Why aren't you making money on your site" we ask.
+"The company that did our site last time didn't use wordpress" they say not at all jokingly as the corner of my mouth twitches and my left eye seizes shut.
+
+This is such a standard email that we have a response saved so we don't have to type it out anymore.
+
+Why am I not making any money on my website?
+Because not enough people are buying products on my website.
+Why are not enough people buying products on my website?
+Because I'm not converting users into sales.
+Why am I not converting users into sales? Ahhh.. why indeed?
+
+Do I understand my target market? Am I attracting the right users? Am I losing users at checkout? When do users drop out of the funnel? Am I remarketing? Are you marketing your site? Where do you promote your site? Where do most of your users come from? How long are users on your site for?
+
+I won't bore you with the rest of the email, but the point is that most people don't know where to begin solving the problem, because they don't really understand the problem. By understanding the problem we can begin to do some research and design a solution. So what was our perceived problem for this app we are going to design?
 
 **I have too much stress.**
 
-The problem of having too much stress and wanting to reduce it is probably too general to design a solution around. How many [different ways can you think of to manage stress](http://www.webmd.com/balance/guide/tips-to-control-stress)? 
+Oh yeah. Well, the problem of having too much stress and wanting to reduce it is probably too general to design a solution around. How many [different ways can you think of to manage stress](http://www.webmd.com/balance/guide/tips-to-control-stress)? 
 
 ###Symptom
 A few different ways to deal with stress might be to have a glass of wine at night, or a bottle, or listen to music, or watch TV. Maybe you know someone who has huge [meltdowns](http://giphy.com/gifs/b7nugvA2NwPbW) and [throws tantrums](http://giphy.com/gifs/12BQVyMqxgVNvy) as a way of *letting off steam*. Maybe you sit in a quiet place and breathe deeply and try to figure out what is causing you to feel stressed. Many people don't even recognize that they are stressed, which means it's not easy to recognize what is causing it. Is having too much stress really our problem, or is it just a symptom of a much deeper problem? In order to solve the perceived problem of having too much stress, we need to think about the problem to determine if it is a root cause or merely a symptom of something [deeper](http://zoomquilt.org).
