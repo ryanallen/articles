@@ -40,10 +40,11 @@ Process:
 
 
 2. Research
-	2.1 Identify the Target Audience
-	2.2 Identify your target audiences' needs
-		2.2.1 Interviews
-		2.2.2 Surveys
+	2.1 Identify the User + Target Audience
+	2.2 Competitive Analysis
+	2.3 Identify your target audiences' needs
+		2.3.1 Interviews
+		2.3.2 Surveys
 3. Concept Exploration
 4. Prototyping
 5. Visual Design
@@ -56,11 +57,14 @@ Process:
 > The first step in solving a problem is to recognize that it does exist.
 > - Zig Ziglar
 
-Design is the process of planning a way to produce an [artifact](http://programmers.stackexchange.com/questions/106473/what-does-artifact-mean) to solve a gap in the [user experience](https://en.wikipedia.org/wiki/User_experience_design). The first step in the UX design process is to recognize that there is [a gap](https://vimeo.com/85040589), or problem, for which you can design a solution. That means we need to start with a problem. A problem I often experience (and imagine many other's also experience) is that *I have [too much stress](http://www.apa.org/monitor/2011/01/stressed-america.aspx)*. I did some quick and dirty research by calling up a dozen friends and asking if it was a problem they felt they also had. Nine of the twelve people interviewed said they experience the same problem. I suspect three of those twelve people are super-secret Zen monks whose identities have been changed to protect them from the forces of evil the government sometimes hires them to combat. Their base of operations is probably at the bottom of the ocean, or [inside a volcano](http://tvtropes.org/pmwiki/pmwiki.php/Main/VolcanoLair). Is the feeling of too much stress a problem that you experience? Let me know in [this simple yes / no survey](CREATE A SURVEY DERP DE DERP).
+Design is the process of planning a way to produce an [artifact](http://programmers.stackexchange.com/questions/106473/what-does-artifact-mean) to solve a gap in the [user experience](https://en.wikipedia.org/wiki/User_experience_design). The first step in the UX design process is to recognize that there is [a gap](https://vimeo.com/85040589), or problem, for which you can design a solution. That means we need to start with a problem. A problem I often experience (and imagine many other's also experience) is that *I have [too much stress](http://www.apa.org/monitor/2011/01/stressed-america.aspx)*. I did some quick and dirty research by calling up a dozen friends and asking if it was a problem they felt they also had. Nine out of the 12 people interviewed said they experience the same problem. I suspect three of those 12 people are super-secret Zen monks whose identities have been changed to protect them from the forces of evil the government sometimes hires them to combat. Their base of operations is probably at the bottom of the ocean, or [inside a volcano](http://tvtropes.org/pmwiki/pmwiki.php/Main/VolcanoLair). Is the feeling of too much stress a problem that you experience? Let me know in [this simple yes / no survey](CREATE A SURVEY DERP DE DERP).
 
 Now that we have perceived a problem we can define it in a [problem definition](https://en.wikipedia.org/wiki/Problem_statement). A **problem definition** is a *statement that captures the scope of the problem we are trying to solve*.
 
 ##Perceiving the Problem
+
+WRITE SOMETHING HERE ABOUT A DESIGN PROBLEM IN AN APP WHERE USERS ARENT READING AT NIGHT BECAUSE THE SCREEN IS TOO BRIGHT. SOLUTION IS TO MAKE IT BLACK. LIKE YOUR HEART.
+
 **I have too much stress.**
 
 The problem of having too much stress and wanting to reduce it is probably too general to design a solution around. How many [different ways can you think of to manage stress](http://www.webmd.com/balance/guide/tips-to-control-stress)? 
@@ -76,15 +80,6 @@ So how do we determine the root cause of our perceived problem? We can use somet
 ---
 
 ##The Five Whys Technique
-
-> For Want of a Nail  
-> For want of a nail the shoe is lost;  
-> For want of a shoe the horse is lost;  
-> For want of a horse the rider is lost;  
-> For want of a rider the battle is lost;    
-> For want of a battle the kingdom is lost;  
-> And all for the want of a horseshoe nail.  
-> — [George Herbert](https://en.wikipedia.org/wiki/George_Herbert)
 
 The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique we will use to explore the [cause and effect](https://en.wikipedia.org/wiki/Cause_and_Effect_(Star_Trek:_The_Next_Generation)) relationships underlying our perceived problem. This will enable us to find the root cause of our perceived problem:
 
