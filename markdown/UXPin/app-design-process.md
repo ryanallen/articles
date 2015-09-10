@@ -1,7 +1,7 @@
 Process:
 
 1. Write + Research
-2. Edit for clarity
+2. Edit for clarity (usually this means reducing word count too)
 	2.1 consistent use of words and tense
 	2.2 use action words
 	2.3 Edit for section headings and evolve outline
