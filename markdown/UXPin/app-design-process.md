@@ -63,23 +63,9 @@ Now that we have perceived a problem we can define it in a [problem definition](
 
 ##Perceiving the Problem
 
-[My partners](http://dappergentlemen.com/team) and [I](http://twitter.com/ryanallen_com) love making apps, but not every client needs an app designed and built. We get a lot of clients that come to us with the same problem, or at least, the same perceived problem.
+[My partners](http://dappergentlemen.com) and [I](http://twitter.com/ryanallen_com) have some of the best jobs ever. We get to design and build mobile apps, web apps and websites for ourselves as well as many amazing clients. Over the years we have seen trends and patterns emerge in what different clients are looking for. Many small businesses that need a website contact us asking if we can solve their problem, which is that their current website isn't a Wordpress website. After we ask them a few questions we usually identify that the real problem is not that their current website isn't a wordpress site, but that it isn't easy to update, or that doesn't appear in any search engine result pages (SERPS), or that it isn't responsive to all the different screen sizes that exist today, or all of these things. By finding the root of the problems they are really experiencing we are able to design solutions that will meet and exceed their expectations.  
 
-"I'm not making any money on my website" they say.
-"Why aren't you making money on your site" we ask.
-"The company that did our site last time didn't use wordpress" they say not at all jokingly as the corner of my mouth twitches and my left eye seizes shut.
-
-This is such a standard email that we have a response saved so we don't have to type it out anymore.
-
-Why am I not making any money on my website?
-Because not enough people are buying products on my website.
-Why are not enough people buying products on my website?
-Because I'm not converting users into sales.
-Why am I not converting users into sales? Ahhh.. why indeed?
-
-Do I understand my target market? Am I attracting the right users? Am I losing users at checkout? When do users drop out of the funnel? Am I remarketing? Are you marketing your site? Where do you promote your site? Where do most of your users come from? How long are users on your site for?
-
-I won't bore you with the rest of the email, but the point is that most people don't know where to begin solving the problem, because they don't really understand the problem. By understanding the problem we can begin to do some research and design a solution. So what was our perceived problem for this app we are going to design?
+Sometimes we are able to give the client enough information that they can build the site themselves. There are lots of great solutions that make doing this easier than ever, and some clients love handling all aspects of their business. Many people don't know where to begin solving their problem because they don't really understand the problem. By understanding the problem we can begin to do some research and design a solution. So what was our perceived problem for this app we are going to design?
 
 **I have too much stress.**
 
