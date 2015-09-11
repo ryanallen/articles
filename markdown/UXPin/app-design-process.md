@@ -109,7 +109,7 @@ Now it is time to start asking and answering the *whys*.
 
 The root cause of our problem has been identified very quickly which we can design a solution for. How do we know what the root cause is? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in identifying a broken process or an alterable behavior. 
 
-In this example our original problem is no longer even relevant. Some of the solutions for better Google rankings are things like [mobile friendly sites](http://dappergentlemen.com/articles/2015/4/2/google-will-penalize-non-mobile-friendly-sites), solid [content strategy](https://en.wikipedia.org/wiki/Content_strategy), and an understanding of who are [target audience](https://en.wikipedia.org/wiki/Target_audience) really is. The platform that hosts these solutions is ultimately irrelevant.
+In this example our original problem is no longer even relevant. Some of the solutions for better Google rankings are things like [mobile friendly sites](http://dappergentlemen.com/articles/2015/4/2/google-will-penalize-non-mobile-friendly-sites), solid [content strategy](https://gathercontent.com/resources/content-strategy-a-guide-for-ux-designers), and an understanding of who are [target audience](https://en.wikipedia.org/wiki/Target_audience) really is. The platform that hosts these solutions is ultimately irrelevant.
 
 What about the problem we want to design a mobile app to fix?
 
