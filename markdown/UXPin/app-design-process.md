@@ -11,6 +11,7 @@ Process:
 6. Bonus edits for perfection if there is time
 
 ---
+
 #From Idea to App in 16 Steps
 1. Recognize the Problem with 5 Whys  
 2. Determine Your Target Audience  
@@ -31,6 +32,7 @@ Process:
 16. Version 1.0
 
 ---
+
 1. The Problem  
 	1.1 Perceiving the Problem
 		1.1.1 Symptoms
