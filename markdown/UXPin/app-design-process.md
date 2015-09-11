@@ -62,7 +62,7 @@ Process:
 > The first step in solving a problem is to recognize that it does exist.
 > - Zig Ziglar
 
-Design is the process of planning a way to produce an [artifact](http://programmers.stackexchange.com/questions/106473/what-does-artifact-mean) to solve a gap in the [user experience](https://en.wikipedia.org/wiki/User_experience_design). The first step in the UX design process is to recognize that there is [a gap](https://vimeo.com/85040589), or problem, for which you can design a solution. That means we need to start with a problem. A problem I often experience (and imagine many other's also experience) is that *I have [too much stress](http://www.apa.org/monitor/2011/01/stressed-america.aspx)*. I did some quick and dirty research by calling up a dozen friends and asking if it was a problem they felt they also had. Nine out of the 12 people interviewed said they experience the same problem. I suspect three of those 12 people are super-secret Zen monks whose identities have been changed to protect them from the forces of evil the government sometimes hires them to combat. Their base of operations is probably at the bottom of the ocean, or [inside a volcano](http://tvtropes.org/pmwiki/pmwiki.php/Main/VolcanoLair). What is your experience with stress? Help me with research on this project by taking [this 5 minute survey](http://goo.gl/forms/WtjuvsIopY).
+Design is the process of planning a way to produce an [artifact](http://programmers.stackexchange.com/questions/106473/what-does-artifact-mean) to solve a gap in the [user experience](https://en.wikipedia.org/wiki/User_experience_design). The first step in the UX design process is to recognize that there is [a gap](https://vimeo.com/85040589), or problem, for which you can design a solution. That means we need to start with a problem. A problem I often experience (and imagine many others also experience) is that *I have [too much stress](http://www.apa.org/monitor/2011/01/stressed-america.aspx)*. I did some quick and dirty research by calling up a dozen friends and asking if it was a problem they felt they also had. Nine out of the 12 people interviewed said they experience the same problem. I suspect three of those 12 people are super-secret Zen monks whose identities have been changed to protect them from the forces of evil the government sometimes hires them to combat. Their base of operations is probably at the bottom of the ocean, or [inside a volcano](http://tvtropes.org/pmwiki/pmwiki.php/Main/VolcanoLair). What is your experience with stress? Help me with research on this project by taking [this 5 minute survey](http://goo.gl/forms/WtjuvsIopY).
 
 Now that we have perceived a problem we can define it in a [problem statement, or definition](https://en.wikipedia.org/wiki/Problem_statement). A **problem definition** is a *statement that captures the scope of the problem we are trying to solve*.
 
@@ -88,15 +88,32 @@ Why is it important to find the [root cause]((https://en.wikipedia.org/wiki/Root
 
 So how do we determine the root cause of our perceived problem? We can use something developed at Toyota during the design of its manufacturing methodologies known as the [Five Whys Technique](https://en.wikipedia.org/wiki/5_Whys).
 
----
-
 ##The Five Whys Technique
 
-The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique we will use to explore the [cause and effect](https://en.wikipedia.org/wiki/Cause_and_Effect_(Star_Trek:_The_Next_Generation)) relationships underlying our perceived problem. This will enable us to find the root cause of our perceived problem:
+The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique we will use to explore the [cause and effect](https://en.wikipedia.org/wiki/Cause_and_Effect_(Star_Trek:_The_Next_Generation)) relationships underlying our perceived problem. This will enable us to find the root cause of our perceived problem. What about the perceived problem of our small business owner:
 
-**I have too much stress.**
+**I need a Wordpress site.**
 
 Now it is time to start asking and answering the *whys*.
+
+**1. Why do I need a Wordpress site?**  
+*...because I need to have a better website. (refined problem)*  
+**2. Why do I need a better website?**  
+*...because my current site isn't good. (refined problem)*  
+**3. Why isn't my current site good?**  
+*...because it doesn't have many visitors. (refined problem)*  
+**4. Why doesn't my current site have many visitors?**  
+*...because my site doesn't rank on Google. (refined problem)*  
+**5. Why doesn't my current site rank on Google?**  
+*...because I don't know what steps to take to get it to rank on Google. (broken process identified)*  
+
+The root cause of our problem has been identified very quickly which we can design a solution for. How do we know what the root cause is? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in identifying a broken process or an alterable behavior. 
+
+In this example our original problem is no longer even relevant. Some of the solutions for better Google rankings are things like [mobile friendly sites](http://dappergentlemen.com/articles/2015/4/2/google-will-penalize-non-mobile-friendly-sites), solid [content strategy](https://en.wikipedia.org/wiki/Content_strategy), and an understanding of who are [target audience](https://en.wikipedia.org/wiki/Target_audience) really is. The platform that hosts these solutions is ultimately irrelevant.
+
+What about the problem we want to design a mobile app to fix?
+
+**I have too much stress.**
 
 **1. Why do I have too much stress?**  
 *...because I have too many stressful thoughts. (refined problem)*
@@ -109,7 +126,7 @@ Now it is time to start asking and answering the *whys*.
 **5. Why do I not have a process to calm my thoughts?**
 *...because I'm not [aware](https://en.wikipedia.org/wiki/Awareness) of myself enough to know I need one. (refined problem)*
 
-And so, the root cause of the perceived problem of having too much stress is not possessing a process to practice calming and focusing our thoughts. How do we know that is the root cause of my stress? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in identifying a broken process or an alterable behavior. In this example, calming my thoughts would lead to less stress, which solves the original problem. We can evolve our problem definition now:
+[Boom](http://media.giphy.com/media/U0GqVamOu9NPa/giphy.gif). The root cause of the perceived problem of having too much stress is not possessing a process to practice calming and focusing our thoughts. In this example, calming my thoughts would lead to less stress, which solves the original problem. We can evolve our problem definition now:
 
 ##Redefining the Problem
 
