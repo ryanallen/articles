@@ -116,15 +116,15 @@ What about the problem we want to design a mobile app to fix?
 **I have too much stress.**
 
 **1. Why do I have too much stress?**  
-*...because I have too many stressful thoughts. (refined problem)*
-**2. Why do I have so many stressful thoughts?**
-*...because I can not calm my thoughts. (refined problem)*
-**3. Why am I unable to calm my thoughts?**
-*...because I don't practice calming my thoughts. (refined problem)*
-**4. Why am I unable to practice calming my thoughts?**
-*...because I don't have a process to calm my thoughts. (broken process identified)*
-**5. Why do I not have a process to calm my thoughts?**
-*...because I'm not [aware](https://en.wikipedia.org/wiki/Awareness) of myself enough to know I need one. (refined problem)*
+*...because I have too many stressful thoughts. (refined problem)*  
+**2. Why do I have so many stressful thoughts?**  
+*...because I can not calm my thoughts. (refined problem)*  
+**3. Why am I unable to calm my thoughts?**  
+*...because I don't practice calming my thoughts. (refined problem)*  
+**4. Why am I unable to practice calming my thoughts?**  
+*...because I don't have a process to calm my thoughts. (broken process identified)*  
+**5. Why do I not have a process to calm my thoughts?**  
+*...because I'm not [aware](https://en.wikipedia.org/wiki/Awareness) of myself enough to know I need one. (refined problem)*  
 
 [Boom](http://media.giphy.com/media/U0GqVamOu9NPa/giphy.gif). The root cause of the perceived problem of having too much stress is not possessing a process to practice calming and focusing our thoughts. In this example, calming my thoughts would lead to less stress, which solves the original problem. We can evolve our problem definition now:
 
