@@ -56,13 +56,12 @@ Process:
 
 #The Problem
 
-> Design is really about solving problems.
-> - UXPin
-
 > The first step in solving a problem is to recognize that it does exist.
 > - Zig Ziglar
 
-Design is the process of planning a way to produce an [artifact](http://programmers.stackexchange.com/questions/106473/what-does-artifact-mean) to solve a gap in the [user experience](https://en.wikipedia.org/wiki/User_experience_design). The first step in the UX design process is to recognize that there is [a gap](https://vimeo.com/85040589), or problem, for which you can design a solution. That means we need to start with a problem. A problem I often experience (and imagine many others also experience) is that *I have [too much stress](http://www.apa.org/monitor/2011/01/stressed-america.aspx)*. I did some quick and dirty research by calling up a dozen friends and asking if it was a problem they felt they also had. Nine out of the 12 people interviewed said they experience the same problem. I suspect three of those 12 people are super-secret Zen monks whose identities have been changed to protect them from the forces of evil the government sometimes hires them to combat. Their base of operations is probably at the bottom of the ocean, or [inside a volcano](http://tvtropes.org/pmwiki/pmwiki.php/Main/VolcanoLair). What is your experience with stress? Help me with research on this project by taking [this 5 minute survey](http://goo.gl/forms/WtjuvsIopY).
+Design is the process of planning a way to produce an [artifact](http://programmers.stackexchange.com/questions/106473/what-does-artifact-mean) to solve a gap in the [user experience](https://en.wikipedia.org/wiki/User_experience_design). The first step in the UX design process is to recognize that there is [a gap](https://vimeo.com/85040589), or problem, for which you can design a solution. That means we need to start with a problem.
+
+Let’s examine an analogy for a minute. A problem I often experience (and imagine many others also experience) is that *I have [too much stress](http://www.apa.org/monitor/2011/01/stressed-america.aspx)*. I did some quick and dirty research by calling up a dozen friends and asking if it was a problem they felt they also had. Nine out of the 12 people interviewed said they experience the same problem. I suspect three of those 12 people are super-secret Zen monks whose identities have been changed to protect them from the forces of evil the government sometimes hires them to combat. Their base of operations is probably at the bottom of the ocean, or [inside a volcano](http://tvtropes.org/pmwiki/pmwiki.php/Main/VolcanoLair). What is your experience with stress? Help me with research on this project by taking [this 5 minute survey](http://goo.gl/forms/WtjuvsIopY).
 
 Now that we have perceived a problem we can define it in a [problem statement, or definition](https://en.wikipedia.org/wiki/Problem_statement). A **problem definition** is a *statement that captures the scope of the problem we are trying to solve*.
 
@@ -113,7 +112,7 @@ In this example our original problem is no longer even relevant. Some of the sol
 
 What about the problem we want to design a mobile app to fix?
 
-**I have too much stress.**
+**I have too much stress.**  
 
 **1. Why do I have too much stress?**  
 *...because I have too many stressful thoughts. (refined problem)*  
