@@ -67,15 +67,13 @@ Now that we have perceived a problem we can define it in a [problem statement, o
 
 ##Perceiving the Problem
 
-[My partners](http://dappergentlemen.com) and [I](http://twitter.com/ryanallen_com) have some of the best jobs. We get to design and build mobile apps, web apps and websites for ourselves as well as our amazing clients. Over the years we have seen trends and patterns emerge in what different clients are looking for. Recently, many small businesses that need a website contact us asking if we can solve their problem, which is that their current website isn't a Wordpress site. After we ask them a few questions we usually identify that the real problem is not that their current website isn't a Wordpress site, but that it isn't easy to update, or that it doesn't appear in any search engine result pages (SERPS), or that it isn't responsive to all the different screen sizes that exist today, or all of these things. The root cause of these problems is that the website isn't bringing in the right users who convert to sales. By finding the root of the perceived problem they are experiencing we are able to design solutions that will meet and exceed their expectations.  
+**NEW EXAMPLE OF A PROBLEM A DESIGNER WOULD SOLVE FOR A USER**
 
-The solution to the problem statement "I don't have a Wordpress site" is simple. You build a Wordpress site. That problem will be solved but new problems will arise. "I don't have a fast loading Wordpress site" for example. 
-
-Many people don't know how to begin solving their problem because they don't take the time to really consider their problem. This is usually true not because the person is lazy, rather they just don't know how to go about thinking about the problem on a deeper abstract level in an effort to understand what is causing it. The design process has to start somewhere though, and that starting point is usually our perceived problem. For many of the small businesses we work with their perceived problem is not having a Wordpress site. What was our perceived problem again?
+Many people don't know how to begin solving their problem because they don't take the time to really consider their problem. This is usually true not because the person is lazy, rather they just don't know how to go about thinking about the problem on a deeper abstract level in an effort to understand what is causing it. The design process has to start somewhere though, and that starting point is usually our perceived problem. **REFRAME THIS WITH NEW EXAMPLE YO! For many of the small businesses we work with their perceived problem is not having a Wordpress site. What was our perceived problem again?**
 
 **I have too much stress.**
 
-Oh yeah. Well, the problem of having too much stress is probably too general to design a solution around, just like the problem of not having a Wordpress site. How many [different ways can you think of to manage stress](http://www.webmd.com/balance/guide/tips-to-control-stress)? Is stress really the problem or is it just a symptom of something deeper?
+Oh yeah. Well, the problem of having too much stress is probably too general to design a solution around, just like the problem of **REFRAME THIS TOO YO not having a Wordpress site.** How many [different ways can you think of to manage stress](http://www.webmd.com/balance/guide/tips-to-control-stress)? Is stress really the problem or is it just a symptom of something deeper?
 
 ###Symptoms
 A symptom is a [subjective](https://en.wikipedia.org/wiki/Qualia) departure from normal function or feeling which is noticed by a user, reflecting the presence of an unusual state or problem, which can not be measured directly. 
@@ -91,6 +89,7 @@ So how do we determine the root cause of our perceived problem? We can use somet
 
 The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique we will use to explore the [cause and effect](https://en.wikipedia.org/wiki/Cause_and_Effect_(Star_Trek:_The_Next_Generation)) relationships underlying our perceived problem. This will enable us to find the root cause of our perceived problem. What about the perceived problem of our small business owner:
 
+**REDO THIS TOO LIKE A BOSS**
 **I need a Wordpress site.**
 
 Now it is time to start asking and answering the *whys*.
