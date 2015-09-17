@@ -93,7 +93,7 @@ Our feeling of too much stress is a subjective departure from our normal functio
 Is having too much stress really our problem? It seems like it is just a symptom of a much deeper problem. In order to solve the perceived problem of having too much stress, we need to think about the problem to determine if it is a root cause or merely a symptom of something [deeper](http://zoomquilt.org).
 
 ###Root Cause
-Why is it important to find the [root cause]((https://en.wikipedia.org/wiki/Root_cause)) of the problem? It's important because solving a symptom isn't a permanent solution. If your [leg hurts](http://giphy.com/gifs/adventure-time-upvote-whatever-PzlRZCKCmTVjq) you could take aspirin to dull the pain, but you will not be fixing the root cause of the pain, and so you will continue to experience the pain which is a symptom of the real problem. If you went to the doctor complaining about the pain and she determined that your leg hurt because you broke a bone, you could address the broken bone, which is the root cause of the pain problem. Be careful not to let your doctor get too abstract in her analysis, you don't want her to determine the root cause of the pain to be your central nervous system. Removing that would probably cause many additional, though interesting, problems.
+Why is it important to find the [root cause]((https://en.wikipedia.org/wiki/Root_cause)) of the problem? It's important because solving a symptom isn't a permanent solution. If your [leg hurts](http://giphy.com/gifs/adventure-time-upvote-whatever-PzlRZCKCmTVjq) you could take aspirin to dull the pain, but you will not be fixing the root cause of the pain, and so you will continue to experience the pain which is a symptom of the real problem. If you went to the doctor complaining about the pain and she determined that your leg hurt because you broke a bone, you could address the broken bone, which is the root cause of the pain problem. Be careful not to let your doctor get too abstract in her analysis, you don't want her to determine the root cause of the pain to be your central nervous system. [Removing that](http://giphy.com/gifs/brain-oh-no-terry-crews-ULHclikJ78DZe) would probably cause many additional, though interesting, problems.
 
 So how do we determine the root cause of our perceived problem? We can use something developed at Toyota during the design of its manufacturing methodologies known as the [Five Whys Technique](https://en.wikipedia.org/wiki/5_Whys).
 
@@ -103,7 +103,7 @@ The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/276
 
 **This is a bad app. Also you could do a better job at listening to me when I'm trying to tal..**
 
-..oh yeah that's right. She couldn't figure out how to use some app. Good think I'm here, I can totally help out! We will start by asking and answering the **Five Whys**.
+..oh yeah that's right. She couldn't figure out how to use some app. Good thing I'm here, I can totally help out! We will start by asking and answering the **Five Whys**.
 
 **1. Why is it a bad app?**  
 *...because it doesn't work the right way. (refined problem)*  
@@ -112,8 +112,8 @@ The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/276
 **3. Why don't you understand where to go?**  
 *...because none of these icons make sense. (refined problem)*  
 **4. Why don't the icons make sense?**
-*...because they don't take me where I think they should. (refined problem).*
-**5. Why don't they take you where you think they should?**
+*...because they don't take me where I think they should. (refined problem).*  
+**5. Why don't they take you where you think they should?**  
 *...because some of them that I think are icons, actually aren't, and the ones that are icons aren't ones I've ever seen before. (alterable behaviors identified)*
 
 The root cause of the first problem has been identified very quickly, which a designer could use to identify what needs reworking in their UI. How can we be sure we have identified a root cause? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in identifying a broken process or an alterable behavior. Sometimes there are more than one you will identify, like in our next example.
