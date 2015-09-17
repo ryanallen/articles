@@ -67,13 +67,16 @@ Now that we have perceived a problem we can define it in a [problem statement, o
 
 ##Perceiving the Problem
 
-**NEW EXAMPLE OF A PROBLEM A DESIGNER WOULD SOLVE FOR A USER**
+[My partners](http://dappergentlemen.com) and [I](http://twitter.com/ryanallen_com) have some of the best jobs. We get to design and build mobile apps, web apps and websites for ourselves as well as our amazing clients. Over the years we have seen some great design solutions on both Apple's iOS and Google's Android platforms, but we have also seen a good amount of problems that are sure to come with such a complex system like an operating system. 
 
-Many people don't know how to begin solving their problem because they don't take the time to really consider their problem. This is usually true not because the person is lazy, rather they just don't know how to go about thinking about the problem on a deeper abstract level in an effort to understand what is causing it. The design process has to start somewhere though, and that starting point is usually our perceived problem. **REFRAME THIS WITH NEW EXAMPLE YO! For many of the small businesses we work with their perceived problem is not having a Wordpress site. What was our perceived problem again?**
+Let's look at an example of problematic design on iOS that has confused almost every user at one point or another, the keyboard's shift / caps lock key. The perceived problem lies in the visual styling of the [shift key](http://www.futureworkshops.com/articles/ios-7-1-shift-key-nightmare.html). It is hard to tell if it is enabled or disabled. A reason it's confusing is because when it is enabled it is styled the same as the letter keys, and when it is disabled it is styled similar to the backspace, emoticon, and number keys. You have to remember what it is supposed to look like, instead of the visual style reminding you what is going on. The perceived problem is that the shift key is confusing. It is a perceived problem that many have designed solutions for ([1](https://dribbble.com/shots/1536013-iOS-8-Shift-Key-Redesign) [2](https://dribbble.com/shots/1695504-Fixing-The-Shift-Key) [3](https://dribbble.com/shots/1499139-iOS-Shift-key)). 
+ 
+
+Many people don't know how to begin solving their problem because they don't take the time to really consider their problem. This is usually true not because the person is lazy, rather they just don't know how to go about thinking about the problem on a deeper abstract level in an effort to understand what is causing it. The design process has to start somewhere though, and that starting point is usually our perceived problem. The perceived problem with the iPhone's keyboard is that the shift key's styling makes it confusing to the user about whether or not it is enabled. What was our perceived problem again?
 
 **I have too much stress.**
 
-Oh yeah. Well, the problem of having too much stress is probably too general to design a solution around, just like the problem of **REFRAME THIS TOO YO not having a Wordpress site.** How many [different ways can you think of to manage stress](http://www.webmd.com/balance/guide/tips-to-control-stress)? Is stress really the problem or is it just a symptom of something deeper?
+Oh yeah. Well, the problem of having too much stress is probably too general to design a solution around. How many [different ways can you think of to manage stress](http://www.webmd.com/balance/guide/tips-to-control-stress)? Is stress really the problem or is it just a symptom of something deeper?
 
 ###Symptoms
 A symptom is a [subjective](https://en.wikipedia.org/wiki/Qualia) departure from normal function or feeling which is noticed by a user, reflecting the presence of an unusual state or problem, which can not be measured directly. 
@@ -87,23 +90,19 @@ So how do we determine the root cause of our perceived problem? We can use somet
 
 ##The Five Whys Technique
 
-The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique we will use to explore the [cause and effect](https://en.wikipedia.org/wiki/Cause_and_Effect_(Star_Trek:_The_Next_Generation)) relationships underlying our perceived problem. This will enable us to find the root cause of our perceived problem. What about the perceived problem of our small business owner:
+The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique we will use to explore the [cause and effect](https://en.wikipedia.org/wiki/Cause_and_Effect_(Star_Trek:_The_Next_Generation)) relationships underlying our perceived problem. This will enable us to find the root cause of our perceived problem. What about the perceived problem of the iPhone keyboard's confusing shift key:
 
-**REDO THIS TOO LIKE A BOSS**
-**I need a Wordpress site.**
+**I don't know if ⇧ Shift is enabled on the iPhone keyboard.**
 
 Now it is time to start asking and answering the *whys*.
 
-**1. Why do I need a Wordpress site?**  
-*...because I need to have a better website. (refined problem)*  
-**2. Why do I need a better website?**  
-*...because my current site isn't good. (refined problem)*  
-**3. Why isn't my current site good?**  
-*...because it doesn't have many visitors. (refined problem)*  
-**4. Why doesn't my current site have many visitors?**  
-*...because my site doesn't rank on Google. (refined problem)*  
-**5. Why doesn't my current site rank on Google?**  
-*...because I don't know what steps to take to get it to rank on Google. (broken process identified)*  
+**1. Why don't I know if ⇧ Shift is enabled on the iPhone keyboard?**  
+*...because the visual design is confusing. (refined problem)*  
+**2. Why is the visual design confusing?**  
+*...because I can't tell if the letters will be lowercase or capital. (refined problem)*  
+**3. Why can't you tell if the letters will be lowercase or capital?**  
+*...because the letters are always capital on the keyboard. (refined problem)*  
+.......
 
 The root cause of our problem has been identified very quickly which we can design a solution for. How do we know what the root cause is? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in identifying a broken process or an alterable behavior. 
 
