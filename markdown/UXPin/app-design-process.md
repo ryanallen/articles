@@ -116,11 +116,13 @@ The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/276
 **5. Why don't they take you where you think they should?**
 *...because some of them that I think are icons, actually aren't, and the ones that are icons aren't ones I've ever seen before. (alterable behaviors identified)*
 
-The root cause of the first problem has been identified very quickly, which a designer could use to identify what needs reworking in their UI. How do we know what the root cause is? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in identifying a broken process or an alterable behavior. 
+The root cause of the first problem has been identified very quickly, which a designer could use to identify what needs reworking in their UI. How can we be sure we have identified a root cause? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in identifying a broken process or an alterable behavior. Sometimes there are more than one you will identify, like in our next example.
 
-What about the problem we want to design a mobile app to fix?
+What was the problem again?
 
 **I have too much stress.**  
+
+Oh yeah. Curse you too much stress!
 
 **1. Why do I have too much stress?**  
 *...because I have too many stressful thoughts. (refined problem)*  
