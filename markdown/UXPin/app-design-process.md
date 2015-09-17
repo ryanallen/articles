@@ -65,7 +65,7 @@ Now that we have perceived a problem we can define it in a [problem statement, o
 
 As a designer fortunate enough to get to work with some [incredible teams building mobile apps](http://dappergentlemen.com), I get to hear a lot about what other people think about the way many apps are designed and function. There are so many great examples of well designed apps available, it makes finding inspiration easy and enjoyable. Not every app is a pillar of stellar design though, every now and then I hear about one that got everything wrong.
 
-Recently my wife was trying to find an app to assist her with something... something that I can't remember. I wasn't listening very closely to the beginning of the story. I need to continue to work on my listening skill. Anyway. She was telling me about an app that she was trying to use and said:  
+Recently my wife was trying to find an app to assist her with something... something that I can't remember. I wasn't listening very closely to the beginning of the story. I need to continue to work on my listening skills. Anyway, she was telling me about an app that she was trying to use and said:  
 
 **"This is a bad app"**.
 
@@ -75,7 +75,7 @@ My designers ears pricked up at the sound of a problem.
 
 "No, I'm trying to tell you a story. Can't you just empathize with me and let me finish?" she probably implored.
 
-"Of course I'll help you" I exclaimed! "First we need to understand your *perceived problem* at a deeper level."
+"Of course I'll help you!" I exclaimed. "First we need to understand your *perceived problem* at a deeper level."
 
 *An audible sigh came from somewhere in the room.*
 
