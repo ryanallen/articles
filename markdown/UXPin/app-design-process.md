@@ -12,24 +12,20 @@ Process:
 
 ---
 
-#From Idea to App in 16 Steps
+#From Idea to App in XXX Steps
 1. Recognize the Problem with 5 Whys  
 2. Determine Your Target Audience  
-3. Identify your target audiences' needs with interviews and surveys (this is great because it also identifies specific individuals who will test your app)  
-4. Explore Solutions with Concept Sketches and storyboards
+3. Identify your target audiences' needs with interviews and surveys
+4. Explore Solutions with Concept Sketches, User Stories and Storyboards
 5. Select the Best Solutions with a Concept Selection Matrix  
-6. Mockups  
+6. Wireframes
 7. Stakeholder Validation  
-8. Lo-fi Prototypes aka Wireframes
-9. User Testing with lo-fi prototypes  
-   (users includes stakeholders)  
-10. Hi-fi Prototypes with Design Iterations  
-11. User Testing with hi-fi prototypes  
-12. Alpha 
-13. Testing  
-14. Beta  
-15. Testing  
-16. Version 1.0
+8. Lo-fi Prototypes
+9. User Testing
+10. Hi-fi Prototypes + More User Testing
+11. Development
+12. Alpha - Beta - V1
+13. Marketing
 
 ---
 
@@ -103,14 +99,14 @@ So how do we determine the root cause of our perceived problem? We can use somet
 
 ##The Five Whys Technique
 
-The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique we will use to explore the [cause and effect](https://en.wikipedia.org/wiki/Cause_and_Effect_(Star_Trek:_The_Next_Generation)) relationships underlying our perceived problem. This will enable us to find the root cause of our perceived problem. What about the perceived problem of the iPhone keyboard's confusing shift key:
+The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique we will use to explore the [cause and effect](https://en.wikipedia.org/wiki/Cause_and_Effect_(Star_Trek:_The_Next_Generation)) relationships underlying our perceived problems. This will enable us to find the root cause of our perceived problem. What was my wife confused about again? Something about an app she was trying to use I think.
 
-**This is a bad app.**
+**This is a bad app. Also you could do a better job at listening to me when I'm trying to tal..**
 
-Now it is time to start asking and answering the *whys*.
+..oh yeah that's right. She couldn't figure out how to use some app. Good think I'm here, I can totally help out! We will start by asking and answering the **Five Whys**.
 
 **1. Why is it a bad app?**  
-*...because It doesn't work the right way. (refined problem)*  
+*...because it doesn't work the right way. (refined problem)*  
 **2. Why doesn't it work the right way?**  
 *...because I don't understand where to go. (refined problem)*  
 **3. Why don't you understand where to go?**  
@@ -120,10 +116,7 @@ Now it is time to start asking and answering the *whys*.
 **5. Why don't they take you where you think they should?**
 *...because some of them that I think are icons, actually aren't, and the ones that are icons aren't ones I've ever seen before. (alterable behaviors identified)*
 
-
-The root cause of our problem has been identified very quickly which we can design a solution for. How do we know what the root cause is? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in identifying a broken process or an alterable behavior. 
-
-In this example our original problem is no longer even relevant. Some of the solutions for better Google rankings are things like [mobile friendly sites](http://dappergentlemen.com/articles/2015/4/2/google-will-penalize-non-mobile-friendly-sites), solid [content strategy](https://gathercontent.com/resources/content-strategy-a-guide-for-ux-designers), and an understanding of who are [target audience](https://en.wikipedia.org/wiki/Target_audience) really is. The platform that hosts these solutions is ultimately irrelevant.
+The root cause of the first problem has been identified very quickly, which a designer could use to identify what needs reworking in their UI. How do we know what the root cause is? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in identifying a broken process or an alterable behavior. 
 
 What about the problem we want to design a mobile app to fix?
 
