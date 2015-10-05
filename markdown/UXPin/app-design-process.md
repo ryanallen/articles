@@ -37,12 +37,17 @@ Process:
 	1.3 Redefining the Problem
 
 
-2. Research
-	2.1 Identify the User + Target Audience
-	2.2 Competitive Analysis
-	2.3 Identify your target audiences' needs
-		2.3.1 Interviews
-		2.3.2 Surveys
+1. Research
+	2. Identify the User
+		3.
+		3.
+	2. Competitive Analysis
+		3.
+		3.
+	2. User Needs
+		3. Interviews
+		3. Surveys
+
 3. Concept Exploration
 4. Prototyping
 5. Visual Design
@@ -157,6 +162,11 @@ This is a problem that is worth working on. A problem that we, as professional a
 Interesting links 
 http://psycnet.apa.org/psycinfo/1978-21140-001
 https://books.google.com/books?hl=en&lr=&id=x_loAgAAQBAJ&oi=fnd&pg=PP1&dq=illusion+of+self+and+isolation&ots=c7k0eoL447&sig=tY0KjiGfmMc2v62Atpoq5ToH7cg#v=onepage&q=illusion%20of%20self%20and%20isolation&f=false
+
+Image links
+perception - https://www.flickr.com/photos/heydanielle/5495036012/in/photolist-9nzuLd-JGhu-zAuUq-7DvEdW-a86Z8w-8wQ1Jc-3WcM3M-vNjaVB-3hxV5x-5jwd7W-cazNhJ-mNsVrg-6y93A8-jkySN-4xAWRX-4nR7iN-7Cur1J-73ze3o-7HYXzh-e4WfQz-ot1jpv-6nTq7H-qV9vwC-6MQiid-9bV7K5-vUMvA-7meAoN-oMCqH2-4Woi5K-7TfxB2-aq3CcM-eycbEE-9LZTDC-tonsHp-6Kg7uk-aaKKPB-DXjGG-7mv2X8-n9xQB-7DrR68-4mfSU2-2PHEUy-7uQiaz-6dGJTt-7DvEds-6Z4Qu8-o2WwL-8uwSHc-7GmQqk-hxdQ7M
+
+dominos - https://www.flickr.com/photos/90412460@N00/15482576136/in/photolist-pA9ftS-akA5zh-6nruB-6nSysB-hxZcqb-nJnvbY-aRhK8X-donWVX-bpat7a-Nrxeq-e8gZch-5RPb7F-7usxYQ-ftFJpi-ftDZqD-7UmBe3-6rJb8b-HdoK1-dmKd9J-bdPWon-4XiYGk-nQgnLD-8Ktn7x-dRCSeX-aDtJop-doo6PL-6xjCPv-91byM3-dHD5Bg-xpEx89-dHJoj5-hxYQ4A-hxZmvf-6Tqg7e-swN8gi-ftUowC-83NrQG-noNEep-sWyo1Y-HeLJo-cFMdd-frGCZg-du5FSy-uvsXCu-6Ccnhm-mNMfz-ftU5To-p17eiD-8N6VWt-hxYCQn
 
 
 
