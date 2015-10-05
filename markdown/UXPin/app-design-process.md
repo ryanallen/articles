@@ -37,21 +37,67 @@ Process:
 	1.3 Redefining the Problem
 
 
-1. Research
-	2. Identify the User
-		3.
-		3.
-	2. Competitive Analysis
-		3.
-		3.
-	2. User Needs
+1. Strategy and Research
+	2. Discovery
+		3. Stakeholder Interviews
+		3. Competitive Research and Analysis
+		3. Benchmark Usability Testing
+		3. Affinity Diagraming
+		3. Requirements Gathering
+	2. User Research
+		3. Demographic Profiles
+		3. Psychographic Profiles
 		3. Interviews
+		3. Focus Groups
 		3. Surveys
+		3. Contextual Needfinding
+			4. Basic, Latent, Linear + Indifferent
+			4. Ideal Point Model
+			4. Kano Framework
+			4. User Needs Pyramid (http://imgur.com/9m4GoSf)
+		3. Diary Study
+		3. Photo Study
+		3. Card Sort
+		3. Free Listing
+		3. Analytics + AB testing (http://www.nngroup.com/articles/ab-testing-usability-engineering/)
+		3. Social Media Mining
+		3. Comparative Experiments
+		3. Usability Studies
+	2. Strategy
+		3. Project and Process Planning
+		3. Project Ecology
+		3. Metrics Development
+		3. Resource Allocation
+		3. Training
+	2. User Modeling
+		3. Personas (http://aarronwalter.com/design-personas/)
+		3. User Stories
+		3. Scenarios
+		3. Task Analysis
+		3. Storyboards
+		3. Timelines
+		3. Customer Journeys
+		3. Process Diagrams
+		3. Mental Models
+		3. Conceptual Models
+		3. Interaction Model
 
 3. Concept Exploration
+Users Mental Model
 4. Prototyping
 5. Visual Design
-6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html
+6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
+
+---
+Strategy and Research
+A successful UX strategy requires buy-in from multiple roles and levels of the organization. Thinking about UX strategically may include: (http://www.redpillux.com/services/ux-strategy-research/)
+
+Reconciling and prioritizing business and user goals
+Understanding target audience(s)
+Setting goals and success metrics
+Defining an iterative research & design process
+Stakeholder education
+Planning for organizational change
 
 ---
 
