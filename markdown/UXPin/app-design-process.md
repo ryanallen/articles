@@ -55,123 +55,164 @@ Process:
 
 ---
 
-#The Problem
+#Defining The Problem
+![Defining the Problem Illustration - Green](http://imgur.com/HIzRsJz)
 
 > The first step in solving a problem is to recognize that it does exist.
 > - Zig Ziglar
 
-Design is the process of planning a way to produce an [artifact](http://programmers.stackexchange.com/questions/106473/what-does-artifact-mean) to solve a gap in the [user experience](https://en.wikipedia.org/wiki/User_experience_design). The first step in the UX design process is to recognize that there is [a gap](https://vimeo.com/85040589), or problem, for which you can design a solution. That means we need to start with a problem.
+Design is the process of planning a way to produce a product that solves a problem in the [user experience](https://en.wikipedia.org/wiki/User_experience_design). The product definition phase is the cornerstone of our entire product and sets the stage for the success of our product. Every solution we design will be built upon the framework of this initial phase, this initial problem. That means we need to start with a problem that we work to understand and define.
 
-Let’s examine an analogy for a minute. A problem I often experience (and imagine many others also experience) is that *I have [too much stress](http://www.apa.org/monitor/2011/01/stressed-america.aspx)*. I did some quick and dirty research by calling up a dozen friends and asking if it was a problem they felt they also had. Nine out of the 12 people interviewed said they experience the same problem. I suspect three of those 12 people are super-secret Zen monks whose identities have been changed to protect them from the forces of evil the government sometimes hires them to combat. Their base of operations is probably at the bottom of the ocean, or [inside a volcano](http://tvtropes.org/pmwiki/pmwiki.php/Main/VolcanoLair). What is your experience with stress? Help me with research on this project by taking [this 5 minute survey](http://goo.gl/forms/WtjuvsIopY).
+![Design Process](http://imgur.com/9aS3pIW)
+Photo Credit: Marcin Treder, [UXPin](https://www.uxpin.com/)
 
-Now that we have perceived a problem we can define it in a [problem statement, or definition](https://en.wikipedia.org/wiki/Problem_statement). A **problem definition** is a *statement that captures the scope of the problem we are trying to solve*.
+Let's go through the process of designing an app around a problem. It is always fun to be a designer on a project that deals with a problem you can relate to, so [I](https://twitter.com/ryanallen_com) will choose a problem that myself and the majority of people I know have. The problem of having [too much stress](http://www.apa.org/monitor/2011/01/stressed-america.aspx). I did some quick and dirty research by calling up a dozen friends and asking if it was a problem they felt they also had. Nine out of the 12 people interviewed said they experience the same problem. I suspect three of those 12 people are super-secret Zen monks.
+
+Of course, I didn't have to call them up. I could've just sent this [5 minute survey](http://goo.gl/forms/WtjuvsIopY) (which you can feel free to take too) to get a sense of the problem.
+
+Now that we have perceived a problem to design an app around we can define it in a [problem statement, or definition](https://en.wikipedia.org/wiki/Problem_statement) — a statement that captures the scope of the problem we are trying to solve. In this chapter, we'll dive deep into how to write a well-crafted statement that communicates to the team why the problem is critical to solve. 
 
 ##Perceiving the Problem
+![Eye Illustration](http://imgur.com/Z7Lcaor)
 
-As a designer fortunate enough to get to work with some [incredible teams building mobile apps](http://dappergentlemen.com), I get to hear a lot about what other people think about the way many apps are designed and function. There are so many great examples of well designed apps available, it makes finding inspiration easy and enjoyable. Not every app is a pillar of stellar design though, every now and then I hear about one that got everything wrong.
+Adapted from: [Danielle Elder](https://www.flickr.com/photos/heydanielle/5495036012/in/photolist-9nzuLd-6bAVbu-91DkdC-7iQD5N-7jHzD3-8BpWmQ-8oykqN-czFff-7sM5X1-7C7jmU-4X7i2Q-qa6rmD-o2WBw-4Egb2b-ahxGJs-4uN9Db-b7uZmt-dXQgFm-ajU5TJ-7ihDBD-73veAt-8hhgiX-PPS1P-7B88zQ-6t2VYv-v8iqK-4DVNYy-7us1oU-9dhKKF-Nq5dA-5ZKZTS-e8v8ro-67Ad4o-4mfTkD-6uiXRn-6o5Jf4-ocAWu-5hnUgs-kPcJX-cB8Ec3-5kedM-6bwMVZ-o5sxm-65fpoi-bjUbKZ-kBRM-eALF6K-9wxAKs-8U9djm-9eZPz8), [Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)
+As a designer fortunate enough to get to work with some [incredible teams building mobile apps](http://dappergentlemen.com/), I get to hear a lot about what other people think about the way many apps are designed and function. There are so many great examples of well designed apps available, it makes finding inspiration easy and enjoyable. Not every app is a pillar of stellar design though, every now and then I hear about one that got everything wrong.
 
-Recently my wife was trying to find an app to assist her with something... something that I can't remember. I wasn't listening very closely to the beginning of the story. I need to continue to work on my [listening](https://medium.com/@ryanallen_com/become-a-better-designer-and-person-by-learning-to-listen-f23ef9bef9b2gi) skills. Anyway, she was telling me about an app that she was trying to use and said:  
+Recently my wife was telling me about an app she was trying to use to assist her with some of the fun things associated with newborn humans, and said:
 
-**"This is a bad app"**.
+**"This is a bad app."**
 
-My designers ears pricked up at the sound of a problem.
+My designer's ears pricked up at the sound of a problem.
 
 "What's that dear? You have a problem that needs solving?"
 
 "No, I'm trying to tell you a story. Can't you just empathize with me and let me finish?" she probably implored.
 
-"Of course I'll help you!" I exclaimed. "First we need to understand your *perceived problem* at a deeper level."
+"Of course I'll help you!" I exclaimed. "First we need to understand your perceived problem at a deeper level."
 
 *An audible sigh came from somewhere in the room.*
 
-Many people don't know how to begin solving their problem because they don't take the time to really consider their problem. This is usually true not because the person is lazy, rather they just don't know how to go about thinking about the problem on a deeper level in an effort to understand what is causing it. The design process has to start somewhere though, and that starting point is usually our perceived problem. The perceived problem my wife was having (apart from my listening and empathizing skills) was that the app she was trying to use was a *bad app*. What was my original perceived problem? Oh yeah.
+Many people don't know how to begin solving their user's problem because they don't take the time to [listen](https://medium.com/@ryanallen_com/become-a-better-designer-and-person-by-learning-to-listen-f23ef9bef9b2) and really consider their problem. This is usually true not because the person is lazy, rather they just don't know how to go about thinking about the problem on a deeper level in an effort to understand what is causing it. The design process has to start somewhere though, and that starting point is usually our perceived problem. The perceived problem my wife was having (apart from my listening and empathizing skills) was that the app she was trying to use was a bad app. 
 
-**I have too much stress.**
+To recap, here is what we need to do when a problem is perceived: 
 
-Well, the problem of having too much stress is probably too general to design a solution around. As is the problem of an app being bad. How many ways can you fix a *bad app*? [All the ways](https://www.google.com/search?q=all+the+things&client=safari&rls=en&tbm=isch&tbo=u&source=univ&sa=X&ved=0CB0QsARqFQoTCNbtzLio_ccCFcyVDQodU4kNiQ&biw=1987&bih=1169) probably. How many [different ways can you think of to manage stress](http://www.webmd.com/balance/guide/tips-to-control-stress)? Are overall app design and amounts of stress our real problems, or are they symptoms of deeper problems?
+* **Acknowledge there is a problem.** First things first, we must understand that there is a problem. You can't solve it without saying that it exists. Brushing it under the rug does nothing for you or for your users.  
 
-###Symptoms
+* **Listen and consider.** Don't just jump to wanting to solve the problem. You have to listen to your users — think about my interaction with my wife — to really understand what's going on. Asking follow up questions is fine, but don't just try to suggest a solution before you really understand what's going on.
+
+Let's go back to our original problem as an example: **I have too much stress.**
+
+Well, the problem of having too much stress is probably too general to design a solution around. As is the problem of an app being bad. This is where you need to probe deeper, asking more questions: How many ways can you fix a bad app? [All the ways](https://www.google.com/search?q=all+the+things&client=safari&rls=en&tbm=isch&tbo=u&source=univ&sa=X&ved=0CB0QsARqFQoTCNbtzLio_ccCFcyVDQodU4kNiQ&biw=1987&bih=1169) probably. How many [different ways can you think of to manage stress](http://www.webmd.com/balance/guide/tips-to-control-stress)? Are overall app design and amounts of stress our real problems, or are they symptoms of deeper problems?
+
+###What Are the Symptoms? 
+
 A symptom is a [subjective](https://en.wikipedia.org/wiki/Qualia) departure from normal function or feeling which is noticed by a user. For example, the feeling (feelings are subjective, not [objective](https://www.lib.odu.edu/genedinfolit/1infobasics/subjective_vs_objective.html)) of being tired (departure from the normal of being awake during the day) is a symptom (a subjective departure from the norm) of not getting enough sleep.
 
-Our feeling of too much stress is a subjective departure from our normal function of not being too stressed. It also has many different ways we could deal with it, such as having a glass of wine at night, or a bottle, or listening to music, or watching TV. Maybe you know someone who has huge [meltdowns](http://giphy.com/gifs/b7nugvA2NwPbW) and [throws tantrums](http://giphy.com/gifs/12BQVyMqxgVNvy) as a way of *letting off steam*. Maybe you sit in a quiet place and breathe deeply and try to figure out what is causing you to feel stressed. Many people don't even recognize that they are stressed, which means it's not easy to recognize what is causing it. 
+![Stress Reduction Poster](http://imgur.com/1hiLYtJ)
+Adapted from: [Eamon Curry](https://www.flickr.com/photos/eamoncurry/6072966411/in/photolist-afDxkr-9BMsED-psCpwF-ax2h25-iDCRU3-76LHbF-77RspM-aWnckx-6GvsEd-JFEVq-5GTqBB-7G7Q2N-6naw4w-9VNjuA-7SULYU-oqJoxw-7hgto3-D6f8n-ntHoH5-ufvJY-7GGNmB-6EdPgr-eEEEL3-8GPmL2-hMTf2-qnsZJH-ai9JLg-e7MS9Y-5deULs-5jYd7-5rMTCQ-ea8v9B-4s4Ju7-66dqbX-5kYZn1-aKq1QH-exiGZN-9uT7cA-8M8wxP-38xAeE-6PAPiK-p2eG2-6mp8EY-2Z7anM-qGYUpT-dwD69Z-ek5QGV-585Zar-rqebuV-exfySH), [Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)
+Our feeling of too much stress is a subjective departure from our normal function of not being too stressed. It also has many different ways we could deal with it, such as having a glass of wine at night, or a bottle, or listening to music, or watching TV. Maybe you know someone who has huge [meltdowns](http://giphy.com/gifs/b7nugvA2NwPbW) and [throws tantrums](http://giphy.com/gifs/12BQVyMqxgVNvy) as a way of letting off steam. Maybe you sit in a quiet place and breathe deeply and try to figure out what is causing you to feel stressed. Many people don't even recognize that they are stressed, which means it's not easy to recognize what is causing it. 
 
-Is having too much stress really our problem? It seems like it is just a symptom of a much deeper problem. In order to solve the perceived problem of having too much stress, we need to think about the problem to determine if it is a root cause or merely a symptom of something [deeper](http://zoomquilt.org).
+Is having too much stress really our problem? It seems like it is just a symptom of a much deeper problem. In order to solve the perceived problem of having too much stress, we need to think about the problem to determine if it is a root cause or merely a symptom of something [deeper](http://zoomquilt.org/). 
 
-###Root Cause
-Why is it important to find the [root cause]((https://en.wikipedia.org/wiki/Root_cause)) of the problem? It's important because solving a symptom isn't a permanent solution. If your [leg hurts](http://giphy.com/gifs/adventure-time-upvote-whatever-PzlRZCKCmTVjq) you could take aspirin to dull the pain, but you will not be fixing the root cause of the pain, and so you will continue to experience the pain which is a symptom of the real problem. If you went to the doctor complaining about the pain and she determined that your leg hurt because you broke a bone, you could address the broken bone, which is the root cause of the pain problem. Be careful not to let your doctor get too abstract in her analysis, you don't want her to determine the root cause of the pain to be your central nervous system. [Removing that](http://giphy.com/gifs/brain-oh-no-terry-crews-ULHclikJ78DZe) would probably cause many additional, though interesting, problems.
+###What is the Root Cause? 
 
-So how do we determine the root cause of our perceived problem? We can use something developed at Toyota during the design of its manufacturing methodologies known as the [Five Whys Technique](https://en.wikipedia.org/wiki/5_Whys).
+Why is it important to find the root cause of the problem? It's important because solving a symptom isn't a permanent solution.
+
+For example, if your [leg hurts](http://giphy.com/gifs/adventure-time-upvote-whatever-PzlRZCKCmTVjq) you could take aspirin to dull the pain, but you will not be fixing the root cause of the pain, and so you will continue to experience the pain which is a symptom of the real problem. If you went to the doctor complaining about the pain and she determined that your leg hurt because you broke a bone, you could address the broken bone, which is the root cause of the pain problem. 
+
+So how do we determine the root cause of our perceived problem of too much stress? We can use something developed at Toyota during the design of its manufacturing methodologies known as the [Five Whys Technique](https://en.wikipedia.org/wiki/5_Whys).
 
 ##The Five Whys Technique
+![Cause and Effect](http://imgur.com/nrbfKjX)
+Adapted from: [Jeffrey Pioquinto](https://www.flickr.com/photos/90412460@N00/15482576136/in/photolist-pA9ftS-6nruB-hxZcqb-nJnvbY-aRhK8X-bpat7a-Nrxeq-e8gZch-5RPb7F-akA5zh-6nSysB-donWVX-7usxYQ-ftFJpi-ftDZqD-7UmBe3-6rJb8b-dmKd9J-4XiYGk-aDtJop-doo6PL-91byM3-xpEx89-dHJoj5-noNEep-sWyo1Y-swN8gi-ftUowC-HdoK1-bdPWon-nQgnLD-83NrQG-8Ktn7x-dRCSeX-6xjCPv-dHD5Bg-hxYQ4A-hxZmvf-6Tqg7e-du5FSy-uvsXCu-8N6VWt-doo3oA-dmK2CR-doo2hS-dHJnDs-3amgAA-dHCXbK-6B7tNM-dkWudY), [Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 The [Five Whys Technique](http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf) is an iterative question-asking technique we will use to explore the [cause and effect](https://en.wikipedia.org/wiki/Cause_and_Effect_(Star_Trek:_The_Next_Generation)) relationships underlying our perceived problems. This will enable us to find the root cause of our perceived problem. What was my wife confused about again? Something about an app she was trying to use I think.
 
-**This is a bad app. Also you could do a better job at listening to me when I'm trying to tal..**
+**"This is a bad app. Also you could do a better job at listening to me when I'm trying to tal.."**
 
-..oh yeah that's right. She couldn't figure out how to use some app. Good thing I'm here, I can totally help out! We will start by asking and answering the **Five Whys**.
+..oh yeah that's right. She couldn't figure out how to use a productivity app to help her manage some of the fun things that are associated with having a newborn. Things like the amount of poopy diapers, ounces of milk consumed, etc. In an effort to identify the deeper problem with the app I suggested we go through the **Five Whys** process.
 
-**1. Why is it a bad app?**  
-*...because it doesn't work the right way. (refined problem)*  
-**2. Why doesn't it work the right way?**  
-*...because I don't understand where to go. (refined problem)*  
-**3. Why don't you understand where to go?**  
-*...because none of these icons make sense. (refined problem)*  
-**4. Why don't the icons make sense?**
-*...because they don't take me where I think they should. (refined problem).*  
-**5. Why don't they take you where you think they should?**  
-*...because some of them that I think are icons, actually aren't, and the ones that are icons aren't ones I've ever seen before. (alterable behaviors identified)*
+1. Why is it a bad app?  
+...because it doesn't work the right way. (refined problem)  
+2. Why doesn't it work the right way?  
+...because I don't understand where to go. (refined problem)  
+3. Why don't you understand where to go?  
+...because none of these icons make sense. (refined problem)  
+4. Why don't the icons make sense?   
+...because they don't take me where I think they should. (refined problem)  
+5. Why don't they take you where you think they should?  
+...because some of them that I think are icons, actually aren't, and the ones that are icons aren't ones I've ever seen before. (alterable behaviors identified)  
 
-The root cause of the first problem has been identified very quickly, which a designer could use to identify what needs reworking in their UI. How can we be sure we have identified a root cause? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in identifying a broken process or an alterable behavior. Sometimes there are more than one you will identify, like in our next example.
+![5 Whys Bad App](http://imgur.com/lQkfHl7) [img link](https://live.uxpin.com/a90cab34ba53e8a0c1ace56e3306e1db34c977d7#/pages/29028128)
 
-What was the problem again?
+The root cause of my wife's problem has been identified very quickly, which I can send to the app's design team in an effort to help them improve the user experience. How can we be sure we have identified a root cause? They key to understanding the root cause of the problem (*it isn't always answered with the 5th why*) is in **identifying a broken process or an alterable behavior**. Sometimes there are more than one you will identify, like in the app we are going to design to help with the **problem of too much stress**.
 
-**I have too much stress.**  
+1. Why do I have too much stress?  
+...because I have too many stressful thoughts. (refined problem)  
+2. Why do I have so many stressful thoughts?  
+...because I can not calm my thoughts. (refined problem)  
+3. Why am I unable to calm my mind?  
+...because I don't practice calming my mind. (refined problem)  
+4. Why am I unable to practice calming my mind?  
+...because I don't have a process to calm my mind. (broken process identified)  
+5. Why do I not have a process to calm my mind?  
+...because I'm not aware of myself enough to know I need one. (deeper broken process identified)  
 
-Oh yeah. Curse you too much stress!
+![5 Whys Too Much Stress](http://imgur.com/7nDoYUi) [img link](https://live.uxpin.com/a90cab34ba53e8a0c1ace56e3306e1db34c977d7#/pages/29024803)
 
-**1. Why do I have too much stress?**  
-*...because I have too many stressful thoughts. (refined problem)*  
-**2. Why do I have so many stressful thoughts?**  
-*...because I can not calm my thoughts. (refined problem)*  
-**3. Why am I unable to calm my thoughts?**  
-*...because I don't practice calming my thoughts. (refined problem)*  
-**4. Why am I unable to practice calming my thoughts?**  
-*...because I don't have a process to calm my thoughts. (broken process identified)*  
-**5. Why do I not have a process to calm my thoughts?**  
-*...because I'm not [aware](https://en.wikipedia.org/wiki/Awareness) of myself enough to know I need one. (deeper broken process identified)*  
-
-[Boom](http://media.giphy.com/media/U0GqVamOu9NPa/giphy.gif). The root cause of the perceived problem of having too much stress is not possessing a process to practice calming and focusing our thoughts. In this example, calming my thoughts would lead to less stress, which solves the original problem. We can evolve our problem definition now:
+The root cause of the perceived problem of having too much stress is not possessing a process to practice calming and focusing our mind. In this example, calming my thoughts would lead to less stress, which solves the original problem. We can evolve our problem definition now.
 
 ##Redefining the Problem
+![Redefining the Problem - Purple](http://imgur.com/1P0IvDY)
 
-**New Problem Definition:**
-*I want to calm my thoughts in an effort to reduce my [stress]((http://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)).*
+**New Problem Definition:**  
+*to enable users to calm their mind in an effort to reduce their stress*.
 
-What about the problem of not being more aware of our true [self](http://www.wired.com/2012/05/the-self-illusion-an-interview-with-bruce-hood/)?
+What about the deeper problem of not being more aware of our true [self](http://www.wired.com/2012/05/the-self-illusion-an-interview-with-bruce-hood/)? Sometimes a product will benefit from attempts to solve a deeper broken processes than may be necessary. By designing a solution with a deeper and more abstract problem definition we should still be solving the original symptom with the benefit of solving additional symptoms.
 
-On a deeper level, designing a solution to allow us to experience our true would also reduce stress, as well as helping with other ***symptoms*** like [materialism](http://zenhabits.net/a-guide-to-escaping-materialism-and-finding-happiness/), [isolation](https://en.wikipedia.org/wiki/Solitude) and [antisocial issues](https://en.wikipedia.org/wiki/Antisocial_personality_disorder), [narcissism](https://www.psychologytoday.com/blog/stop-walking-eggshells/201112/interpersonal-exploitation-typical-narcissists) and [lack of empathy](https://www.psychologytoday.com/blog/stop-walking-eggshells/201201/lack-empathy-the-most-telling-narcissistic-trait), etc. The process involved in practicing calming thoughts is a step involved in the process of understanding our true selves, so we aren't avoiding the project by going deeper than our first identified process breakdown. It could be an interesting design problem to delve deeper than we need to, and I think it is one that is worth exploring. Many times it is beneficial to attempt to solve a problem that is a little more difficult than one you are [comfortable with](http://giphy.com/gifs/cheezburger-cat-stuck-boxes-9aLFsE3tDWf4c), both in terms of growing as a designer and in terms of designing a more interesting solution and product. Throughout the design process we will continue to evolve the problem definition, so if we find we have [gone too deep](http://giphy.com/gifs/loop-infinite-tea-fWZvYFCh4oyl2) we can abstract back up one level. Let's go ahead and redefine our problem definition:
+Throughout the design process we will continue to evolve the problem definition, so if we find we have gone too deep we can abstract back up one level. Let's go ahead and redefine our problem definition:
 
-**Newer Problem Definition:**
-*I want to become more aware of my true self in an effort to calm my thoughts, reduce my stress, and become a better person.*
+**Redefined Problem Definition**:  
+*to enable users to become more aware of their true selves in an effort to calm their minds, reduce their stress, and become better people*.
 
-This is a problem that is worth working on. A problem that we, as professional and creative designers, have come to after perceiving an original problem, or *symptom*, thinking deeply about that symptom with help from the *Five Whys Technique*, and iterated into the [masterpiece](https://en.wikipedia.org/wiki/Pollice_verso#/media/File:Jean-Leon_Gerome_Pollice_Verso.jpg) that it currently is. This problem will continue to evolve throughout the process of designing a mobile app as a solution, as you will see in the next section where we do some research into the target audience and their needs.
+![Team Brainstorming Session](http://imgur.com/2HBBP49)  
+Photo Credit: [Kevin Dooley](https://www.flickr.com/photos/pagedooley/7007372665/in/photolist-bFdBL6-7MKH28-pEvkgx-7Zan7o-411AnZ-gLRRj-aguvar-5pQ2v-573V8v-czXcSf-fr6iwk-ehnQRz-65FoWi-9dZCyh-6YRkya-dcgiW7-5DAN7i-4X3nSg-7b8ffZ-pNqBTW-q3EGRW-q3EGQJ-q5AjYP-q5U3Pu-6VdHBf-pNnM8m-pNkBfv-p8Yy8U-pNqByC-q3EGb7-p927rM-pNoRE4-q5AjRp-pNqBF1-p8Yy7G-pNnLVN-pNoRq6-q5AjjH-72g1ve-ii6mW5-9rLUok-7EbdjK-6SeBNX-7gr1XS-Rs4eE-4SEHQP-7gn5Ti-gEVDf-9thJVu-7gqGdh), [Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)
 
+Here are a couple of ways you can probe deeper into a design problems with your team, as discussed in the e-book [The Guide to UX Design Process and Documentation](https://www.uxpin.com/guide-to-ux-design-process-and-documentation.html):
 
+* **Brainstorm on the problem**. You can get your team together on the perceived problem, having everyone on the team — from designers to developers to marketers to business analysts to sales — participate. Now while it'll be up to the designer ultimately to solve the design problems, teammates from other departments can provide other insights that will help frame your work. After all, sales may be closer to users and have a deeper understanding of their problems while a business analysts may have insights into the market. 
+
+* **Researching the problem**. You can conduct a competitive marketing analysis to determine if this problem is being faced elsewhere. You can also conduct a customer survey (like the one we did early on stress). If it's an existing product, dig through your analytics, heuristics, content, or conduct users tests. 
+
+Doing these things will go a long way to getting to what's causing your problem, its root cause and how to solve it. 
+
+Let's take a look at a few apps and their problem statements:
+
+![Enlight Mobile App](http://imgur.com/xGDoOye)
+
+According to [Stav Tishler](https://www.enlightapp.com/blog/author/stav/) from [Enlight](https://itunes.apple.com/app/id930026670?mt=8&ign-mpt=uo%3D4), their mobile app's problem definition is:
+
+*“To empower the mobile photographer with creative tools, that until now, were reserved only for professionals and only on desktop.”*
+
+Enlight solves this problem through the synergy of design and technology. Lightricks' proprietary image processing engine powers the tools that are tied together with a consistent UI that allow the users to transfer the knowledge they acquire by learning one tool, to other tools.
+
+![Pure Chat Mobile App](http://imgur.com/G1JXFBT)
+
+According to [Hamid Shojaee](https://twitter.com/hamids), [Pure Chat](https://www.purechat.com/) CEO, their mobile app's problem definition is:
+
+*“To enable small business owners who are on the move to be able to communicate with visitors on their websites.”*
+
+Maintaining 4.5 stars on the [Apple](https://itunes.apple.com/us/app/pure-chat-live-chat-for-ios/id719270614?mt=8) and [Google](https://play.google.com/store/apps/details?id=com.axosoft.PureChat&hl=en) mobile app stores is a pretty good indicator that they have designed a great solution for the problem they set out to solve.
+
+![Crowd Mics Mobile App](http://imgur.com/pdph3ec)
+
+According to [Tim Holladay](https://twitter.com/timholladay), [Crowd Mics](http://crowdmics.com/) CEO, their mobile app's problem definition is:
+
+*“To enable users who have a voice to be heard in the conference, meeting or any live event in which they are attending.”*
+
+Crowd Mics turns the users' smartphones into wireless microphones for use in live events.
+
+Once you write a really strong problem statement, don't feel like you're married to it. As you go along the design process, you'll find that you may have to redefine your problem. That's because you'll discover things as you go along that weren't apparently in the early discovery phase of the process.
 
 ---
-Interesting links 
-http://psycnet.apa.org/psycinfo/1978-21140-001
-https://books.google.com/books?hl=en&lr=&id=x_loAgAAQBAJ&oi=fnd&pg=PP1&dq=illusion+of+self+and+isolation&ots=c7k0eoL447&sig=tY0KjiGfmMc2v62Atpoq5ToH7cg#v=onepage&q=illusion%20of%20self%20and%20isolation&f=false
-
-Image links
-perception - https://www.flickr.com/photos/heydanielle/5495036012/in/photolist-9nzuLd-JGhu-zAuUq-7DvEdW-a86Z8w-8wQ1Jc-3WcM3M-vNjaVB-3hxV5x-5jwd7W-cazNhJ-mNsVrg-6y93A8-jkySN-4xAWRX-4nR7iN-7Cur1J-73ze3o-7HYXzh-e4WfQz-ot1jpv-6nTq7H-qV9vwC-6MQiid-9bV7K5-vUMvA-7meAoN-oMCqH2-4Woi5K-7TfxB2-aq3CcM-eycbEE-9LZTDC-tonsHp-6Kg7uk-aaKKPB-DXjGG-7mv2X8-n9xQB-7DrR68-4mfSU2-2PHEUy-7uQiaz-6dGJTt-7DvEds-6Z4Qu8-o2WwL-8uwSHc-7GmQqk-hxdQ7M
-
-dominos - https://www.flickr.com/photos/90412460@N00/15482576136/in/photolist-pA9ftS-akA5zh-6nruB-6nSysB-hxZcqb-nJnvbY-aRhK8X-donWVX-bpat7a-Nrxeq-e8gZch-5RPb7F-7usxYQ-ftFJpi-ftDZqD-7UmBe3-6rJb8b-HdoK1-dmKd9J-bdPWon-4XiYGk-nQgnLD-8Ktn7x-dRCSeX-aDtJop-doo6PL-6xjCPv-91byM3-dHD5Bg-xpEx89-dHJoj5-hxYQ4A-hxZmvf-6Tqg7e-swN8gi-ftUowC-83NrQG-noNEep-sWyo1Y-HeLJo-cFMdd-frGCZg-du5FSy-uvsXCu-6Ccnhm-mNMfz-ftU5To-p17eiD-8N6VWt-hxYCQn
-
-
-
-
-
-
-
 
