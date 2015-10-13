@@ -37,7 +37,7 @@ Process:
 	1.3 Redefining the Problem
 
 
-1. Strategy and Research
+1. Research and Strategy
 	2. Discovery
 		3. Stakeholder Interviews
 		3. Competitive Research and Analysis
@@ -48,6 +48,151 @@ Process:
 		3. Demographic Profiles
 		3. Psychographic Profiles
 		3. Interviews
+		3. Focus Groups
+		3. Surveys
+		3. Contextual Needfinding
+			4. Basic, Latent, Linear + Indifferent
+			4. Ideal Point Model
+			4. Kano Framework
+			4. User Needs Pyramid (http://imgur.com/9m4GoSf)
+		3. Diary Study
+		3. Photo Study
+		3. Card Sort
+		3. Free Listing
+		3. Analytics + AB testing (http://www.nngroup.com/articles/ab-testing-usability-engineering/)
+		3. Social Media Mining
+		3. Comparative Experiments
+		3. Usability Studies
+	2. User Modeling
+		3. Personas (http://aarronwalter.com/design-personas/)
+		3. User Stories
+		3. Scenarios
+		3. Task Analysis
+		3. Storyboards
+		3. Timelines
+		3. Customer Journeys
+		3. Process Diagrams
+		3. Mental Models
+		3. Conceptual Models
+		3. Interaction Model
+	2. Strategy
+		3. Project and Process Planning
+		3. Project Ecology
+		3. Metrics Development
+		3. Resource Allocation
+		3. Training
+
+3. Concept Exploration
+Users Mental Model
+4. Prototyping
+5. Visual Design
+6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
+
+---
+Strategy and Research
+A successful UX strategy requires buy-in from multiple roles and levels of the organization. Thinking about UX strategically may include: (http://www.redpillux.com/services/ux-strategy-research/)
+
+Reconciling and prioritizing business and user goals
+Understanding target audience(s)
+Setting goals and success metrics
+Defining an iterative research & design process
+Stakeholder education
+Planning for organizational change
+
+---
+
+#Strategy and Research
+
+You don't have to use a particular user research method at the time of release. You use the one that best meets the needs of your team. With that said here is a giant list of tools for your toolkit.
+
+##Discovery
+
+---
+
+###Stakeholder Interviews
+
+Stakeholder interviews take place early on in a project and are designed to help you gather an understanding of the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders. Conduct one-on-one interviews with different levels of staff, focusing on actual ‘doers’ as well as managers. These are useful if you are working on an app that already exists, like if you are a new UX designer at an organization, as well as on a new product that is just starting.
+
+Presencing Institute has an excellent [process example](https://www.presencing.com/tools/stakeholder-interviews) and UX Apprentice has a [great list](http://www.uxapprentice.com/resources/stakeholder-interview-template/) of some possible things you may want to identify. These things will differ based on where your product is in its cycle, how large the organization is, though this list is pretty standard across all types of apps:
+
+* The project vision
+* Types of users
+* Target Audience
+* Value Proposition
+* Competition
+* Process & Workflow
+* Context of Use
+* User Experience Goals
+
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+
+###Affinity Diagraming
+
+An affinity diagram is a simple tool we can use to group ideas and data from our stakeholder interviews. The process works well when done with a cross-functional team including the stakeholders you interviewed and consists of:
+
+1. Recording each idea on a card
+2. Looking for ideas that are related
+3. Sorting cards into related groups
+
+https://en.wikipedia.org/wiki/Affinity_diagram
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+
+Once completed, the affinity diagram may be used to create a cause and effect diagram.
+
+###Cause-and-Effect-Diagram
+A cause-and-effect-diagram, also known as a [Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram), fishbone diagram (because a finished diagram looks like the skeleton of a fish), or Fishikawa, is a [causual diagram](https://en.wikipedia.org/wiki/Causal_model) used to identify possible causes of the [problem your app is trying to solve](link to last article). It is a way to further refine your problem definition.
+
+Mind tools has a great process: https://www.mindtools.com/pages/article/newTMC_03.htm
+
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+
+###Competitor Analysis
+
+A Competitor analysis lets you discover and understand the strenghts and weaknesses of your competitors, allowing you to use the information you gleam for design as well as marketing purposes. Hopefully you got a list of the main competitors from your stakeholder interviews, but if not fear not. You can Google a list of keywords for your product and see who ranks highest. Try to find the top 5 competitors and discover things like:
+
+* Potential target users
+* UI design rationale
+* Common UI conventions
+* Identifying problems you can fix
+* Your competitions' unique seling points
+* Your [purple cow](http://www.sethgodin.com/purple/)
+* A beginning list of users' needs
+* How well your competitors are doing
+
+Now is a great time to get your existing or potential users involved in the design process. Usability benchmark testing may be used on your [competitors products](https://www.usertesting.com/blog/2015/01/05/benchmarking/) to get an idea of how they empower users to complete basic goal-oriented tasks. Give the users you are testing a goal-oriented and basic task.
+ http://scottberkun.com/essays/27-the-art-of-usability-benchmarking/
+
+http://www.usabilitynet.org/tools/competitoranalysis.htm
+http://www.ibm.com/developerworks/webservices/library/us-analysis.html
+https://en.wikipedia.org/wiki/Competitor_analysis
+
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+
+---
+
+	2.User Research
+		3. Demographic Profiles
+		3. Psychographic Profiles
+
+###One-on-one Interviews
+
+Interview target users about ask the customer, the users and others what the objectives for the system or product are, what is to be accomplished, how the system or product fits into the needs of business, and finally, how the system or product is to be used on a day-to-day basis.
+
+Define the technical environment. In our case it is for a mobile app. This will give the person you are interviewing some context into the allowed scope of the project.
+
+
 		3. Focus Groups
 		3. Surveys
 		3. Contextual Needfinding
@@ -81,23 +226,7 @@ Process:
 		3. Mental Models
 		3. Conceptual Models
 		3. Interaction Model
-
-3. Concept Exploration
-Users Mental Model
-4. Prototyping
-5. Visual Design
-6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
-
----
-Strategy and Research
-A successful UX strategy requires buy-in from multiple roles and levels of the organization. Thinking about UX strategically may include: (http://www.redpillux.com/services/ux-strategy-research/)
-
-Reconciling and prioritizing business and user goals
-Understanding target audience(s)
-Setting goals and success metrics
-Defining an iterative research & design process
-Stakeholder education
-Planning for organizational change
+	2. Empathic Design Needfinding https://en.wikipedia.org/wiki/Empathic_design
 
 ---
 
