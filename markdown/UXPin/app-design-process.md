@@ -94,11 +94,8 @@ A successful UX strategy requires buy-in from multiple roles and levels of the o
 
 * what problems we aim to solve, which we have already done.
 * who are target users
-* when the target users will use our app
-* where they will use our app
-* why they will use our app
-* how they will use our app
-http://www.sitepoint.com/conducting-user-interviews-will-actually-help/
+*
+*
 
 
 Reconciling and prioritizing business and user goals
@@ -199,19 +196,55 @@ EXAMPLES EXAMPLES EXAMPLES
 
 ---
 
-
-		3. One-on-one Interviews
-		3. Demographic Profiles
-		3. Psychographic Profiles
+		3. Demographic Profiles of Target Users
+		3. Psychographic Profiles of Target Users
 
 ###One-on-one Interviews
 
-Interview target users about ask the customer, the users and others what the objectives for the system or product are, what is to be accomplished, how the system or product fits into the needs of business, and finally, how the system or product is to be used on a day-to-day basis.
+> Start off with general questions and save the detailed questions for when the conversation is started. If you develop a good rapport with the participant, the interview is more likely to uncover information from unanticipated areas. You’ll always want the participant to lead the conversation because of this aspect.
 
-Define the technical environment. In our case it is for a mobile app. This will give the person you are interviewing some context into the allowed scope of the project.
+Conducting one-on-one interviews is most effective when you have prepared yourself to ensure you can formulate questions that will determine:
+
+* when the target users will use our app
+* where they will use our app
+* why they will use our app
+* how they will use our app
+
+EXAMPLE EXAMPLE EXAMPLE
+
+These interviews are an effective way to get a lot of data about our potential users' needs. Later in this process we will analyze this data, so make sure you get permission from the participant to record the interview. Audio is good, video is best. A lot is said in body language that you might miss during the live interview.
+
+Be aware that there are some limitations to these interviews. These limitations include:
+
+* The answers to your questions are guesses about how the participant *thinks* they will use the product.
+* These interviews are expensive, both in terms of money and time.
+
+Determine the best way to interview your target users, whether it is onsite and in-person (best), in person at your office, or over a video chat service of your users choosing. Sitepoint has an excellent article on how to prepare and interview a target user that includes:
+
+* Building trust by explaining the purpose of the video and how results will be used.
+* Focusings around the participant's pain points.
+* Determining if they would pay for your product.
+* Having a second person analyze the interview.
+
+###Focus Groups
+
+Focus groups are an efficient way to test our initial ideas and assumptions from our research so far. They also facilitate identifying relevant market segments and acquiring more delicious data on our users' needs. We must be careful that we don't only rely on data collected from focus groups, as they too have their limitations that include:
+
+![1984 quote](http://betterlivingthroughbeowulf.com/wp-content/uploads/2013/02/1984.jpg)
+
+* Relatively low number of participants (when compared with surveys for example).
+* Participants' speculation during the session.
+* Group think.
+
+> Focus groups provide high-level feedback that helps you to make strategic decisions. When you are getting to the point where you have to make very specific, tactical design decisions, it is time to move on to more reliable research methods. - [uxmatters](http://www.uxmatters.com/mt/archives/2011/07/dos-and-donts-for-focus-groups.php#sthash.iS3nrOSi.dpuf)
+
+Duke University has an [excellent guide](https://assessment.trinity.duke.edu/documents/How_to_Conduct_a_Focus_Group.pdf) on preparing for and conducting focus group interviews.
+
+An excellent way to save money if you are in [bootstrap mode](https://en.wikipedia.org/wiki/Bootstrapping) is to use a tool like [Google Hangouts](https://hangouts.google.com), [Blab.im](https://blab.im), [Appear.in](https://appear.in) or another [group video tool](http://www.azsmartoffice.com/articles/2015/livestreaming-for-business) to conduct your focus group studies.
 
 
-		3. Focus Groups
+
+
 		3. Surveys
 		3. Contextual Needfinding
 			4. Basic, Latent, Linear + Indifferent
