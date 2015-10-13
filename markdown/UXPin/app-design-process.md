@@ -109,9 +109,11 @@ You don't have to use a particular user research method at the time of release. 
 
 ---
 
-###Stakeholder Interviews
+###Stakeholder & Subject Matter Expert Interviews
 
-Stakeholder interviews take place early on in a project and are designed to help you gather an understanding of the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders. Conduct one-on-one interviews with different levels of staff, focusing on actual ‘doers’ as well as managers. These are useful if you are working on an app that already exists, like if you are a new UX designer at an organization, as well as on a new product that is just starting.
+Stakeholder interviews take place early on in a project and are designed to help you gather an understanding of the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders. Conduct one-on-one interviews with different levels of staff, focusing on actual ‘doers’ as well as managers. These are useful if you are working on an app that already exists, like if you are a new UX designer at an organization.
+
+Subject matter expert interviews take place at the same time and are especially useful for an app that doesn't yet exist, like the app we are working on for example.
 
 Presencing Institute has an excellent [process example](https://www.presencing.com/tools/stakeholder-interviews) and UX Apprentice has a [great list](http://www.uxapprentice.com/resources/stakeholder-interview-template/) of some possible things you may want to identify. These things will differ based on where your product is in its cycle, how large the organization is, though this list is pretty standard across all types of apps:
 
