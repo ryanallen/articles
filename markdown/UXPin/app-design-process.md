@@ -38,13 +38,12 @@ Process:
 
 
 1. Research and Strategy
-	2. Discovery
+	2. Phase 1: Discovery
 		3. Stakeholder Interviews
 		3. Competitive Research and Analysis
 		3. Benchmark Usability Testing
 		3. Affinity Diagraming
 		3. Requirements Gathering
-	2. User Research
 		3. Demographic Profiles
 		3. Psychographic Profiles
 		3. Interviews
@@ -63,7 +62,8 @@ Process:
 		3. Social Media Mining
 		3. Comparative Experiments
 		3. Usability Studies
-	2. User Modeling
+	2. Phase 2: Analysis
+		3. User Modeling
 		3. Personas (http://aarronwalter.com/design-personas/)
 		3. User Stories
 		3. Scenarios
@@ -75,7 +75,7 @@ Process:
 		3. Mental Models
 		3. Conceptual Models
 		3. Interaction Model
-	2. Strategy
+		3. Strategy
 		3. Project and Process Planning
 		3. Project Ecology
 		3. Metrics Development
@@ -90,7 +90,16 @@ Users Mental Model
 
 ---
 Strategy and Research
-A successful UX strategy requires buy-in from multiple roles and levels of the organization. Thinking about UX strategically may include: (http://www.redpillux.com/services/ux-strategy-research/)
+A successful UX strategy requires buy-in from multiple roles and levels of the organization. Thinking about UX strategically for this project will include discovering: (http://www.redpillux.com/services/ux-strategy-research/)
+
+* what problems we aim to solve, which we have already done.
+* who are target users
+* when the target users will use our app
+* where they will use our app
+* why they will use our app
+* how they will use our app
+http://www.sitepoint.com/conducting-user-interviews-will-actually-help/
+
 
 Reconciling and prioritizing business and user goals
 Understanding target audience(s)
@@ -103,9 +112,15 @@ Planning for organizational change
 
 #Strategy and Research
 
+> When you’re developing a business idea it can be tempting to build the product as quickly as possible in order to launch it early. Often, this is a fatal mistake because it can result in building a solution to your problem rather than something the users will value.
+
+> Although market research might seem like a boring and daunting task, it is still a vital component of any software development project. - http://www.sitepoint.com/conducting-user-interviews-will-actually-help/
+
 You don't have to use a particular user research method at the time of release. You use the one that best meets the needs of your team. With that said here is a giant list of tools for your toolkit.
 
-##Discovery
+##Phase 1: Discovery
+
+The discovery phase is the pre-product process in which we, as the designers, through different UX strategies, can obtain data in support of our [problem definition](LINK TO ARTICLE) for organization and analysis.
 
 ---
 
@@ -119,7 +134,7 @@ Presencing Institute has an excellent [process example](https://www.presencing.c
 
 * The project vision
 * Types of users
-* Target Audience
+* Target Audience 
 * Value Proposition
 * Competition
 * Process & Workflow
@@ -127,7 +142,7 @@ Presencing Institute has an excellent [process example](https://www.presencing.c
 * User Experience Goals
 
 EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
+Interview with psychologist PHD. Interview with target users who said they don't have a problem with stress. BM and JH
 EXAMPLES EXAMPLES EXAMPLES
 EXAMPLES EXAMPLES EXAMPLES
 
@@ -184,7 +199,8 @@ EXAMPLES EXAMPLES EXAMPLES
 
 ---
 
-	2.User Research
+
+		3. One-on-one Interviews
 		3. Demographic Profiles
 		3. Psychographic Profiles
 
