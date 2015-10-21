@@ -89,6 +89,25 @@ Users Mental Model
 6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
 
 ---
+
+##Subject Matter Expert Interviews
+
+Subject Matter Expert interviews take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you would start with stakeholder interviews which help you gather information about the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders.
+
+
+EXAMPLES EXAMPLES EXAMPLES
+Interview with psychologist PHD. Interview with target users who said they don't have a problem with stress. BM and JH
+EXAMPLES EXAMPLES EXAMPLES
+EXAMPLES EXAMPLES EXAMPLES
+###
+
+2. Survey Needfinding
+3. Competitor Analysis
+4. Demographics
+5. Psychographics
+6. Redefine problem
+
+
 Strategy and Research
 A successful UX strategy requires buy-in from multiple roles and levels of the organization. Thinking about UX strategically for this project will include discovering: (http://www.redpillux.com/services/ux-strategy-research/)
 
@@ -121,9 +140,9 @@ The discovery phase is the pre-product process in which we, as the designers, th
 
 ---
 
-###Stakeholder & Subject Matter Expert Interviews
+###Subject Matter Expert Interviews
 
-Stakeholder interviews take place early on in a project and are designed to help you gather an understanding of the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders. Conduct one-on-one interviews with different levels of staff, focusing on actual ‘doers’ as well as managers. These are useful if you are working on an app that already exists, like if you are a new UX designer at an organization.
+Subject Matter Expert interviews (or stakeholder interviews for an existing product) take place early on in a new product and are designed to help you gather a general understanding of the market space. organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders. Conduct one-on-one interviews with different levels of staff, focusing on actual ‘doers’ as well as managers. These are useful if you are working on an app that already exists, like if you are a new UX designer at an organization.
 
 Subject matter expert interviews take place at the same time and are especially useful for an app that doesn't yet exist, like the app we are working on for example.
 
@@ -242,10 +261,15 @@ Duke University has an [excellent guide](https://assessment.trinity.duke.edu/doc
 
 An excellent way to save money if you are in [bootstrap mode](https://en.wikipedia.org/wiki/Bootstrapping) is to use a tool like [Google Hangouts](https://hangouts.google.com), [Blab.im](https://blab.im), [Appear.in](https://appear.in) or another [group video tool](http://www.azsmartoffice.com/articles/2015/livestreaming-for-business) to conduct your focus group studies.
 
+###Surveys
+The goal with surveys is to get respondents to understand your question in the exact same way so they may easily respond. This will help you avoid errors in your measuremet and analysis later.
 
+Some quick tips for creating survey questions:
 
+Don’t make open-ended questions mandatory.
+Don't ask two questions disguised as one.
+Don't be too vague. 
 
-		3. Surveys
 		3. Contextual Needfinding
 			4. Basic, Latent, Linear + Indifferent
 			4. Ideal Point Model
@@ -377,7 +401,7 @@ The root cause of my wife's problem has been identified very quickly, which I ca
 ...because I have too many stressful thoughts. (refined problem)  
 2. Why do I have so many stressful thoughts?  
 ...because I can not calm my thoughts. (refined problem)  
-3. Why am I unable to calm my mind?  
+3. Why am I unable to calm my mind? 
 ...because I don't practice calming my mind. (refined problem)  
 4. Why am I unable to practice calming my mind?  
 ...because I don't have a process to calm my mind. (broken process identified)  
@@ -399,7 +423,7 @@ What about the deeper problem of not being more aware of our true [self](http://
 Throughout the design process we will continue to evolve the problem definition, so if we find we have gone too deep we can abstract back up one level. Let's go ahead and redefine our problem definition:
 
 **Redefined Problem Definition**:  
-*to enable users to become more aware of their true selves in an effort to calm their minds, reduce their stress, and become better people*.
+*to enable users to realize their true selves in an effort to become more mindful, reduce their stress, and become better people.*.
 
 ![Team Brainstorming Session](http://imgur.com/2HBBP49)  
 Photo Credit: [Kevin Dooley](https://www.flickr.com/photos/pagedooley/7007372665/in/photolist-bFdBL6-7MKH28-pEvkgx-7Zan7o-411AnZ-gLRRj-aguvar-5pQ2v-573V8v-czXcSf-fr6iwk-ehnQRz-65FoWi-9dZCyh-6YRkya-dcgiW7-5DAN7i-4X3nSg-7b8ffZ-pNqBTW-q3EGRW-q3EGQJ-q5AjYP-q5U3Pu-6VdHBf-pNnM8m-pNkBfv-p8Yy8U-pNqByC-q3EGb7-p927rM-pNoRE4-q5AjRp-pNqBF1-p8Yy7G-pNnLVN-pNoRq6-q5AjjH-72g1ve-ii6mW5-9rLUok-7EbdjK-6SeBNX-7gr1XS-Rs4eE-4SEHQP-7gn5Ti-gEVDf-9thJVu-7gqGdh), [Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)
