@@ -92,17 +92,63 @@ Users Mental Model
 
 ##Subject Matter Expert Interviews
 
-Subject Matter Expert interviews take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you would start with stakeholder interviews which help you gather information about the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders.
+Subject Matter Expert (SME) interviews take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you would start with stakeholder interviews which help you gather information about the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders.
+
+For this project I identified some Subject Matter Experts and conducted video interviews over skype. I analyzed the recordings and collected data from the interviews in an attempt to identify a common process for relieving stress, and become more aware of yourself, that could be extracted and used as a way to solve our current problem definition.
+
+Problem Definition Restated:
+*To enable users to become more aware of themselves in an effort to reduce their stress.*
+
+Some of the common ideas I found in the interviews I conducted were:
+
+1. Honestly analyze your self to learn your thoughts, emotions, and behaviors.
+2. Knowing your self lets you identify what makes you happy, or what you value in life.
+3. Knowing your values allows you to take action and make positive changes in an effort to live your values.
+
+These ideas can be turned into a process to solve our problem. So let's start with the first common idea. How does one go about analyzing themselves? A common theme in my SME interviews was meditation, though the word meditation has negative connotations around religion with 70% of the people I interviewed. Many people were turned off with their idea of meditation. This is something to keep in mind in the future. For now we need to collect some data around meditation to determine who our target audience might be and what their needs are when it comes to meditation.
+
+When trying to find a potential group of users needs it is important to ask open ended questions to try to get as much information as possible. If it is possible to do video interviews with people that is the best option, but it is difficult and expensive to do this all the time. Sometimes the best way to get a lot of data quickly is by using a survey.
 
 
-EXAMPLES EXAMPLES EXAMPLES
-Interview with psychologist PHD. Interview with target users who said they don't have a problem with stress. BM and JH
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-###
+##Needfinding
 
-2. Survey Needfinding
+Time to collect more raw data through some open ended one-on-one interviews and survey questions. Examples of open ended questions are:
+
+* How do you do x?
+* Why did you choose x?
+* What do you like about x?
+* What don't you like about x?
+* What do you consider when choosing an x?
+* What are suggestions for improving x?
+
+When you are interviewing and needfinding avoid asking yes / no questions. Don't ask how a person would fix something, as that is like asking them to be the designer. Avoid evaluations based on a scale, instead ask for a comparison.
+
+For surveys I enjoy using Google Forms. You can create branches in your surveys which allows you to avoid wasting the participants time and increases the chances of getting more valuable answers. For example, in [this survey](https://docs.google.com/a/dappergentlemen.com/spreadsheets/d/1hZ45IGdXA_4tlDz28T2l5XNe1fmfDAZgpuh9hBndXyU/edit?usp=sharing) that I conducted on reddit.com/r/meditation I was able to collect data from over 100 participants which I could then code into a Needs Statement. Participants were given the option to provide me with extra demographic and psychographic information at the end if they chose to. By keeping the servey open ended, not requiring any answers, and asking participants for permission to collect personal information, I received more honest and helpful answers than I would have by being restrictive and methodical. 95% of the participants willinginly gave me information about personal income, contact information, religous views and more because of this.
+
+###Needs Statements
+The goal here is to have a list of between 50 and 100 different needs coded into statements, which you can [see here](https://docs.google.com/spreadsheets/d/13eKWPCBByLAx-_qJ6Ipy5FwwlfPYbJDo7X6WYuCFty4/edit?usp=sharing). The needs should be specific to the user without too much abstraction. An example is:
+	**YES** - App encourages me to focus on learning new things.
+	**NO** - App encourages me to focus on my values.
+
+Next we will cluster groups of needs under a general statement that contains more specific detailed needs. This will allow us to use a higher level of abstraction.  
+
+
+4. Cluster a group of needs by the needs they express. A general statement contains more specific detailed needs. Primary needs and secondary needs. Allows for higher levels of abstraction.
+5. Flag the latent needs
+
+1. Determine your target audience. Survey users around product category (focus groups, individual one on one interviews). Interview 10 users in each distinct segment.
+Example: Dropbox has uses for professionals and consumers. You can further segment each group.
+
+receiving 119 survey responses from potential users on r/meditation, I created the following list of 30 user needs arranged hierarchically. 
+
+
+
+With this list of needs we can now begin exploring potential solutions on paper.
+
+
 3. Competitor Analysis
+	Hemisync
+	Headspace
 4. Demographics
 5. Psychographics
 6. Redefine problem
