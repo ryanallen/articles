@@ -89,9 +89,13 @@ Users Mental Model
 6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
 
 ---
+##Collect Raw Data
+Collect data then analyze it. We will collect data through one-on-one interviews and surveys with subject matter experts and potential users.
 
-##Subject Matter Expert Interviews
+###Interviews
+How To Interview
 
+###Subject Matter Expert Interviews
 Subject Matter Expert (SME) interviews take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you would start with stakeholder interviews which help you gather information about the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders.
 
 For this project I identified some Subject Matter Experts and conducted video interviews over skype. I analyzed the recordings and collected data from the interviews in an attempt to identify a common process for relieving stress, and become more aware of yourself, that could be extracted and used as a way to solve our current problem definition.
@@ -110,7 +114,7 @@ These ideas can be turned into a process to solve our problem. So let's start wi
 When trying to find a potential group of users needs it is important to ask open ended questions to try to get as much information as possible. If it is possible to do video interviews with people that is the best option, but it is difficult and expensive to do this all the time. Sometimes the best way to get a lot of data quickly is by using a survey.
 
 
-##Needfinding
+###Surveys with Potential Users
 
 Time to collect more raw data through some open ended one-on-one interviews and survey questions. Examples of open ended questions are:
 
@@ -125,33 +129,53 @@ When you are interviewing and needfinding avoid asking yes / no questions. Don't
 
 For surveys I enjoy using Google Forms. You can create branches in your surveys which allows you to avoid wasting the participants time and increases the chances of getting more valuable answers. For example, in [this survey](https://docs.google.com/a/dappergentlemen.com/spreadsheets/d/1hZ45IGdXA_4tlDz28T2l5XNe1fmfDAZgpuh9hBndXyU/edit?usp=sharing) that I conducted on reddit.com/r/meditation I was able to collect data from over 100 participants which I could then code into a Needs Statement. Participants were given the option to provide me with extra demographic and psychographic information at the end if they chose to. By keeping the servey open ended, not requiring any answers, and asking participants for permission to collect personal information, I received more honest and helpful answers than I would have by being restrictive and methodical. 95% of the participants willinginly gave me information about personal income, contact information, religous views and more because of this.
 
-###Needs Statements
-The goal here is to have a list of between 50 and 100 different needs coded into statements, which you can [see here](https://docs.google.com/spreadsheets/d/13eKWPCBByLAx-_qJ6Ipy5FwwlfPYbJDo7X6WYuCFty4/edit?usp=sharing). The needs should be specific to the user without too much abstraction. An example is:
-	**YES** - App encourages me to focus on learning new things.
-	**NO** - App encourages me to focus on my values.
-
-Next we will cluster groups of needs under a general statement that contains more specific detailed needs. This will allow us to use a higher level of abstraction.  
-
-
-4. Cluster a group of needs by the needs they express. A general statement contains more specific detailed needs. Primary needs and secondary needs. Allows for higher levels of abstraction.
-5. Flag the latent needs
-
-1. Determine your target audience. Survey users around product category (focus groups, individual one on one interviews). Interview 10 users in each distinct segment.
-Example: Dropbox has uses for professionals and consumers. You can further segment each group.
-
-receiving 119 survey responses from potential users on r/meditation, I created the following list of 30 user needs arranged hierarchically. 
-
-
-
-With this list of needs we can now begin exploring potential solutions on paper.
-
-
 3. Competitor Analysis
 	Hemisync
 	Headspace
-4. Demographics
-5. Psychographics
-6. Redefine problem
+
+4. Identify Users Demo and Psychographics
+
+##Identifying Needs
+Time to gather our mountain of notes, videos, and audio recordings in an attempt to analyze all the data and code up some fancy needs statements. As a general rule we will take an observation made by the user and code it in accordance with a few rules.
+
+1. Needs Statements Should be as Specific as the Raw Data to Avoid Losing Valuable Data.
+
+Here is a need I noted during a user interview of a competitor's product:
+
+	**Original Statement** - "I wish I could adjust the volume better because when voice and music play at the same time the music is so loud I can't hear the person talking."
+
+	**YES** - the app plays background and voice audio at appropriate levels.
+
+	**NO** - the app doesn't have loud background audio.
+
+2. Express Needs Without Implying a Design Concept. 
+
+This allows you to stay focused on the definition of the problem, rather than trying to solve the problem. We want to state a *what*, not a *how* in the needs statements. Again we can use the same example as above:
+
+	**YES** - the app plays background and voice audio at appropriate levels.
+
+	**NO** - the app has separate volume controls for background audio and voice.
+
+3. Express needs as an *attribute of the app* to be designed.
+
+This makes it easier to interpret and edit statements later on as they will all be expressed in a similar way. It also sets users' needs as qualities of the app that if addressed will solve a problem in the user experience.
+
+	**Yes** - The app reminds me to use it.
+
+	**No** - I am reminded to use the app.
+
+
+4. Avoid the words *must* and *should*.
+
+It is very tempting to use words like musht and should, especially if our users used these words, however we should avoid these words to keep from prematurely establishing relative importance. We will determine which needs are more important than the others in a future step.
+
+	**Yes** - The app has no spiritual or religous connotations.
+
+	**No** - The app should not have a spiritual or religious bias.
+	**No** - The app must not have a spiritual or religious bias.
+
+With these ideas in mind it is time to code, edit, and analyze our needs statements.
+
 
 
 Strategy and Research
