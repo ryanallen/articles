@@ -70,7 +70,7 @@ Process:
 		3. Task Analysis
 		3. Storyboards
 		3. Timelines
-		3. Customer Journeys
+		3. user Journeys
 		3. Process Diagrams
 		3. Mental Models
 		3. Conceptual Models
@@ -89,11 +89,39 @@ Users Mental Model
 6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
 
 ---
+#Defining User Needs
+1st step is defining the problem.
+2nd step is defining what the users need to solve the problem.
+
+Example:
+
+I did this thing and the basic needs were met, which I didn't think twice about because of course they were met. The company also anticipated my need of XXX and did XXX, which really delighted me. As I was X they also X so that X. This is a brand that engaged with my latent needs and affected me very positively, and will continue to get my business.
+
+Here is an example of a user need from this:
+
+For most apps you will at least see about 25 user needs, but don't be surprised if you shoot up over 400 on other apps. So how do we go about defining our users' needs?
+
 ##Collect Raw Data
-Collect data then analyze it. We will collect data through one-on-one interviews and surveys with subject matter experts and potential users.
+First, we have to collect as much data as possible. We will collect data through one-on-one interviews and surveys with subject matter experts and potential users.
+
+###Observational Methods
+A passive observation of the users inaction. Go to their environment. Look for cues for the needs, like awkward actions, situations where users made fixes for themselves like with tape or glue, hand written signs, like sticky notes and are great way to observe frustrations. This can be hard for many designers as it requires going out into the real world and finding users to observe. Here is one example of me doing this for this app:
+
+I identified some meditation practitioners who agreed to let me observe their practice. It was simple to find a public meditation group on Yelp, less easy to get them to allow me to record it with a GoPro and impossible to get permission to show it publicly. 
+
+One of the first things I noticed was a sign on the door of the space they were using (a local church) that said "it is highly recommended that you bring a pillow" -Get photo!
+
+I asked the group what the purpose was of the sign and was told "sitting on the floor for longer than 10 minutes hurts without one." There we have already identified a number of problems with their process, rigidity in a physical pose , length of time of a process, etc. 
+
+
+This method is easiest if you are addressing an existing problem for which there are existing solutions. Observe how your competition engages users and see where you can be better. Document with videos as much as youre able, as well as with photos and written notes.
 
 ###Interviews
-How To Interview
+Identifying user needs is primarily a qualitative research task. In a typical study 10 users are interviewed for approximately one-hour in a one-on-one or focus group setting for each segment of your audience. For example, a B2B user might be asked to picture herself viewing work on a computer. 
+
+>"As the user describes her experience, the interviewer keeps probing, searching for better and more complete descriptions of how she views data, images, video, or anything else, how she works with those images, working conditions, ambient lighting, etc. The goal is to experience the experience of the user."" - [the Voice of the Consumer](http://www.mit.edu/~hauser/Papers/Gaskin_Griffin_Hauser_et_al%20VOC%20Encyclopedia%202011.pdf) 
+
+![10 interviews are appropriate](http://imgur.com/aR9bbyx)
 
 ###Subject Matter Expert Interviews
 Subject Matter Expert (SME) interviews take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you would start with stakeholder interviews which help you gather information about the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders.
@@ -103,15 +131,12 @@ For this project I identified some Subject Matter Experts and conducted video in
 Problem Definition Restated:
 *To enable users to become more aware of themselves in an effort to reduce their stress.*
 
-Some of the common ideas I found in the interviews I conducted were:
+Some of the common ideas I found in the interviews I conducted had a common solution. The solution had many names from mindfulness to prayer, but I found that there were commonalities between them which you are free to discover yourself in a sampling of interviews I did with a psychologist, neurogenic yoga creator and instructor, a psychic, a polymath and a religious expert. 
 
-1. Honestly analyze your self to learn your thoughts, emotions, and behaviors.
-2. Knowing your self lets you identify what makes you happy, or what you value in life.
-3. Knowing your values allows you to take action and make positive changes in an effort to live your values.
+Now that we have discovered this common thread it is time to find out what the users are like in a community centered around the idea. Where do we find those communities? Where indeed. 
 
-These ideas can be turned into a process to solve our problem. So let's start with the first common idea. How does one go about analyzing themselves? A common theme in my SME interviews was meditation, though the word meditation has negative connotations around religion with 70% of the people I interviewed. Many people were turned off with their idea of meditation. This is something to keep in mind in the future. For now we need to collect some data around meditation to determine who our target audience might be and what their needs are when it comes to meditation.
 
-When trying to find a potential group of users needs it is important to ask open ended questions to try to get as much information as possible. If it is possible to do video interviews with people that is the best option, but it is difficult and expensive to do this all the time. Sometimes the best way to get a lot of data quickly is by using a survey.
+When trying to find a potential group of users needs it is important to ask open ended questions to try to get as much information as possible. If it is possible to do video interviews with people that is the best
 
 
 ###Surveys with Potential Users
@@ -136,7 +161,13 @@ For surveys I enjoy using Google Forms. You can create branches in your surveys 
 4. Identify Users Demo and Psychographics
 
 ##Identifying Needs
-Time to gather our mountain of notes, videos, and audio recordings in an attempt to analyze all the data and code up some fancy needs statements. As a general rule we will take an observation made by the user and code it in accordance with a few rules.
+Time to gather our mountain of notes, videos, and audio recordings in an attempt to analyze all the data and code up some fancy needs statements.
+
+###How to Identify Needs
+We collected data in an effort to figure out what qualities of our app will close the gap in the user experience. 
+
+###How to Code Needs Statements
+We do this by following XXX rules.
 
 1. Needs Statements Should be as Specific as the Raw Data to Avoid Losing Valuable Data.
 
@@ -167,14 +198,20 @@ This makes it easier to interpret and edit statements later on as they will all 
 
 4. Avoid the words *must* and *should*.
 
-It is very tempting to use words like musht and should, especially if our users used these words, however we should avoid these words to keep from prematurely establishing relative importance. We will determine which needs are more important than the others in a future step.
+It is very tempting to use words like must and should, especially if our users used these words, however we should avoid these words to keep from prematurely establishing relative importance. We will determine which needs are more important than the others in a future step.
 
 	**Yes** - The app has no spiritual or religous connotations.
 
 	**No** - The app should not have a spiritual or religious bias.
 	**No** - The app must not have a spiritual or religious bias.
 
-With these ideas in mind it is time to code, edit, and analyze our needs statements.
+With these ideas in mind code a big list of statements. You will potentially have between 25 and 500. Expect this to take some time. I find that it takes me about 2 hours to get through every hour of video, and it is difficult to power through interview videos as they take a lot of cognitive processing to analyze facial and body language as well as spoken language.
+
+Here 
+
+
+
+
 
 
 
@@ -366,7 +403,7 @@ Don't be too vague.
 		3. Task Analysis
 		3. Storyboards
 		3. Timelines
-		3. Customer Journeys
+		3. user Journeys
 		3. Process Diagrams
 		3. Mental Models
 		3. Conceptual Models
@@ -502,7 +539,7 @@ Here are a couple of ways you can probe deeper into a design problems with your 
 
 * **Brainstorm on the problem**. You can get your team together on the perceived problem, having everyone on the team — from designers to developers to marketers to business analysts to sales — participate. Now while it'll be up to the designer ultimately to solve the design problems, teammates from other departments can provide other insights that will help frame your work. After all, sales may be closer to users and have a deeper understanding of their problems while a business analysts may have insights into the market. 
 
-* **Researching the problem**. You can conduct a competitive marketing analysis to determine if this problem is being faced elsewhere. You can also conduct a customer survey (like the one we did early on stress). If it's an existing product, dig through your analytics, heuristics, content, or conduct users tests. 
+* **Researching the problem**. You can conduct a competitive marketing analysis to determine if this problem is being faced elsewhere. You can also conduct a user survey (like the one we did early on stress). If it's an existing product, dig through your analytics, heuristics, content, or conduct users tests. 
 
 Doing these things will go a long way to getting to what's causing your problem, its root cause and how to solve it. 
 
