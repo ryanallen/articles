@@ -165,6 +165,8 @@ For surveys I enjoy using Google Forms. You can create branches in your surveys 
 
 A competitor analysis is used to define who your competitors are, what solutions they provide to what problems, understand their and your own values, and further refine your ideal target users.
 
+Looking into using perter 5 forces instead of SWOT https://en.wikipedia.org/wiki/Porter_five_forces_analysis
+
 Start off by conducting a [S.W.O.T. analysis](https://en.wikipedia.org/wiki/SWOT_analysis) which evaluates the **Strengths**, **Weaknesses**, **Opportunities** and **Threats** involved in an app. It involves specifying the objective of the app, which is typically the problem definition, and identifying the internal and external factors that are favorable and unfavorable to achieve that objective. 
 
 In our app example a S.W.O.T analysis looked like this:
