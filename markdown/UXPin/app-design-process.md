@@ -100,7 +100,7 @@ Here is an example of a user need from this:
 
 For most apps you will at least see about 25 user needs, but don't be surprised if you shoot up over 400 on other apps. So how do we go about defining our users' needs?
 
-##Collect Raw Data
+##Discovery: Collect Raw Data
 First, we have to collect as much data as possible. We will collect data through one-on-one interviews and surveys with subject matter experts and potential users.
 
 ###Observational Methods
@@ -159,13 +159,23 @@ When you are interviewing and needfinding with surveys here are a few things to 
 
 For surveys I enjoy using Google Forms. You can create branches in your surveys which allows you to avoid wasting the participants time and increases the chances of getting more valuable answers. For example, in [the previous Google Survey](https://docs.google.com/a/dappergentlemen.com/spreadsheets/d/1hZ45IGdXA_4tlDz28T2l5XNe1fmfDAZgpuh9hBndXyU/edit?usp=sharing), I was able to collect data from over 100 participants who were given the option to provide me with extra demographic and psychographic information at the end if they chose to, which further helps to identify our core target audience. 
 
+###Competitor Analysis
+
+>"So it is said that if you know your enemies and know yourself, you can win a hundred battles without a single loss." - The Art of War by Sun Tzu
+
+A competitor analysis is used to define who your competitors are, what solutions they provide to what problems, understand their and your own values, and further refine your ideal target users.
+
+Start off by conducting a [S.W.O.T. analysis](https://en.wikipedia.org/wiki/SWOT_analysis) which evaluates the **Strengths**, **Weaknesses**, **Opportunities** and **Threats** involved in an app. It involves specifying the objective of the app, which is typically the problem definition, and identifying the internal and external factors that are favorable and unfavorable to achieve that objective. 
+
+In our app example a S.W.O.T analysis looked like this:
+
+Next we will review some potential apps in a similar product space (direct competitors). We start by doing an inventory. Who has what? Be mindful of your tendency to stray too far from your identified user needs. Don't let this become a feature list you view as requirements.
+
+If we are able to do an in-depth assessment, for example by measuring user performance in a competing product, it will go a long way in setting a good baseline for us to target or beat with our app.
+
 By interviewing subject matter exports, analyzing compeitors with potenital solutions to your problem definition, and conducting surveys with large groups of target users, we are able to collect a great amount of raw data which we can analayze to increase our understanding of the problem we face, and help us empirically identify potential solutions to the problem.
 
 
-
-3. Competitor Analysis
-	Hemisync
-	Headspace
 
 4. Identify Users Demo and Psychographics
 
