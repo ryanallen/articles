@@ -90,8 +90,7 @@ Users Mental Model
 
 ---
 #Defining User Needs
-1st step is defining the problem.
-2nd step is defining what the users need to solve the problem.
+As you may have read in the last section, the first step in the app UX design process is defining the problem. The second step is defining what the users need to solve that problem.
 
 Example:
 
@@ -135,13 +134,13 @@ Some of the common ideas I found in the interviews I conducted had a common solu
 
 Now that we have discovered this common thread it is time to find out what the users are like in a community centered around the idea. Where do we find those communities? Where indeed. 
 
-
-When trying to find a potential group of users needs it is important to ask open ended questions to try to get as much information as possible. If it is possible to do video interviews with people that is the best
-
-
 ###Surveys with Potential Users
 
-Time to collect more raw data through some open ended one-on-one interviews and survey questions. Examples of open ended questions are:
+We are slowly discovering who a potential base of users are for our app. We are looking for people who are interested in making internal changes to themselves by making their mind more flexible in a gradual, consistent, and scientific way.
+
+I was able to find a few places with people who fit into this framework by searching for meditation groups on meetup, and attending different groups with different teachings, as previously stated. I also found a vibrant and active community at r/meditation, r/mindfulness, and many other great communities found in the sidebars of those two subreddits. This second set of communities is where I conducted a few surveys to answer some questions I had on the process of meditation.
+
+Some ideas of the open-ended questions I used in my [Google Survey (which you can see here)](https://docs.google.com/a/dappergentlemen.com/spreadsheets/d/1hZ45IGdXA_4tlDz28T2l5XNe1fmfDAZgpuh9hBndXyU/edit?usp=sharing) were based on:
 
 * How do you do x?
 * Why did you choose x?
@@ -150,9 +149,19 @@ Time to collect more raw data through some open ended one-on-one interviews and 
 * What do you consider when choosing an x?
 * What are suggestions for improving x?
 
-When you are interviewing and needfinding avoid asking yes / no questions. Don't ask how a person would fix something, as that is like asking them to be the designer. Avoid evaluations based on a scale, instead ask for a comparison.
+When you are interviewing and needfinding with surveys here are a few things to keep in mind:
 
-For surveys I enjoy using Google Forms. You can create branches in your surveys which allows you to avoid wasting the participants time and increases the chances of getting more valuable answers. For example, in [this survey](https://docs.google.com/a/dappergentlemen.com/spreadsheets/d/1hZ45IGdXA_4tlDz28T2l5XNe1fmfDAZgpuh9hBndXyU/edit?usp=sharing) that I conducted on reddit.com/r/meditation I was able to collect data from over 100 participants which I could then code into a Needs Statement. Participants were given the option to provide me with extra demographic and psychographic information at the end if they chose to. By keeping the servey open ended, not requiring any answers, and asking participants for permission to collect personal information, I received more honest and helpful answers than I would have by being restrictive and methodical. 95% of the participants willinginly gave me information about personal income, contact information, religous views and more because of this.
+1. Avoid asking yes/no questions. The reason is you want as much honest information as possible, and limiting them to either yes or no doesn't let the user's mind wander and produce valuable new ideas as opposed. By asking a yes/no question you are validating an idea you had. This phase is about discovering, not validating.
+
+2. Don't ask a survey participant how they would fix something specific, as that is like asking them to be the designer. For example, when trying to research a competitor's app, ask the survey participants (who have been identified as users of the app, of course) to give you their ideas about the app, as this will usually get them to list some problems they have with it as well as things they like about it.
+
+3. Avoid evaluations based on a scale, instead ask for a comparison. Instead of asking if a feature is better or worse than another feature, ask the user about how they feel the two features are different and how they are similar.
+
+For surveys I enjoy using Google Forms. You can create branches in your surveys which allows you to avoid wasting the participants time and increases the chances of getting more valuable answers. For example, in [the previous Google Survey](https://docs.google.com/a/dappergentlemen.com/spreadsheets/d/1hZ45IGdXA_4tlDz28T2l5XNe1fmfDAZgpuh9hBndXyU/edit?usp=sharing), I was able to collect data from over 100 participants who were given the option to provide me with extra demographic and psychographic information at the end if they chose to, which further helps to identify our core target audience. 
+
+By interviewing subject matter exports, analyzing compeitors with potenital solutions to your problem definition, and conducting surveys with large groups of target users, we are able to collect a great amount of raw data which we can analayze to increase our understanding of the problem we face, and help us empirically identify potential solutions to the problem.
+
+
 
 3. Competitor Analysis
 	Hemisync
@@ -230,6 +239,8 @@ Setting goals and success metrics
 Defining an iterative research & design process
 Stakeholder education
 Planning for organizational change
+
+Now might be a good time to analyze and potentially restate our problem definition. 
 
 ---
 
