@@ -101,19 +101,13 @@ Users Mental Model
 
 
 ---
-#Defining User Needs
-As you may have read in the last section, the first step in the app UX design process is defining the problem. The second step is defining what the users need to solve that problem.
-
-Example:
-
-I did this thing and the basic needs were met, which I didn't think twice about because of course they were met. The company also anticipated my need of XXX and did XXX, which really delighted me. As I was X they also X so that X. This is a brand that engaged with my latent needs and affected me very positively, and will continue to get my business.
-
-Here is an example of a user need from this:
-
-For most apps you will at least see about 25 user needs, but don't be surprised if you shoot up over 400 on other apps. So how do we go about defining our users' needs?
+#Defining Users and Their Needs
+As you may have read in the last section, the first step in our UX design process was to define the problem in an effort to really understand the core of what we are trying to design a solution for. The second step is defining who the users are, and what they need to solve the problem.
 
 ##Discovery: Collect Raw Data
-First, we have to collect as much data as possible. We will collect data through one-on-one interviews and surveys with subject matter experts and potential users.
+First, we have to collect as much raw data as possible. If you are working on a product that already exists you may be able collect raw data in the form of [digital analytics](https://support.google.com/analytics/answer/6080732?hl=en), [crash reports](https://try.crashlytics.com), [bounce rates](http://www.analytics-ninja.com/blog/2012/06/google-analytics-bounce-rate-demystified.html), [a/b tests](https://support.google.com/analytics/answer/1745147?hl=en), observing users, conducting interviews, surveys, focus groups, researching your competitors, carrying out diary and photo studies, social media mining, comparitive experiments, and other usability studies. If, like in our case, this is a new solution you are designing from scratch, it is best to first gain some insight into who your potential user actually is.
+
+
 
 ###Observational Methods
 A passive observation of the users inaction. Go to their environment. Look for cues for the needs, like awkward actions, situations where users made fixes for themselves like with tape or glue, hand written signs, like sticky notes and are great way to observe frustrations. This can be hard for many designers as it requires going out into the real world and finding users to observe. Here is one example of me doing this for this app:
