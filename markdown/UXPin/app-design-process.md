@@ -95,7 +95,8 @@ Users Mental Model
 		3. Interviews
 		3. Subject Matter Expert Interviews
 		3. Surveys with Potential Users
-		3. Competitor Analysis
+	2. Competitor Analysis
+		3. 
 	2. Identifying Needs
 		3. Coding a Needs Statement
 
@@ -135,20 +136,15 @@ I asked the group what the purpose was of the sign and was told "sitting on the 
 
 This observational method is easiest if you are addressing an existing problem for which there are existing solutions offered by competitors. Observe how your competition engages users and see where you can be better. Document with videos as much as you're able, as well as with photos and written notes.
 
-###Competitor Research and Analysis
+##Competitor Research and Analysis
 >"So it is said that if you know your enemies and know yourself, you can win a hundred battles without a single loss." - The Art of War by Sun Tzu
 
 Competitor research and analysis is used to define who our competitors are, understand the solutions they provide, identify valid solutions to our problems and potential problems that arise from their solutions, understand the [level of competition](https://www.youtube.com/watch?v=3AD-M5GqalM) and what [strengths, weaknesses, opportunities and threats](https://en.wikipedia.org/wiki/SWOT_analysis) exist in our industry, and further refine our ideal target users in an effort to understand their needs.
 
-Depending on the project's timeline it's often a good idea to branch out and research competitors and solutions in some more general categories. For example, instead of only researching the category of *meditation apps*, which is an obvious space to start on our current path, I also spent hundreds of hours researching and analyzing [Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D), [Cognitive Behavioral Therapy](http://www.audible.com/pd/Science-Technology/Cognitive-Behavioral-Therapy-Audiobook/B00ZB7Q1RS/ref=a_search_c4_1_1_srTtl?qid=1446670359&sr=1-1), [Psychotherapy](https://en.wikipedia.org/wiki/Neurosis_and_Human_Growth) and the [Art of Listening](http://www.amazon.com/The-Art-Listening-Dominick-Barbara/dp/1438291825), a couple [western](https://en.wikipedia.org/wiki/Mormonism) and [eastern](https://en.wikipedia.org/wiki/Buddhism) religions, as well as a dozen [self-help books](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People), [audio guides](https://www.monroeinstitute.org), different yoga instructors, and [group meditation events](http://www.yelp.com/).
+Depending on the project's roadmap and your timelines it can be enlightening to branch out and research competitors and solutions in some more general categories. For example, instead of only researching the category of *meditation apps*, which is an obvious space to start on our current path, I also spent hundreds of hours researching and analyzing [Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D), [Cognitive Behavioral Therapy](http://www.audible.com/pd/Science-Technology/Cognitive-Behavioral-Therapy-Audiobook/B00ZB7Q1RS/ref=a_search_c4_1_1_srTtl?qid=1446670359&sr=1-1), [Psychotherapy](https://en.wikipedia.org/wiki/Neurosis_and_Human_Growth) and the [Art of Listening](http://www.amazon.com/The-Art-Listening-Dominick-Barbara/dp/1438291825), a couple [western](https://en.wikipedia.org/wiki/Mormonism) and [eastern](https://en.wikipedia.org/wiki/Buddhism) religions, as well as a dozen [self-help books](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People), journal [audio guides](https://www.monroeinstitute.org), different yoga instructors, [group meditation events](http://www.yelp.com/), and even [research on synthetic emotions](https://books.google.com/books?hl=en&lr=&id=nFbuerzcJcYC&oi=fnd&pg=PP1&dq=Emotions:+a+Philosophical+Introduction+By+Jordi+Vallverdú&ots=JDpcRSaB9s&sig=ELMKbld51GTZdJPJgsBCaRwhMKs#v=onepage&q&f=false).
 
 ![Photo of filled notebooks](src)
 
-There are many ways you can conduct a competitor analysis like conducting a content inventory of competitors in our space, conducting a [S.W.O.T. analysis](https://en.wikipedia.org/wiki/SWOT_analysis), and the [Porter 5 Forces Analysis](https://www.youtube.com/watch?v=3AD-M5GqalM). 
-
-At the most basic, ensure you inventory at least three of your closest competitors. Who has what? Be mindful not to stray too far from your identified user needs. Don't let this become a feature list you view as requirements.
-
-As an example, for this app I spent over 100 hours analyzing the content in some of my competitors products, from cognitive behavioral therapy to guided meditations, to see how their messages aligned with the needs of my users from the needs I gathered from my users needs.
 
 ###Interviewing Experts
 > Speak, so that I may see you - Socrates
