@@ -145,16 +145,29 @@ Depending on the project's roadmap and your timelines it can be enlightening to 
 
 ![Photo of filled notebooks](src)
 
+This process opens up many opportunities to meet knowledgeable experts across many different fields. we are then afforded the luxury of interviewing subject matter experts and getting valuable data relating to the ideas and user needs we have been uncovering. So how do you go about interviewing experts?
+
 
 ##Interviewing Experts
 > Speak, so that I may see you - Socrates
 
-[Subject Matter Expert (SME) interviews](https://www.interaction-design.org/literature/article/8-tips-for-conducting-ux-interviews) take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you might start with stakeholder interviews which help when gathering information about the organization, discovering staff needs, and uncovering the major problems as seen by the point of view of the stakeholders.
+[Subject matter expert (SME) interviews](https://www.interaction-design.org/literature/article/8-tips-for-conducting-ux-interviews) take place early on in a new product and are designed to help us gather a general understanding of our [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product we might start with stakeholder interviews which help when gathering information about the organization, discovering staff needs, and uncovering the major problems as seen by the point of view of the stakeholders. In our example we want to interview SMEs from each of the categories we researched containing our competitors.
 
-For this project I identified some Subject Matter Experts and conducted video interviews over skype. I analyzed the recordings and collected data from the interviews in an attempt to identify a common process for relieving stress, and become more aware of yourself, that could be extracted and used as a way to solve our current problem definition.
+###Finding Experts
+Finding SME's may seem daunting, as it involves networking and meeting new people, which isn't an easy thing for many people to do. The reality however is that it tends to be a pretty simple and straight-forward process. It typically starts by letting your social circle know you are looking for, say, a psychologist who is interested in talking about stress, and cross your fingers that someone knows someone. Next is researching and stalking experts in a field, which usually involves sending a few messages on twitter or linkedin. Finally we will find and hire professional and pay them for the interview, though most of the time you won't have to go this far. It is pretty rare that I have to resort to paying someone. I've found that most professionals are happy to talk about topics they are passionate about to someone willing to listen for free.
 
-Problem Definition Restated:
-*To enable users to become more aware of themselves in an effort to reduce their stress.*
+###How to Interview Experts
+This is a fun topic that everyone has different opinions on. Some friends of mine like to conduct their interviews in a very rigorous manner, with lists and very specific questions they want answers to. Others I know like to just wing the entire interview and just 'see what happens'. I personally find myself somewhere in the middle. I prepare a few questions I want answers to but allow enough freedom in the conversation to explore topics that may appear to have no relevance until reviewing the video back later.
+
+A few general rules I try to follow are:
+
+* Don't talk. Ask a specific question and let the expert talk without being interrupted. This can be difficult, as you'll see if you watch any of my interviews. It is always something to be conscious of and practice.
+
+* Practice empathy. This skill helps you to understand, and then to know the person you are interviewing by allowing you to connect on an emotional as well as intellectual level.
+
+* Listen, stay engaged and don't let your mind wander. Meditation can help you learn to focus and concentrate :)
+
+* Don't be critical, dismissive or judgmental. The trick is to be aware of when you are being critical, dismissive or judgmental. Another area where meditation can help you as a ux designer.
 
 Some of the common ideas I found in the interviews I conducted had a common solution. The solution had many names from mindfulness to prayer, but I found that there were commonalities between them which you are free to discover yourself in a sampling of interviews I did with a psychologist, neurogenic yoga creator and instructor, a psychic, a polymath and a religious expert. 
 
