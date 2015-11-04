@@ -88,6 +88,18 @@ Users Mental Model
 5. Visual Design
 6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
 
+1. Defining User Needs
+	2. Discovery: Collect Raw Data
+		3. Observational Methods
+		3. Interviews
+		3. Subject Matter Expert Interviews
+		3. Surveys with Potential Users
+		3. Competitor Analysis
+	2. Identifying Needs
+		3. Coding a Needs Statement
+
+
+
 ---
 #Defining User Needs
 As you may have read in the last section, the first step in the app UX design process is defining the problem. The second step is defining what the users need to solve that problem.
@@ -165,29 +177,20 @@ For surveys I enjoy using Google Forms. You can create branches in your surveys 
 
 A competitor analysis is used to define who your competitors are, what solutions they provide to what problems, understand their and your own values, and further refine your ideal target users.
 
-Looking into using perter 5 forces instead of SWOT https://en.wikipedia.org/wiki/Porter_five_forces_analysis
+There are many ways you can conduct a competitor analysis like conducting a content inventory of competitors in our space, conducting a [S.W.O.T. analysis](https://en.wikipedia.org/wiki/SWOT_analysis), and the [Porter 5 Forces Analysis](https://www.youtube.com/watch?v=3AD-M5GqalM). 
 
-Start off by conducting a [S.W.O.T. analysis](https://en.wikipedia.org/wiki/SWOT_analysis) which evaluates the **Strengths**, **Weaknesses**, **Opportunities** and **Threats** involved in an app. It involves specifying the objective of the app, which is typically the problem definition, and identifying the internal and external factors that are favorable and unfavorable to achieve that objective. 
+At the most basic, ensure you inventory at least three of your closest competitors. Who has what? Be mindful not to stray too far from your identified user needs. Don't let this become a feature list you view as requirements.
 
-In our app example a S.W.O.T analysis looked like this:
-
-Next we will review some potential apps in a similar product space (direct competitors). We start by doing an inventory. Who has what? Be mindful of your tendency to stray too far from your identified user needs. Don't let this become a feature list you view as requirements.
-
-If we are able to do an in-depth assessment, for example by measuring user performance in a competing product, it will go a long way in setting a good baseline for us to target or beat with our app.
-
-By interviewing subject matter exports, analyzing compeitors with potenital solutions to your problem definition, and conducting surveys with large groups of target users, we are able to collect a great amount of raw data which we can analayze to increase our understanding of the problem we face, and help us empirically identify potential solutions to the problem.
-
-
+As an example, for this app I spent over 100 hours analyzing the content in some of my competitors products, from cognitive behavioral therapy to guided meditations, to see how their messages aligned with the needs of my users from the needs I gathered from my users needs.
 
 4. Identify Users Demo and Psychographics
 
 ##Identifying Needs
 Time to gather our mountain of notes, videos, and audio recordings in an attempt to analyze all the data and code up some fancy needs statements.
 
-###How to Identify Needs
 We collected data in an effort to figure out what qualities of our app will close the gap in the user experience. 
 
-###How to Code Needs Statements
+###Coding a Needs Statement
 We do this by following XXX rules.
 
 1. Needs Statements Should be as Specific as the Raw Data to Avoid Losing Valuable Data.
@@ -228,12 +231,19 @@ It is very tempting to use words like must and should, especially if our users u
 
 With these ideas in mind code a big list of statements. You will potentially have between 25 and 500. Expect this to take some time. I find that it takes me about 2 hours to get through every hour of video, and it is difficult to power through interview videos as they take a lot of cognitive processing to analyze facial and body language as well as spoken language.
 
-Here 
 
 
 
 
-
+---
+---
+---
+---
+---
+---
+---
+---
+---
 
 
 Strategy and Research
