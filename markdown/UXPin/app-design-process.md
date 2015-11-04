@@ -101,30 +101,42 @@ Users Mental Model
 
 
 ---
-#Defining Users and Their Needs
-As you may have read in the last section, the first step in our UX design process was to define the problem in an effort to really understand the core of what we are trying to solve. We want to design a deep and meaningful experience for our potential users as opposed to a shallow simple feature. The second step in our process is defining who the users are, and what they need to solve the problem.
+#Know Thy User
+
+> “When people talk, listen completely. Most people never listen.” 
+― Ernest Hemingway
+
+As you may have read in the last section, the first step in our UX design process was to define the problem in an effort to better understand the core of what we are trying to solve. We want to design a deep and meaningful experience for our potential users as opposed to a shallow simple feature. The second step in our process is defining [who the users are](http://www.usabilityfirst.com/glossary/know-thy-user/), and what they need to solve the problem.
 
 In order to discover the identity of our ideal users who experience the problem we aim to solve we will be collecting raw data from several sources. If you are working on a product that already exists and you already know who your users are, you may be able collect raw data in the form of [digital analytics](https://support.google.com/analytics/answer/6080732?hl=en), [crash reports](https://try.crashlytics.com), [bounce rates](http://www.analytics-ninja.com/blog/2012/06/google-analytics-bounce-rate-demystified.html), [a/b tests](https://support.google.com/analytics/answer/1745147?hl=en), [observing users](http://www.uxmatters.com/mt/archives/2014/01/participatory-observation.php), [conducting interviews](https://lookback.io/learn/user-experience-research/in-person-research), [surveys](https://www.interaction-design.org/literature/article/useful-survey-questions-for-user-feedback-surveys), [focus groups](https://assessment.trinity.duke.edu/documents/How_to_Conduct_a_Focus_Group.pdf), [competitor analysis](http://danforth.co/pages/2014/03/01/conducting-a-solid-ux-competitive-analysis/), [diary studies](https://en.wikipedia.org/wiki/Diary_studies), [social media mining](http://dmml.asu.edu/smm/book/), [competitive content audits](https://www.content-insight.com/resources/content-inventory-and-audit-articles/competitive-content-audit/), and other [usability studies](https://en.wikipedia.org/wiki/Usability_testing). If, like in our case, this is a new app without an existing userbase, it is best to first gain some insight into who our potential target users actually are.
 
+##Known Knowns
 
-###Observational Methods
-A passive observation of the users inaction. Go to their environment. Look for cues for the needs, like awkward actions, situations where users made fixes for themselves like with tape or glue, hand written signs, like sticky notes and are great way to observe frustrations. This can be hard for many designers as it requires going out into the real world and finding users to observe. Here is one example of me doing this for this app:
+Just what do we already know about our users?
 
-I identified some meditation practitioners who agreed to let me observe their practice. It was simple to find a public meditation group on Yelp, less easy to get them to allow me to record it with a GoPro and impossible to get permission to show it publicly. 
+We know that we are looking for users who have accepted they have a problem with stress, as this is the first step in the user's journey, followed by researching solutions, trying multiple solutions, and ultimately committing to a solution.
 
-One of the first things I noticed was a sign on the door of the space they were using (a local church) that said "it is highly recommended that you bring a pillow" -Get photo!
+We also know that our ideal user for this [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) will be an english speaker (since that is the only language I currently know), have access to the internet (unless we want to [distribute the app via CD's](https://www.quora.com/How-much-did-it-cost-AOL-to-distribute-all-those-CDs-back-in-the-1990s) circa 1992), and contains a basic knowledge of modern web and mobile apps. 
 
-I asked the group what the purpose was of the sign and was told "sitting on the floor for longer than 10 minutes hurts without one." There we have already identified a number of problems with their process, rigidity in a physical pose , length of time of a process, etc. 
+Armed with this basic user knowledge we will find existing solutions, potential users, and subject matter experts in the space. Next we will collect raw data by interviewing and observing our SME's and potential users, as well as auditing our competitors' products. And finally we will analyze our raw data to code a needs statement so that we can design solutions to meet and [exceed](http://imgur.com/J1Cfnd4) those needs.
 
+###Observing and Interviewing Users in Their Environment
+I find a good place to start is the one that seems like the most difficult. For me that is getting out of the office and finding some real people to [observe](http://www.nist.gov/itl/iad/upload/Horsky-Ethnographic-Methods.pdf) and [interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html). For this we must go to their environment, look for cues for the needs like awkward actions, situations where users made fixes for themselves, with tape or glue for example. Also look for hand written signs, like sticky notes, as another great way to observe frustrations.
 
-This method is easiest if you are addressing an existing problem for which there are existing solutions. Observe how your competition engages users and see where you can be better. Document with videos as much as youre able, as well as with photos and written notes.
+So what does this process look like in our example? It began with a [google search](http://imgur.com/eln7gQr) asking how to solve our defined problem that resulted in over 4.5 million results. Among the top results was [this article by the Mayo Clinic](http://www.mayoclinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858) that sums up most of the answers Google provided me with. An answer of meditation.
+
+Next I searched yelp for some local meditation meetups and reached out to a few meditation practitioners who agreed to let me observe their practice. It was simple to find a public meditation group on Yelp, less easy to get them to allow me to record it with a GoPro and impossible to get permission to show it publicly, which is understandable as it can be a pretty private experience as I soon found out.
+
+One of the first things I noticed when I attended my first group meetup was a sign on the door of the space they were using (a local church) that said "it is highly recommended that you bring a pillow" -Get photo!
+
+I asked the group what the purpose was of the sign and was told "sitting on the floor for longer than 10 minutes hurts without one." There we have already identified a number of potential problems with their process. Those being a rigidity in a physical pose that users may find uncomfortable, length of time spent in the required pose may be too long for some users but too short for others, etc. When I asked if sitting on the floor in a rigid pose for 45 minutes was a requirement I was told "Nothing is required other than trying your best", which allows us more openness to explore what the idea of this process could be like for our users. An example idea is a dynamic audio process that is responsive to the user's time and location.
+
+This observational method is easiest if you are addressing an existing problem for which there are existing solutions. Observe how your competition engages users and see where you can be better. Document with videos as much as you're able, as well as with photos and written notes.
 
 ###Interviews
-Identifying user needs is primarily a qualitative research task. In a typical study 10 users are interviewed for approximately one-hour in a one-on-one or focus group setting for each segment of your audience. For example, a B2B user might be asked to picture herself viewing work on a computer. 
+Identifying user needs is primarily a qualitative research task. In a typical study [10 users](http://imgur.com/aR9bbyx) are interviewed for approximately one-hour in a one-on-one or focus group setting for each segment of your audience. For example, a B2B user might be asked to picture herself viewing work on a computer. 
 
->"As the user describes her experience, the interviewer keeps probing, searching for better and more complete descriptions of how she views data, images, video, or anything else, how she works with those images, working conditions, ambient lighting, etc. The goal is to experience the experience of the user."" - [the Voice of the Consumer](http://www.mit.edu/~hauser/Papers/Gaskin_Griffin_Hauser_et_al%20VOC%20Encyclopedia%202011.pdf) 
-
-![10 interviews are appropriate](http://imgur.com/aR9bbyx)
+>"As the user describes her experience, the interviewer keeps probing, searching for better and more complete descriptions of how she views data, images, video, or anything else, how she works with those images, working conditions, ambient lighting, etc. The goal is to experience the experience of the user." - [the Voice of the Consumer](http://www.mit.edu/~hauser/Papers/Gaskin_Griffin_Hauser_et_al%20VOC%20Encyclopedia%202011.pdf) 
 
 ###Subject Matter Expert Interviews
 Subject Matter Expert (SME) interviews take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you would start with stakeholder interviews which help you gather information about the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders.
