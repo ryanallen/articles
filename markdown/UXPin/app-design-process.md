@@ -88,9 +88,10 @@ Users Mental Model
 5. Visual Design
 6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
 
-1. Defining User Needs
-	2. Discovery: Collect Raw Data
-		3. Observational Methods
+1. Know Thy User
+	2. Known Knowns
+	2. Observing and Interviewing Users in Their Environment
+		3. Did You Try Googling It?
 		3. Interviews
 		3. Subject Matter Expert Interviews
 		3. Surveys with Potential Users
@@ -111,35 +112,44 @@ As you may have read in the last section, the first step in our UX design proces
 In order to discover the identity of our ideal users who experience the problem we aim to solve we will be collecting raw data from several sources. If you are working on a product that already exists and you already know who your users are, you may be able collect raw data in the form of [digital analytics](https://support.google.com/analytics/answer/6080732?hl=en), [crash reports](https://try.crashlytics.com), [bounce rates](http://www.analytics-ninja.com/blog/2012/06/google-analytics-bounce-rate-demystified.html), [a/b tests](https://support.google.com/analytics/answer/1745147?hl=en), [observing users](http://www.uxmatters.com/mt/archives/2014/01/participatory-observation.php), [conducting interviews](https://lookback.io/learn/user-experience-research/in-person-research), [surveys](https://www.interaction-design.org/literature/article/useful-survey-questions-for-user-feedback-surveys), [focus groups](https://assessment.trinity.duke.edu/documents/How_to_Conduct_a_Focus_Group.pdf), [competitor analysis](http://danforth.co/pages/2014/03/01/conducting-a-solid-ux-competitive-analysis/), [diary studies](https://en.wikipedia.org/wiki/Diary_studies), [social media mining](http://dmml.asu.edu/smm/book/), [competitive content audits](https://www.content-insight.com/resources/content-inventory-and-audit-articles/competitive-content-audit/), and other [usability studies](https://en.wikipedia.org/wiki/Usability_testing). If, like in our case, this is a new app without an existing userbase, it is best to first gain some insight into who our potential target users actually are.
 
 ##Known Knowns
-
-Just what do we already know about our users?
-
-We know that we are looking for users who have accepted they have a problem with stress, as this is the first step in the user's journey, followed by researching solutions, trying multiple solutions, and ultimately committing to a solution.
+Just what do we already know about our users? We know that we are looking for users who have accepted they have a problem with stress, as this is the first step in the user's journey, followed by researching solutions, trying multiple solutions, and ultimately committing to a solution.
 
 We also know that our ideal user for this [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) will be an english speaker (since that is the only language I currently know), have access to the internet (unless we want to [distribute the app via CD's](https://www.quora.com/How-much-did-it-cost-AOL-to-distribute-all-those-CDs-back-in-the-1990s) circa 1992), and contains a basic knowledge of modern web and mobile apps. 
 
 Armed with this basic user knowledge we will find existing solutions, potential users, and subject matter experts in the space. Next we will collect raw data by interviewing and observing our SME's and potential users, as well as auditing our competitors' products. And finally we will analyze our raw data to code a needs statement so that we can design solutions to meet and [exceed](http://imgur.com/J1Cfnd4) those needs.
 
-###Observing and Interviewing Users in Their Environment
+##Observing and Interviewing Users in Their Environment
 I find a good place to start is the one that seems like the most difficult. For me that is getting out of the office and finding some real people to [observe](http://www.nist.gov/itl/iad/upload/Horsky-Ethnographic-Methods.pdf) and [interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html). For this we must go to their environment, look for cues for the needs like awkward actions, situations where users made fixes for themselves, with tape or glue for example. Also look for hand written signs, like sticky notes, as another great way to observe frustrations.
 
+###Did You Try Googling It?
 So what does this process look like in our example? It began with a [google search](http://imgur.com/eln7gQr) asking how to solve our defined problem that resulted in over 4.5 million results. Among the top results was [this article by the Mayo Clinic](http://www.mayoclinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858) that sums up most of the answers Google provided me with. An answer of meditation.
 
+###Adventures in Meatspace
 Next I searched yelp for some local meditation meetups and reached out to a few meditation practitioners who agreed to let me observe their practice. It was simple to find a public meditation group on Yelp, less easy to get them to allow me to record it with a GoPro and impossible to get permission to show it publicly, which is understandable as it can be a pretty private experience as I soon found out.
 
+###Observe
 One of the first things I noticed when I attended my first group meetup was a sign on the door of the space they were using (a local church) that said "it is highly recommended that you bring a pillow" -Get photo!
 
+###Ask Questions
 I asked the group what the purpose was of the sign and was told "sitting on the floor for longer than 10 minutes hurts without one." There we have already identified a number of potential problems with their process. Those being a rigidity in a physical pose that users may find uncomfortable, length of time spent in the required pose may be too long for some users but too short for others, etc. When I asked if sitting on the floor in a rigid pose for 45 minutes was a requirement I was told "Nothing is required other than trying your best", which allows us more openness to explore what the idea of this process could be like for our users. An example idea is a dynamic audio process that is responsive to the user's time and location.
 
-This observational method is easiest if you are addressing an existing problem for which there are existing solutions. Observe how your competition engages users and see where you can be better. Document with videos as much as you're able, as well as with photos and written notes.
+This observational method is easiest if you are addressing an existing problem for which there are existing solutions offered by competitors. Observe how your competition engages users and see where you can be better. Document with videos as much as you're able, as well as with photos and written notes.
 
-###Interviews
-Identifying user needs is primarily a qualitative research task. In a typical study [10 users](http://imgur.com/aR9bbyx) are interviewed for approximately one-hour in a one-on-one or focus group setting for each segment of your audience. For example, a B2B user might be asked to picture herself viewing work on a computer. 
+###Competitor Analysis
+>"So it is said that if you know your enemies and know yourself, you can win a hundred battles without a single loss." - The Art of War by Sun Tzu
 
->"As the user describes her experience, the interviewer keeps probing, searching for better and more complete descriptions of how she views data, images, video, or anything else, how she works with those images, working conditions, ambient lighting, etc. The goal is to experience the experience of the user." - [the Voice of the Consumer](http://www.mit.edu/~hauser/Papers/Gaskin_Griffin_Hauser_et_al%20VOC%20Encyclopedia%202011.pdf) 
+A competitor analysis is used to define who your competitors are, what solutions they provide to what problems, understand their and your own values, and further refine your ideal target users.
 
-###Subject Matter Expert Interviews
-Subject Matter Expert (SME) interviews take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you would start with stakeholder interviews which help you gather information about the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders.
+There are many ways you can conduct a competitor analysis like conducting a content inventory of competitors in our space, conducting a [S.W.O.T. analysis](https://en.wikipedia.org/wiki/SWOT_analysis), and the [Porter 5 Forces Analysis](https://www.youtube.com/watch?v=3AD-M5GqalM). 
+
+At the most basic, ensure you inventory at least three of your closest competitors. Who has what? Be mindful not to stray too far from your identified user needs. Don't let this become a feature list you view as requirements.
+
+As an example, for this app I spent over 100 hours analyzing the content in some of my competitors products, from cognitive behavioral therapy to guided meditations, to see how their messages aligned with the needs of my users from the needs I gathered from my users needs.
+
+###Interviewing Experts
+> Speak, so that I may see you - Socrates
+
+[Subject Matter Expert (SME) interviews](https://www.interaction-design.org/literature/article/8-tips-for-conducting-ux-interviews) take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you would start with stakeholder interviews which help you gather information about the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders.
 
 For this project I identified some Subject Matter Experts and conducted video interviews over skype. I analyzed the recordings and collected data from the interviews in an attempt to identify a common process for relieving stress, and become more aware of yourself, that could be extracted and used as a way to solve our current problem definition.
 
@@ -151,7 +161,6 @@ Some of the common ideas I found in the interviews I conducted had a common solu
 Now that we have discovered this common thread it is time to find out what the users are like in a community centered around the idea. Where do we find those communities? Where indeed. 
 
 ###Surveys with Potential Users
-
 We are slowly discovering who a potential base of users are for our app. We are looking for people who are interested in making internal changes to themselves by making their mind more flexible in a gradual, consistent, and scientific way.
 
 I was able to find a few places with people who fit into this framework by searching for meditation groups on meetup, and attending different groups with different teachings, as previously stated. I also found a vibrant and active community at r/meditation, r/mindfulness, and many other great communities found in the sidebars of those two subreddits. This second set of communities is where I conducted a few surveys to answer some questions I had on the process of meditation.
@@ -175,17 +184,6 @@ When you are interviewing and needfinding with surveys here are a few things to 
 
 For surveys I enjoy using Google Forms. You can create branches in your surveys which allows you to avoid wasting the participants time and increases the chances of getting more valuable answers. For example, in [the previous Google Survey](https://docs.google.com/a/dappergentlemen.com/spreadsheets/d/1hZ45IGdXA_4tlDz28T2l5XNe1fmfDAZgpuh9hBndXyU/edit?usp=sharing), I was able to collect data from over 100 participants who were given the option to provide me with extra demographic and psychographic information at the end if they chose to, which further helps to identify our core target audience. 
 
-###Competitor Analysis
-
->"So it is said that if you know your enemies and know yourself, you can win a hundred battles without a single loss." - The Art of War by Sun Tzu
-
-A competitor analysis is used to define who your competitors are, what solutions they provide to what problems, understand their and your own values, and further refine your ideal target users.
-
-There are many ways you can conduct a competitor analysis like conducting a content inventory of competitors in our space, conducting a [S.W.O.T. analysis](https://en.wikipedia.org/wiki/SWOT_analysis), and the [Porter 5 Forces Analysis](https://www.youtube.com/watch?v=3AD-M5GqalM). 
-
-At the most basic, ensure you inventory at least three of your closest competitors. Who has what? Be mindful not to stray too far from your identified user needs. Don't let this become a feature list you view as requirements.
-
-As an example, for this app I spent over 100 hours analyzing the content in some of my competitors products, from cognitive behavioral therapy to guided meditations, to see how their messages aligned with the needs of my users from the needs I gathered from my users needs.
 
 4. Identify Users Demo and Psychographics
 
