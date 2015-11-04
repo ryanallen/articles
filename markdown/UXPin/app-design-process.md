@@ -135,10 +135,14 @@ I asked the group what the purpose was of the sign and was told "sitting on the 
 
 This observational method is easiest if you are addressing an existing problem for which there are existing solutions offered by competitors. Observe how your competition engages users and see where you can be better. Document with videos as much as you're able, as well as with photos and written notes.
 
-###Competitor Analysis
+###Competitor Research and Analysis
 >"So it is said that if you know your enemies and know yourself, you can win a hundred battles without a single loss." - The Art of War by Sun Tzu
 
-A competitor analysis is used to define who your competitors are, what solutions they provide to what problems, understand their and your own values, and further refine your ideal target users.
+Competitor research and analysis is used to define who our competitors are, understand the solutions they provide, identify valid solutions to our problems and potential problems that arise from their solutions, and further refine our ideal target users in an effort to understand their needs.
+
+Depending on the project's timeline it's often a good idea to branch out and research competitors and solutions in some more general categories. For example, instead of only researching the category of *meditation apps*, which is an obvious space to start on our current path, I also spent hundreds of hours researching and analyzing [Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D), [Cognitive Behavioral Therapy](http://www.audible.com/pd/Science-Technology/Cognitive-Behavioral-Therapy-Audiobook/B00ZB7Q1RS/ref=a_search_c4_1_1_srTtl?qid=1446670359&sr=1-1), [Psychotherapy](https://en.wikipedia.org/wiki/Neurosis_and_Human_Growth) and the [Art of Listening](http://www.amazon.com/The-Art-Listening-Dominick-Barbara/dp/1438291825), a couple [western](https://en.wikipedia.org/wiki/Mormonism) and [eastern](https://en.wikipedia.org/wiki/Buddhism) religions, as well as a dozen [self-help books](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People), [audio guides](https://www.monroeinstitute.org), different yoga instructors, and [group meditation events](http://www.yelp.com/).
+
+![Photo of filled notebooks](src)
 
 There are many ways you can conduct a competitor analysis like conducting a content inventory of competitors in our space, conducting a [S.W.O.T. analysis](https://en.wikipedia.org/wiki/SWOT_analysis), and the [Porter 5 Forces Analysis](https://www.youtube.com/watch?v=3AD-M5GqalM). 
 
@@ -149,7 +153,7 @@ As an example, for this app I spent over 100 hours analyzing the content in some
 ###Interviewing Experts
 > Speak, so that I may see you - Socrates
 
-[Subject Matter Expert (SME) interviews](https://www.interaction-design.org/literature/article/8-tips-for-conducting-ux-interviews) take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you would start with stakeholder interviews which help you gather information about the organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders.
+[Subject Matter Expert (SME) interviews](https://www.interaction-design.org/literature/article/8-tips-for-conducting-ux-interviews) take place early on in a new product and are designed to help you gather a general understanding of your [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product you might start with stakeholder interviews which help when gathering information about the organization, discovering staff needs, and uncovering the major problems as seen by the point of view of the stakeholders.
 
 For this project I identified some Subject Matter Experts and conducted video interviews over skype. I analyzed the recordings and collected data from the interviews in an attempt to identify a common process for relieving stress, and become more aware of yourself, that could be extracted and used as a way to solve our current problem definition.
 
