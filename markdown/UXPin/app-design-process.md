@@ -88,21 +88,24 @@ Users Mental Model
 5. Visual Design
 6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
 
+---
+
 1. Know Thy User
 	2. Known Knowns
+	2. Research and Analysis
 	2. Observing and Interviewing Users in Their Environment
 		3. Did You Try Googling It?
-		3. Interviews
-		3. Subject Matter Expert Interviews
-		3. Surveys with Potential Users
-	2. Competitor Analysis
+		3. Adventures in Meatspace
+		3. Observe
+		3. Ask Questions
 	2. Interviewing Experts
 		3. Finding Experts
 		3. How to Interview Experts
 		3. Example Interviews
-	2. Identifying Needs
-		3. Coding a Needs Statement
-	2. Our First User Persona
+	2. Surveys with Potential Users 
+	2. Needs
+	2. Ideal User Persona
+	2. Conclusion
 
 
 
@@ -112,7 +115,7 @@ Users Mental Model
 > “When people talk, listen completely. Most people never listen.” 
 ― Ernest Hemingway
 
-As you may have read in the last section, the first step in our UX design process was to define the problem in an effort to better understand the core of what we are trying to solve. We want to design a deep and meaningful experience for our potential users as opposed to a shallow simple feature. The second step in our process is defining [who the users are](http://www.usabilityfirst.com/glossary/know-thy-user/), and what they need to solve the problem.
+As you may have read in the last section, the first step in our UX design process was to define the problem in an effort to better understand the core of what we are trying to solve. We want to design a deep and meaningful experience for our potential users as opposed to a shallow simple feature. The second step in our process is defining [who the ideal user is](http://www.usabilityfirst.com/glossary/know-thy-user/), and what they need to solve the problem.
 
 In order to discover who our users are we will be collecting raw data through observing, interviewing, and surveying users of existing solutions as well as subject matter experts. If you are working on a product that already exists and you already know who your users are, you may be able collect raw data in the form of [digital analytics](https://support.google.com/analytics/answer/6080732?hl=en), [crash reports](https://try.crashlytics.com), [bounce rates](http://www.analytics-ninja.com/blog/2012/06/google-analytics-bounce-rate-demystified.html), [a/b tests](https://support.google.com/analytics/answer/1745147?hl=en), [observing users](http://www.uxmatters.com/mt/archives/2014/01/participatory-observation.php), [conducting interviews](https://lookback.io/learn/user-experience-research/in-person-research), [surveys](https://www.interaction-design.org/literature/article/useful-survey-questions-for-user-feedback-surveys), [focus groups](https://assessment.trinity.duke.edu/documents/How_to_Conduct_a_Focus_Group.pdf), [competitor analysis](http://danforth.co/pages/2014/03/01/conducting-a-solid-ux-competitive-analysis/), [diary studies](https://en.wikipedia.org/wiki/Diary_studies), [social media mining](http://dmml.asu.edu/smm/book/), [competitive content audits](https://www.content-insight.com/resources/content-inventory-and-audit-articles/competitive-content-audit/), and other [usability studies](https://en.wikipedia.org/wiki/Usability_testing). If, like in our case, this is a new app without an existing user-base, it is best to first gain some insight into who our potential target users actually are.
 
@@ -196,10 +199,7 @@ After researching the current solutions to our problem and speaking with experts
 * is interested in trying new solutions to reach her goals.
 * ...
 
-It's' time to take that knowledge of our users and conduct some online surveys!
-
-###Finding Potential Users
-We have a better understanding of our target users, but where can we find them? Again we can rely on the magic of search engines. We can find a wealth of places with our target users by searching for groups on meetup, as well as many places online, like reddit's [r/meditation](http://reddit.com/r/meditation) and [r/mindfulness](http://reddit.com/r/mindfulness). Here are 119 survey [responses](https://docs.google.com/a/dappergentlemen.com/spreadsheets/d/1hZ45IGdXA_4tlDz28T2l5XNe1fmfDAZgpuh9hBndXyU/edit?usp=sharing) to the [first survey](https://docs.google.com/forms/d/1hkWgiTT9adUBCBAlbLnXTdvEQbQAHT8KqchX2YQLZYk/viewform?usp=send_form) I conducted which were based on these general open-ended questions:
+It's' time to take that knowledge of our users and conduct some online surveys! We have a better understanding of our target users, but where can we find them? Again we can rely on the magic of search engines. We can find a wealth of places with our target users by searching for groups on meetup, as well as many places online, like reddit's [r/meditation](http://reddit.com/r/meditation) and [r/mindfulness](http://reddit.com/r/mindfulness). Here are 119 survey [responses](https://docs.google.com/a/dappergentlemen.com/spreadsheets/d/1hZ45IGdXA_4tlDz28T2l5XNe1fmfDAZgpuh9hBndXyU/edit?usp=sharing) to the [first survey](https://docs.google.com/forms/d/1hkWgiTT9adUBCBAlbLnXTdvEQbQAHT8KqchX2YQLZYk/viewform?usp=send_form) I conducted which were based on these general open-ended questions:
 
 * How do you do x?
 * Why did you choose x?
@@ -213,7 +213,6 @@ From even this one survey it is obvious that there are needs that aren't being m
 ##Needs
 In the field of product design, the desired qualities in a solution are called needs. By gathering up our mountain of notes, videos, and audio recordings and analyzing all the data we will code up a list of user needs, which are usually a list of 30-100 desired qualities of our product. This needs list is an understanding by the designer of [what the user cares about and what characteristics drive engagement and a positive user experience](https://en.wikipedia.org/wiki/Causal_model). *If the app possesses these qualities, the user will be satisfied.*
 
-###Coding a Needs List
 [Processing our raw data](https://explorable.com/raw-data-processing) can take some time, as it needs organizing and manipulating to extract only the information that we need. Here are a few tips:
 
 1. Needs Statements Should be as Specific as the Raw Data to Avoid Losing Valuable Data.
@@ -243,20 +242,29 @@ This makes it easier to interpret and edit statements later on as they will all 
 	**No** - I am reminded to use the app.
 
 
-4. Avoid the words *must* and *should*.
+4. Try to avoid the words *must* and *should*.
 
 It is very tempting to use words like must and should, especially if our users used these words, however we should avoid these words to keep from prematurely establishing relative importance. We will determine which needs are more important than the others in a future step.
 
-	**Yes** - The app has no spiritual or religous connotations.
-
-	**No** - The app should not have a spiritual or religious bias.
-	**No** - The app must not have a spiritual or religious bias.
-
-With these ideas in mind code a big list of statements. You will potentially have between 25 and 500. Expect this to take some time. I find that it takes me about 2 hours to get through every hour of video, and it is difficult to power through interview videos as they take a lot of cognitive processing to analyze facial and body language as well as spoken language.
+Here is an example of [the user needs list](https://docs.google.com/spreadsheets/d/1AVzVY5x-ManVR2kRuAKaZxJ75Mftrs0808kNH3AJ7hg/edit#gid=0) I created from the previous survey. We can now use this needs list to fully flesh out Sara, our ideal user.
 
 
-##User Persona
+##Ideal User Persona
 
+With all of our hardwork distilled down into our list of Needs we are able to create a more fleshed out persona of Sara, our ideal baseline persona. 
+
+Sara, a 32 year old atheist from Denver Colorado has just become a first time mother. It has been a complete joy, but is also difficult to manage along with her other responsibilities. She is the Marketing Director of Amazing Flip Flops Inc, the most awesome flip flop brand on the west coast, and it's all hands on deck for the next 30 days as they prepare for their most important annual trade show.
+
+Sara is overwhelmed with her new situation. She realizes that if she doesn't start taking time to manage her stress she isn't going to last very long. Her stressful thoughts are causing counterproductive emotions which leak out as behaviors she is not happy with. Yelling at her newborn at 3AM for not sleeping is one example that helped her realize she needs some help.
+
+She has tried a few things but found that they haven't been flexible with her crazy new schedule. She doesn't have 30 extra minutes in the day to meditate, and many of the other options feel like something a snake oil salesman mixed up. 
+
+She is not willing to try therapy as the budget is pretty tight with the new baby, and she doesn't have the time to find a psychologist let alone schedule 60 minute sessions every week. She has tried a few mobile apps but they are either too expensive, too rigid in their methodologies, (sit up straight backed for 60 minutes), too [woo-woo](http://skepdic.com/woowoo.html), too spiritual, or don't have any new ideas to teach her.
+
+Sara knows that she needs to take some time for herself and is looking for a solution that can help motivate her to form new habits in an effort to reduce stress by calming and focusing her thoughts, emotions, and behaviors into more positive channels.
+
+##Conclusion
+We began this process by identifying general information about our target audience based on our original problem definition. We then conducted research into existing solutions and potential competitors. Next we observed and interviewed users in their environment, conducted one-on-one interviews with experts, and surveyed potential users through the magic of the internet. We gathered all of the raw data and coded it into a list of user needs, which we refined into Sara, our first persona who represents our initial target users. We can use Sara to begin one of the most fun phases of designing a mobile app. Concept exploration where we will get to brainstorm, sketch and wireframe hundreds of our own solutions for Sara's problem defined as a *need to become more aware of herself in an effort to reduce her stress.*
 
 ---
 ---
