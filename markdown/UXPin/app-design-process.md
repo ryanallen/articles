@@ -37,14 +37,13 @@ Process:
 	1.3 Redefining the Problem
 
 
-1. Strategy and Research
-	2. Discovery
+1. Research and Strategy
+	2. Phase 1: Discovery
 		3. Stakeholder Interviews
 		3. Competitive Research and Analysis
 		3. Benchmark Usability Testing
 		3. Affinity Diagraming
 		3. Requirements Gathering
-	2. User Research
 		3. Demographic Profiles
 		3. Psychographic Profiles
 		3. Interviews
@@ -63,24 +62,25 @@ Process:
 		3. Social Media Mining
 		3. Comparative Experiments
 		3. Usability Studies
-	2. Strategy
-		3. Project and Process Planning
-		3. Project Ecology
-		3. Metrics Development
-		3. Resource Allocation
-		3. Training
-	2. User Modeling
+	2. Phase 2: Analysis
+		3. User Modeling
 		3. Personas (http://aarronwalter.com/design-personas/)
 		3. User Stories
 		3. Scenarios
 		3. Task Analysis
 		3. Storyboards
 		3. Timelines
-		3. Customer Journeys
+		3. user Journeys
 		3. Process Diagrams
 		3. Mental Models
 		3. Conceptual Models
 		3. Interaction Model
+		3. Strategy
+		3. Project and Process Planning
+		3. Project Ecology
+		3. Metrics Development
+		3. Resource Allocation
+		3. Training
 
 3. Concept Exploration
 Users Mental Model
@@ -89,17 +89,193 @@ Users Mental Model
 6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
 
 ---
-Strategy and Research
-A successful UX strategy requires buy-in from multiple roles and levels of the organization. Thinking about UX strategically may include: (http://www.redpillux.com/services/ux-strategy-research/)
 
-Reconciling and prioritizing business and user goals
-Understanding target audience(s)
-Setting goals and success metrics
-Defining an iterative research & design process
-Stakeholder education
-Planning for organizational change
+1. Know Thy User
+	2. Known Knowns
+	2. Research and Analysis
+	2. Observing and Interviewing Users in Their Environment
+		3. Did You Try Googling It?
+		3. Adventures in Meatspace
+		3. Observe
+		3. Ask Questions
+	2. Interviewing Experts
+		3. Finding Experts
+		3. How to Interview Experts
+		3. Example Interviews
+	2. Surveys with Potential Users 
+	2. Needs
+	2. Ideal User Persona
+	2. Conclusion
+
+
 
 ---
+#Know Thy User
+
+> “When people talk, listen completely. Most people never listen.” 
+― Ernest Hemingway
+
+As you may have read in the last section, the first step in our UX design process was to define the problem in an effort to better understand the core of what we are trying to solve. We want to design a deep and meaningful experience for our potential users as opposed to a shallow simple feature. The second step in our process is defining [who the ideal user is](http://www.usabilityfirst.com/glossary/know-thy-user/), and what they need to solve the problem.
+
+In order to discover who our users are we will be collecting raw data through observing, interviewing, and surveying users of existing solutions as well as subject matter experts. If you are working on a product that already exists and you already know who your users are, you may be able collect raw data in the form of [digital analytics](https://support.google.com/analytics/answer/6080732?hl=en), [crash reports](https://try.crashlytics.com), [bounce rates](http://www.analytics-ninja.com/blog/2012/06/google-analytics-bounce-rate-demystified.html), [a/b tests](https://support.google.com/analytics/answer/1745147?hl=en), [observing users](http://www.uxmatters.com/mt/archives/2014/01/participatory-observation.php), [conducting interviews](https://lookback.io/learn/user-experience-research/in-person-research), [surveys](https://www.interaction-design.org/literature/article/useful-survey-questions-for-user-feedback-surveys), [focus groups](https://assessment.trinity.duke.edu/documents/How_to_Conduct_a_Focus_Group.pdf), [competitor analysis](http://danforth.co/pages/2014/03/01/conducting-a-solid-ux-competitive-analysis/), [diary studies](https://en.wikipedia.org/wiki/Diary_studies), [social media mining](http://dmml.asu.edu/smm/book/), [competitive content audits](https://www.content-insight.com/resources/content-inventory-and-audit-articles/competitive-content-audit/), and other [usability studies](https://en.wikipedia.org/wiki/Usability_testing). If, like in our case, this is a new app without an existing user-base, it is best to first gain some insight into who our potential target users actually are.
+
+##Known Knowns
+Just what do we already know about our ideal target user who we will personify with the name Sara?
+
+We know that Sara:
+
+* accepts she has a problem with stress.
+* speaks English.
+* has Internet access.
+* has a basic knowledge of web and mobile apps.
+* ...
+
+Using Sara as our *baseline persona*, we will utilize her to find existing solutions, potential users and subject matter experts to observe, audit and analyze in an effort to code a needs statement which will allow us to better understand Sara's needs.
+
+##Research and Analysis
+>"So it is said that if you know your enemies and know yourself, you can win a hundred battles without a single loss." - The Art of War by Sun Tzu
+
+Research and analysis is used to define and understand existing competitors and solutions in the market. It allows us to better know the [level of competition](https://www.youtube.com/watch?v=3AD-M5GqalM) and what [strengths, weaknesses, opportunities and threats](https://en.wikipedia.org/wiki/SWOT_analysis) exist in our industry, and further refine Sara, our baseline persona, in an effort to understand her needs.
+
+If time allows for exploration here it can be enlightening to branch out and research competitors and solutions in some more general categories. For example, instead of only researching the category of *meditation apps*, which is an obvious space to start on our current path, I also spent hundreds of hours researching and analyzing processes, causes, and solutions in [human behavioral biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D), [cognitive behavioral therapy](http://www.audible.com/pd/Science-Technology/Cognitive-Behavioral-Therapy-Audiobook/B00ZB7Q1RS/ref=a_search_c4_1_1_srTtl?qid=1446670359&sr=1-1), [psychotherapy](https://en.wikipedia.org/wiki/Neurosis_and_Human_Growth) and the [Art of Listening](http://www.amazon.com/The-Art-Listening-Dominick-Barbara/dp/1438291825), a couple [western](https://en.wikipedia.org/wiki/Mormonism) and [eastern](https://en.wikipedia.org/wiki/Buddhism) religions, theories of [learning](http://www.tandfonline.com/doi/pdf/10.1080/00461520.2014.965823) and [audience engagement](http://wolfbrown.com/images/books_reports/documents/Making_Sense_of_Audience_Engagement.pdf) as well as a dozen [self-help books](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People), [audio guides](https://www.monroeinstitute.org), different yoga instructors, [group meditation events](http://www.yelp.com/), and even articles on [synthetic emotions](https://books.google.com/books?hl=en&lr=&id=nFbuerzcJcYC&oi=fnd&pg=PP1&dq=Emotions:+a+Philosophical+Introduction+By+Jordi+Vallverdú&ots=JDpcRSaB9s&sig=ELMKbld51GTZdJPJgsBCaRwhMKs#v=onepage&q&f=false).
+
+![Photo of filled notebooks](src)
+
+All of this is the easy stuff if you enjoy diligent note taking and organizing your ideas, but it is still mostly all about being in your own head. It is time to experience the problems and solutions from the [point of view of the user](https://uxmag.com/articles/the-psychologists-view-of-ux-design) by observing and interviewing them in their environment.
+
+##Observing and Interviewing Users in Their Environment
+> I saw old Autumn in the misty morn stand shadowless like silence, listening to silence. - Thomas Hood
+
+Getting out of the office and finding some real people to [observe](http://www.nist.gov/itl/iad/upload/Horsky-Ethnographic-Methods.pdf) and [interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html) is one of the best parts about this job. For this we must go out into the users' environment and look for cues (like user made fixes, hand written signs, etc) pointing to their needs. Before we can observe the environments and their users we have to find them. So how do we find them?
+
+###Did You Try Googling It?
+This journey begins with a [google search](http://imgur.com/eln7gQr) asking how to solve our problem that results in over 4.5 million solutions. That is a lot of solutions. Among the top results was [this article by the Mayo Clinic](http://www.mayoclinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858) that recommends some form of meditation, which sums up many of the answers [Google](http://www.theguardian.com/sustainable-business/google-meditation-mindfulness-technology) provided me with.
+
+###Adventures in Meatspace
+Searching yelp for local meditation meetups and reaching out to a few moderators is pretty simple. With 15 minutes of searching and emailing I found 3 separate groups who agreed to let me observe, film, and interview them.
+
+###Observe
+Go to the users in their environment. I like to pretend I'm a spy who hides in the shadows taking notes about everything I observe. One of the first things I noticed when I attended my first meditation group meetup was a sign on the door of the space they were using (a local church) that said "It is highly recommended that you bring a pillow" -Get photo!
+
+###Ask Questions
+I asked the group what the purpose was of the sign and was told "sitting on the floor for longer than 10 minutes hurts without one." There we have already identified a number of potential problems with their process. Those being a rigidity in a physical pose that users may find uncomfortable, length of time spent in the required pose may be too long for some users but too short for others, etc.
+
+##Interviewing Experts
+> Speak, so that I may see you - Socrates
+
+[Subject matter expert (SME) interviews](https://www.interaction-design.org/literature/article/8-tips-for-conducting-ux-interviews) take place early on in a new product and are designed to help us gather a general understanding of our [product / market fit](https://www.quora.com/How-do-you-define-Product-Market-Fit). If this were an existing product we might start with stakeholder interviews which help when gathering information about the organization, discovering staff needs, and uncovering the major problems as seen by the point of view of the stakeholders. In our example we want to interview SMEs from each of the categories we researched containing our competitors.
+
+###Finding Experts
+Finding SME's may seem daunting, as it involves networking and meeting new people, which isn't an easy thing for many people to do. The reality however is that it tends to be a pretty simple and straight-forward process. It typically starts by letting your social circle know you are looking for, say, a psychologist who is interested in talking about stress, and cross your fingers that someone knows someone. Next is researching and stalking experts in a field, which usually involves sending a few messages on twitter or linkedin. Finally we will find and hire professional and pay them for the interview, though most of the time you won't have to go this far. It is pretty rare that I have to resort to paying someone. I've found that most professionals are happy to talk about topics they are passionate about to someone willing to listen for free.
+
+###How to Interview Experts
+This is a fun topic that everyone has different opinions on. Some friends of mine like to conduct their interviews in a very rigorous manner, with lists and very specific questions they want answers to. Others I know like to just wing the entire interview and just 'see what happens'. I personally find myself somewhere in the middle. I prepare a few questions I want answers to but allow enough freedom in the conversation to explore new avenues once they arise.
+
+A few general rules I try to follow are:
+
+* Don't talk. Ask a specific question and let the expert talk without being interrupted. This can be difficult, as you'll see if you watch any of my interviews. It is always something to be conscious of and practice.
+
+* Practice empathy. This skill helps you to understand, and then to know the person you are interviewing by allowing you to connect on an emotional as well as intellectual level.
+
+* Listen, stay engaged and don't let your mind wander. Meditation can help you learn to focus and concentrate :)
+
+* Don't be critical, dismissive or judgmental. The trick is to be aware of when you are being critical, dismissive or judgmental. Another area where meditation can help you as a ux designer.
+
+###Example Interviews
+I've received permission to make a few of my interviews for this project publicly available. In an effort to better understand the concept of the self I [interviewed](https://www.youtube.com/watch?v=a_eMFjwnMyY) Bryan Mitchell, AI researcher, philosopher and CTO of [Novum Analytics](http://novumanalytics.com/night-terrors/) where he is redefining what augmented reality means. I [interviewed](https://www.youtube.com/watch?v=8aiOoD5_Ucs) Thomas J. Carnahan, Ph.D. about stress, finding meaning and identifying values. Thomas is a psychologist, Chief Science Officer, and co-founder at [nfoshare](https://nfoshare.com), where he helps companies improve their culture and their brand. I also had a wonderful interview about stress, trauma and the body with Jennica Mills, who is the founder of [Neurogenic Yoga](http://neurogenic-yoga.squarespace.com) where she has integrated the [tension, stress, and trauma release](http://traumaprevention.com) research from [Dr. David Berselli](http://www.bercelifoundation.org/s/1340/aff_2_home.aspx) into her inspiring practice.
+
+After researching the current solutions to our problem and speaking with experts, it is time to further identify our target users and survey them in an effort to best understand the solutions they need to reduce their stress and maybe even learn more about themselves in the process.
+
+##Surveys with Potential Users 
+[Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html) are a great tool which allow us to learn more about who our users are and what they need to solve their problem. Creating a great survey is like designing a great user experience, in that it requires a well defined audience, or user, at its core. Let's take some time to update our baseline persona:
+
+**Sara**
+
+* ...
+* wants to learn more about her thoughts.
+* wants to learn more about her emotions.
+* wants to learn more about her behaviors.
+* wants to make internal changes.
+* is interested in trying new solutions to reach her goals.
+* ...
+
+It's' time to take that knowledge of our users and conduct some online surveys! We have a better understanding of our target users, but where can we find them? Again we can rely on the magic of search engines. We can find a wealth of places with our target users by searching for groups on meetup, as well as many places online, like reddit's [r/meditation](http://reddit.com/r/meditation) and [r/mindfulness](http://reddit.com/r/mindfulness). Here are 119 survey [responses](https://docs.google.com/a/dappergentlemen.com/spreadsheets/d/1hZ45IGdXA_4tlDz28T2l5XNe1fmfDAZgpuh9hBndXyU/edit?usp=sharing) to the [first survey](https://docs.google.com/forms/d/1hkWgiTT9adUBCBAlbLnXTdvEQbQAHT8KqchX2YQLZYk/viewform?usp=send_form) I conducted which were based on these general open-ended questions:
+
+* How do you do x?
+* Why did you choose x?
+* What do you like about x?
+* What don't you like about x?
+* What do you consider when choosing an x?
+* What are suggestions for improving x?
+
+From even this one survey it is obvious that there are needs that aren't being met, all that is left is to identify and code them.
+
+##Needs
+In the field of product design, the desired qualities in a solution are called needs. By gathering up our mountain of notes, videos, and audio recordings and analyzing all the data we will code up a list of user needs, which are usually a list of 30-100 desired qualities of our product. This needs list is an understanding by the designer of [what the user cares about and what characteristics drive engagement and a positive user experience](https://en.wikipedia.org/wiki/Causal_model). *If the app possesses these qualities, the user will be satisfied.*
+
+[Processing our raw data](https://explorable.com/raw-data-processing) can take some time, as it needs organizing and manipulating to extract only the information that we need. Here are a few tips:
+
+1. Needs Statements Should be as Specific as the Raw Data to Avoid Losing Valuable Data.
+
+Here is a need I noted during a user interview of a competitor's product:
+
+	**Original Statement** - "I wish I could adjust the volume better because when voice and music play at the same time the music is so loud I can't hear the person talking."
+
+	**YES** - the app plays background and voice audio at appropriate levels.
+
+	**NO** - the app doesn't have loud background audio.
+
+2. Express Needs Without Implying a Design Concept. 
+
+This allows you to stay focused on the definition of the problem, rather than trying to solve the problem. We want to state a *what*, not a *how* in the needs statements. Again we can use the same example as above:
+
+	**YES** - the app plays background and voice audio at appropriate levels.
+
+	**NO** - the app has separate volume controls for background audio and voice.
+
+3. Express needs as an *attribute of the app* to be designed.
+
+This makes it easier to interpret and edit statements later on as they will all be expressed in a similar way. It also sets users' needs as qualities of the app that if addressed will solve a problem in the user experience.
+
+	**Yes** - The app reminds me to use it.
+
+	**No** - I am reminded to use the app.
+
+
+4. Try to avoid the words *must* and *should*.
+
+It is very tempting to use words like must and should, especially if our users used these words, however we should avoid these words to keep from prematurely establishing relative importance. We will determine which needs are more important than the others in a future step.
+
+Here is an example of [the user needs list](https://docs.google.com/spreadsheets/d/1AVzVY5x-ManVR2kRuAKaZxJ75Mftrs0808kNH3AJ7hg/edit#gid=0) I created from the previous survey. We can now use this needs list to fully flesh out Sara, our ideal user.
+
+
+##Ideal User Persona
+
+With all of our hardwork distilled down into our list of Needs we are able to create a more fleshed out persona of Sara, our ideal baseline persona. 
+
+Sara, a 32 year old atheist from Denver Colorado has just become a first time mother. It has been a complete joy, but is also difficult to manage along with her other responsibilities. She is the Marketing Director of Amazing Flip Flops Inc, the most awesome flip flop brand on the west coast, and it's all hands on deck for the next 30 days as they prepare for their most important annual trade show.
+
+Sara is overwhelmed with her new situation. She realizes that if she doesn't start taking time to manage her stress she isn't going to last very long. Her stressful thoughts are causing counterproductive emotions which leak out as behaviors she is not happy with. Yelling at her newborn at 3AM for not sleeping is one example that helped her realize she needs some help.
+
+She has tried a few things but found that they haven't been flexible with her crazy new schedule. She doesn't have 30 extra minutes in the day to meditate, and many of the other options feel like something a snake oil salesman mixed up. 
+
+She is not willing to try therapy as the budget is pretty tight with the new baby, and she doesn't have the time to find a psychologist let alone schedule 60 minute sessions every week. She has tried a few mobile apps but they are either too expensive, too rigid in their methodologies, (sit up straight backed for 60 minutes), too [woo-woo](http://skepdic.com/woowoo.html), too spiritual, or don't have any new ideas to teach her.
+
+Sara knows that she needs to take some time for herself and is looking for a solution that can help motivate her to form new habits in an effort to reduce stress by calming and focusing her thoughts, emotions, and behaviors into more positive channels.
+
+##Conclusion
+We began this process by identifying general information about our target audience based on our original problem definition. We then conducted research into existing solutions and potential competitors. Next we observed and interviewed users in their environment, conducted one-on-one interviews with experts, and surveyed potential users through the magic of the internet. We gathered all of the raw data and coded it into a list of user needs, which we refined into Sara, our first persona who represents our initial target users. We can use Sara to begin one of the most fun phases of designing a mobile app. Concept exploration where we will get to brainstorm, sketch and wireframe hundreds of our own solutions for Sara's problem defined as a *need to become more aware of herself in an effort to reduce her stress.*
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
 
 #Defining The Problem
 ![Defining the Problem Illustration - Green](http://imgur.com/HIzRsJz)
@@ -197,7 +373,7 @@ The root cause of my wife's problem has been identified very quickly, which I ca
 ...because I have too many stressful thoughts. (refined problem)  
 2. Why do I have so many stressful thoughts?  
 ...because I can not calm my thoughts. (refined problem)  
-3. Why am I unable to calm my mind?  
+3. Why am I unable to calm my mind? 
 ...because I don't practice calming my mind. (refined problem)  
 4. Why am I unable to practice calming my mind?  
 ...because I don't have a process to calm my mind. (broken process identified)  
@@ -219,7 +395,7 @@ What about the deeper problem of not being more aware of our true [self](http://
 Throughout the design process we will continue to evolve the problem definition, so if we find we have gone too deep we can abstract back up one level. Let's go ahead and redefine our problem definition:
 
 **Redefined Problem Definition**:  
-*to enable users to become more aware of their true selves in an effort to calm their minds, reduce their stress, and become better people*.
+*to enable users to realize their true selves in an effort to become more mindful, reduce their stress, and become better people.*.
 
 ![Team Brainstorming Session](http://imgur.com/2HBBP49)  
 Photo Credit: [Kevin Dooley](https://www.flickr.com/photos/pagedooley/7007372665/in/photolist-bFdBL6-7MKH28-pEvkgx-7Zan7o-411AnZ-gLRRj-aguvar-5pQ2v-573V8v-czXcSf-fr6iwk-ehnQRz-65FoWi-9dZCyh-6YRkya-dcgiW7-5DAN7i-4X3nSg-7b8ffZ-pNqBTW-q3EGRW-q3EGQJ-q5AjYP-q5U3Pu-6VdHBf-pNnM8m-pNkBfv-p8Yy8U-pNqByC-q3EGb7-p927rM-pNoRE4-q5AjRp-pNqBF1-p8Yy7G-pNnLVN-pNoRq6-q5AjjH-72g1ve-ii6mW5-9rLUok-7EbdjK-6SeBNX-7gr1XS-Rs4eE-4SEHQP-7gn5Ti-gEVDf-9thJVu-7gqGdh), [Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)
@@ -228,7 +404,7 @@ Here are a couple of ways you can probe deeper into a design problems with your 
 
 * **Brainstorm on the problem**. You can get your team together on the perceived problem, having everyone on the team — from designers to developers to marketers to business analysts to sales — participate. Now while it'll be up to the designer ultimately to solve the design problems, teammates from other departments can provide other insights that will help frame your work. After all, sales may be closer to users and have a deeper understanding of their problems while a business analysts may have insights into the market. 
 
-* **Researching the problem**. You can conduct a competitive marketing analysis to determine if this problem is being faced elsewhere. You can also conduct a customer survey (like the one we did early on stress). If it's an existing product, dig through your analytics, heuristics, content, or conduct users tests. 
+* **Researching the problem**. You can conduct a competitive marketing analysis to determine if this problem is being faced elsewhere. You can also conduct a user survey (like the one we did early on stress). If it's an existing product, dig through your analytics, heuristics, content, or conduct users tests. 
 
 Doing these things will go a long way to getting to what's causing your problem, its root cause and how to solve it. 
 
