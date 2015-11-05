@@ -97,6 +97,9 @@ Users Mental Model
 		3. Surveys with Potential Users
 	2. Competitor Analysis
 	2. Interviewing Experts
+		3. Finding Experts
+		3. How to Interview Experts
+		3. Example Interviews
 	2. Identifying Needs
 		3. Coding a Needs Statement
 
@@ -169,12 +172,12 @@ A few general rules I try to follow are:
 
 * Don't be critical, dismissive or judgmental. The trick is to be aware of when you are being critical, dismissive or judgmental. Another area where meditation can help you as a ux designer.
 
-###Examples
+###Example Interviews
 In an effort to better understand the concept of the illusion of self I [interviewed](https://www.youtube.com/watch?v=a_eMFjwnMyY) Bryan Mitchell, game developer, AI researcher, philosopher and CTO of [Novum Analytics](http://novumanalytics.com/night-terrors/) where he is redefining what augmented reality means. I [interviewed](https://www.youtube.com/watch?v=8aiOoD5_Ucs) Thomas J. Carnahan, Ph.D. about stress, finding meaning and identifying values. Thomas is a psychologist, Chief Science Officer, and co-founder at [nfoshare](https://nfoshare.com), where he helps companies improve their culture and their brand. I also had a wonderful interview about stress and the body with Jennica Mills, who is the founder of [Neurogenic Yoga](http://neurogenic-yoga.squarespace.com) where she has integrated the [tension, stress, and trauma release](http://traumaprevention.com) research from [Dr. David Berselli](http://www.bercelifoundation.org/s/1340/aff_2_home.aspx) into her fascinating practice. 
 
 Now that we have discovered this common thread it is time to find out what the users are like in a community centered around the idea. Where do we find those communities? Where indeed. 
 
-###Surveys with Potential Users
+##Surveys with Potential Users
 We are slowly discovering who a potential base of users are for our app. We are looking for people who are interested in making internal changes to themselves by making their mind more flexible in a gradual, consistent, and scientific way.
 
 I was able to find a few places with people who fit into this framework by searching for meditation groups on meetup, and attending different groups with different teachings, as previously stated. I also found a vibrant and active community at r/meditation, r/mindfulness, and many other great communities found in the sidebars of those two subreddits. This second set of communities is where I conducted a few surveys to answer some questions I had on the process of meditation.
@@ -261,205 +264,6 @@ With these ideas in mind code a big list of statements. You will potentially hav
 ---
 ---
 
-
-Strategy and Research
-A successful UX strategy requires buy-in from multiple roles and levels of the organization. Thinking about UX strategically for this project will include discovering: (http://www.redpillux.com/services/ux-strategy-research/)
-
-* what problems we aim to solve, which we have already done.
-* who are target users
-*
-*
-
-
-Reconciling and prioritizing business and user goals
-Understanding target audience(s)
-Setting goals and success metrics
-Defining an iterative research & design process
-Stakeholder education
-Planning for organizational change
-
-Now might be a good time to analyze and potentially restate our problem definition. 
-
----
-
-#Strategy and Research
-
-> When you’re developing a business idea it can be tempting to build the product as quickly as possible in order to launch it early. Often, this is a fatal mistake because it can result in building a solution to your problem rather than something the users will value.
-
-> Although market research might seem like a boring and daunting task, it is still a vital component of any software development project. - http://www.sitepoint.com/conducting-user-interviews-will-actually-help/
-
-You don't have to use a particular user research method at the time of release. You use the one that best meets the needs of your team. With that said here is a giant list of tools for your toolkit.
-
-##Phase 1: Discovery
-
-The discovery phase is the pre-product process in which we, as the designers, through different UX strategies, can obtain data in support of our [problem definition](LINK TO ARTICLE) for organization and analysis.
-
----
-
-###Subject Matter Expert Interviews
-
-Subject Matter Expert interviews (or stakeholder interviews for an existing product) take place early on in a new product and are designed to help you gather a general understanding of the market space. organization, discover staff needs, and uncover the major problems as seen by the point of view of the stakeholders. Conduct one-on-one interviews with different levels of staff, focusing on actual ‘doers’ as well as managers. These are useful if you are working on an app that already exists, like if you are a new UX designer at an organization.
-
-Subject matter expert interviews take place at the same time and are especially useful for an app that doesn't yet exist, like the app we are working on for example.
-
-Presencing Institute has an excellent [process example](https://www.presencing.com/tools/stakeholder-interviews) and UX Apprentice has a [great list](http://www.uxapprentice.com/resources/stakeholder-interview-template/) of some possible things you may want to identify. These things will differ based on where your product is in its cycle, how large the organization is, though this list is pretty standard across all types of apps:
-
-* The project vision
-* Types of users
-* Target Audience 
-* Value Proposition
-* Competition
-* Process & Workflow
-* Context of Use
-* User Experience Goals
-
-EXAMPLES EXAMPLES EXAMPLES
-Interview with psychologist PHD. Interview with target users who said they don't have a problem with stress. BM and JH
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-
-###Affinity Diagraming
-
-An affinity diagram is a simple tool we can use to group ideas and data from our stakeholder interviews. The process works well when done with a cross-functional team including the stakeholders you interviewed and consists of:
-
-1. Recording each idea on a card
-2. Looking for ideas that are related
-3. Sorting cards into related groups
-
-https://en.wikipedia.org/wiki/Affinity_diagram
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-
-Once completed, the affinity diagram may be used to create a cause and effect diagram.
-
-###Cause-and-Effect-Diagram
-A cause-and-effect-diagram, also known as a [Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram), fishbone diagram (because a finished diagram looks like the skeleton of a fish), or Fishikawa, is a [causual diagram](https://en.wikipedia.org/wiki/Causal_model) used to identify possible causes of the [problem your app is trying to solve](link to last article). It is a way to further refine your problem definition.
-
-Mind tools has a great process: https://www.mindtools.com/pages/article/newTMC_03.htm
-
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-
-###Competitor Analysis
-
-A Competitor analysis lets you discover and understand the strenghts and weaknesses of your competitors, allowing you to use the information you gleam for design as well as marketing purposes. Hopefully you got a list of the main competitors from your stakeholder interviews, but if not fear not. You can Google a list of keywords for your product and see who ranks highest. Try to find the top 5 competitors and discover things like:
-
-* Potential target users
-* UI design rationale
-* Common UI conventions
-* Identifying problems you can fix
-* Your competitions' unique seling points
-* Your [purple cow](http://www.sethgodin.com/purple/)
-* A beginning list of users' needs
-* How well your competitors are doing
-
-Now is a great time to get your existing or potential users involved in the design process. Usability benchmark testing may be used on your [competitors products](https://www.usertesting.com/blog/2015/01/05/benchmarking/) to get an idea of how they empower users to complete basic goal-oriented tasks. Give the users you are testing a goal-oriented and basic task.
- http://scottberkun.com/essays/27-the-art-of-usability-benchmarking/
-
-http://www.usabilitynet.org/tools/competitoranalysis.htm
-http://www.ibm.com/developerworks/webservices/library/us-analysis.html
-https://en.wikipedia.org/wiki/Competitor_analysis
-
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-EXAMPLES EXAMPLES EXAMPLES
-
----
-
-		3. Demographic Profiles of Target Users
-		3. Psychographic Profiles of Target Users
-
-###One-on-one Interviews
-
-> Start off with general questions and save the detailed questions for when the conversation is started. If you develop a good rapport with the participant, the interview is more likely to uncover information from unanticipated areas. You’ll always want the participant to lead the conversation because of this aspect.
-
-Conducting one-on-one interviews is most effective when you have prepared yourself to ensure you can formulate questions that will determine:
-
-* when the target users will use our app
-* where they will use our app
-* why they will use our app
-* how they will use our app
-
-EXAMPLE EXAMPLE EXAMPLE
-
-These interviews are an effective way to get a lot of data about our potential users' needs. Later in this process we will analyze this data, so make sure you get permission from the participant to record the interview. Audio is good, video is best. A lot is said in body language that you might miss during the live interview.
-
-Be aware that there are some limitations to these interviews. These limitations include:
-
-* The answers to your questions are guesses about how the participant *thinks* they will use the product.
-* These interviews are expensive, both in terms of money and time.
-
-Determine the best way to interview your target users, whether it is onsite and in-person (best), in person at your office, or over a video chat service of your users choosing. Sitepoint has an excellent article on how to prepare and interview a target user that includes:
-
-* Building trust by explaining the purpose of the video and how results will be used.
-* Focusings around the participant's pain points.
-* Determining if they would pay for your product.
-* Having a second person analyze the interview.
-
-###Focus Groups
-
-Focus groups are an efficient way to test our initial ideas and assumptions from our research so far. They also facilitate identifying relevant market segments and acquiring more delicious data on our users' needs. We must be careful that we don't only rely on data collected from focus groups, as they too have their limitations that include:
-
-![1984 quote](http://betterlivingthroughbeowulf.com/wp-content/uploads/2013/02/1984.jpg)
-
-* Relatively low number of participants (when compared with surveys for example).
-* Participants' speculation during the session.
-* Group think.
-
-> Focus groups provide high-level feedback that helps you to make strategic decisions. When you are getting to the point where you have to make very specific, tactical design decisions, it is time to move on to more reliable research methods. - [uxmatters](http://www.uxmatters.com/mt/archives/2011/07/dos-and-donts-for-focus-groups.php#sthash.iS3nrOSi.dpuf)
-
-Duke University has an [excellent guide](https://assessment.trinity.duke.edu/documents/How_to_Conduct_a_Focus_Group.pdf) on preparing for and conducting focus group interviews.
-
-An excellent way to save money if you are in [bootstrap mode](https://en.wikipedia.org/wiki/Bootstrapping) is to use a tool like [Google Hangouts](https://hangouts.google.com), [Blab.im](https://blab.im), [Appear.in](https://appear.in) or another [group video tool](http://www.azsmartoffice.com/articles/2015/livestreaming-for-business) to conduct your focus group studies.
-
-###Surveys
-The goal with surveys is to get respondents to understand your question in the exact same way so they may easily respond. This will help you avoid errors in your measuremet and analysis later.
-
-Some quick tips for creating survey questions:
-
-Don’t make open-ended questions mandatory.
-Don't ask two questions disguised as one.
-Don't be too vague. 
-
-		3. Contextual Needfinding
-			4. Basic, Latent, Linear + Indifferent
-			4. Ideal Point Model
-			4. Kano Framework
-			4. User Needs Pyramid (http://imgur.com/9m4GoSf)
-		3. Diary Study
-		3. Photo Study
-		3. Card Sort
-		3. Free Listing
-		3. Analytics + AB testing (http://www.nngroup.com/articles/ab-testing-usability-engineering/)
-		3. Social Media Mining
-		3. Comparative Experiments
-		3. Usability Studies
-	2. Strategy
-		3. Project and Process Planning
-		3. Project Ecology
-		3. Metrics Development
-		3. Resource Allocation
-		3. Training
-	2. User Modeling
-		3. Personas (http://aarronwalter.com/design-personas/)
-		3. User Stories
-		3. Scenarios
-		3. Task Analysis
-		3. Storyboards
-		3. Timelines
-		3. user Journeys
-		3. Process Diagrams
-		3. Mental Models
-		3. Conceptual Models
-		3. Interaction Model
-	2. Empathic Design Needfinding https://en.wikipedia.org/wiki/Empathic_design
-
----
 
 #Defining The Problem
 ![Defining the Problem Illustration - Green](http://imgur.com/HIzRsJz)
