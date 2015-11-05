@@ -107,8 +107,6 @@ Users Mental Model
 	2. Ideal User Persona
 	2. Conclusion
 
-
-
 ---
 #Know Thy User
 
