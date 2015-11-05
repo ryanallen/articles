@@ -169,7 +169,8 @@ A few general rules I try to follow are:
 
 * Don't be critical, dismissive or judgmental. The trick is to be aware of when you are being critical, dismissive or judgmental. Another area where meditation can help you as a ux designer.
 
-Some of the common ideas I found in the interviews I conducted had a common solution. The solution had many names from mindfulness to prayer, but I found that there were commonalities between them which you are free to discover yourself in a sampling of interviews I did with a psychologist, neurogenic yoga creator and instructor, a psychic, a polymath and a religious expert. 
+###Examples
+In an effort to better understand the concept of the illusion of self I [interviewed](https://www.youtube.com/watch?v=a_eMFjwnMyY) Bryan Mitchell, game developer, AI researcher, philosopher and CTO of [Novum Analytics](http://novumanalytics.com/night-terrors/) where he is redefining what augmented reality means. I [interviewed](https://www.youtube.com/watch?v=8aiOoD5_Ucs) Thomas J. Carnahan, Ph.D. about stress, finding meaning and identifying values. Thomas is a psychologist, Chief Science Officer, and co-founder at [nfoshare](https://nfoshare.com), where he helps companies improve their culture and their brand. I also had a wonderful interview about stress and the body with Jennica Mills, who is the founder of [Neurogenic Yoga](http://neurogenic-yoga.squarespace.com) where she has integrated the [tension, stress, and trauma release](http://traumaprevention.com) research from [Dr. David Berselli](http://www.bercelifoundation.org/s/1340/aff_2_home.aspx) into her fascinating practice. 
 
 Now that we have discovered this common thread it is time to find out what the users are like in a community centered around the idea. Where do we find those communities? Where indeed. 
 
