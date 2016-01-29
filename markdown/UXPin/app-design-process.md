@@ -56,6 +56,12 @@ You start with a big design problem, and this problem is probably pretty difficu
 
 Step 1 is to divide the large problem into subproblems. You can do it by the users latent needs, you can decompose by sequnceof user actions, and you can decompose by function.
 
+Step 2 is to solve the sub problems. By having this isolated what are some possible concepts that would solve this sub problem. So you solve sub problam A, subproblem B, subproblem C, etc. 
+
+Step 3 is to integrate solutions, which is like choosing from a sandwhih menu. You take one from B, one from A, one from C, and integrate into an overal solution concept.
+
+The idea of an MVP is to do this quickly and decide on what sub solutions are required to get this out as fast as possible and start learning lessons
+
 ###By User Needs
 ###By Sequence of User Actions
 ###By Function
