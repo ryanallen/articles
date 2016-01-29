@@ -108,6 +108,19 @@ Users Mental Model
 	2. Conclusion
 
 ---
+1. Concept Exploration
+	2. Decomposition
+		3. By Needs
+		3. By Sequence of User Actions
+		3. By Function
+	2. Concept Selection
+		3. Concept Selection Matrix
+		3. Multi Attribute Utility Analysis
+1. Prototyping
+1. User Testing
+
+We have finished up our problem definition and research phases so we have a nice top level description of the problem we are trying to solve and a list of our user needs. The exploration phase will result in a number of concepts, or sketches of the solution to address the gap in our user's experience.
+---
 #Know Thy User
 
 > “When people talk, listen completely. Most people never listen.” 
@@ -257,7 +270,7 @@ Sara is overwhelmed with her new situation. She realizes that if she doesn't sta
 
 She has tried a few things but found that they haven't been flexible with her crazy new schedule. She doesn't have 30 extra minutes in the day to meditate, and many of the other options feel like something a snake oil salesman mixed up. 
 
-She is not willing to try therapy as the budget is pretty tight with the new baby, and she doesn't have the time to find a psychologist let alone schedule 60 minute sessions every week. She has tried a few mobile apps but they are either too expensive, too rigid in their methodologies, (sit up straight backed for 60 minutes), too [woo-woo](http://skepdic.com/woowoo.html), too spiritual, or don't have any new ideas to teach her.
+She is not willing to try therapy as the budget is pretty tight with the new baby, and she doesn't have the time to find a psychologist let alone schedule 60 minute sessions every week. She has tried a few mobile apps but they are either too expensive, too rigid in their methodologies, (sit up straight backed for 60 minutes), too [woo-woo](http://skepdic.com/woowoo.html), too spiritual, don't measure her success, or don't have any new ideas to teach her.
 
 Sara knows that she needs to take some time for herself and is looking for a solution that can help motivate her to form new habits in an effort to reduce stress by calming and focusing her thoughts, emotions, and behaviors into more positive channels.
 
