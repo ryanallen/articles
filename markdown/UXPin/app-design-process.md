@@ -1,33 +1,4 @@
-Process:
 
-1. Write + Research
-2. Edit for clarity (usually this means reducing word count too)
-	2.1 consistent use of words and tense
-	2.2 use action words
-	2.3 Edit for section headings and evolve outline
-3. Edit for links
-4. Edit for humor
-5. Edit for images
-6. Bonus edits for perfection if there is time
-
----
-
-#From Idea to App in XXX Steps
-1. Recognize the Problem with 5 Whys  
-2. Determine Your Target Audience  
-3. Identify your target audiences' needs with interviews and surveys
-4. Explore Solutions with Concept Sketches, User Stories and Storyboards
-5. Select the Best Solutions with a Concept Selection Matrix  
-6. Wireframes
-7. Stakeholder Validation  
-8. Lo-fi Prototypes
-9. User Testing
-10. Hi-fi Prototypes + More User Testing
-11. Development
-12. Alpha - Beta - V1
-13. Marketing
-
----
 
 1. The Problem  
 	1.1 Perceiving the Problem
@@ -35,58 +6,6 @@ Process:
 		1.1.2 Root Causes
 	1.2 The Five Whys
 	1.3 Redefining the Problem
-
-
-1. Research and Strategy
-	2. Phase 1: Discovery
-		3. Stakeholder Interviews
-		3. Competitive Research and Analysis
-		3. Benchmark Usability Testing
-		3. Affinity Diagraming
-		3. Requirements Gathering
-		3. Demographic Profiles
-		3. Psychographic Profiles
-		3. Interviews
-		3. Focus Groups
-		3. Surveys
-		3. Contextual Needfinding
-			4. Basic, Latent, Linear + Indifferent
-			4. Ideal Point Model
-			4. Kano Framework
-			4. User Needs Pyramid (http://imgur.com/9m4GoSf)
-		3. Diary Study
-		3. Photo Study
-		3. Card Sort
-		3. Free Listing
-		3. Analytics + AB testing (http://www.nngroup.com/articles/ab-testing-usability-engineering/)
-		3. Social Media Mining
-		3. Comparative Experiments
-		3. Usability Studies
-	2. Phase 2: Analysis
-		3. User Modeling
-		3. Personas (http://aarronwalter.com/design-personas/)
-		3. User Stories
-		3. Scenarios
-		3. Task Analysis
-		3. Storyboards
-		3. Timelines
-		3. user Journeys
-		3. Process Diagrams
-		3. Mental Models
-		3. Conceptual Models
-		3. Interaction Model
-		3. Strategy
-		3. Project and Process Planning
-		3. Project Ecology
-		3. Metrics Development
-		3. Resource Allocation
-		3. Training
-
-3. Concept Exploration
-Users Mental Model
-4. Prototyping
-5. Visual Design
-6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
 
 ---
 
@@ -108,7 +27,8 @@ Users Mental Model
 	2. Conclusion
 
 ---
-1. Concept Exploration
+
+1. Lean Concept Exploration
 	2. Decomposition
 		3. By Needs
 		3. By Sequence of User Actions
@@ -116,10 +36,33 @@ Users Mental Model
 	2. Concept Selection
 		3. Concept Selection Matrix
 		3. Multi Attribute Utility Analysis
+
+---
+
 1. Prototyping
 1. User Testing
 
 We have finished up our problem definition and research phases so we have a nice top level description of the problem we are trying to solve and a list of our user needs. The exploration phase will result in a number of concepts, or sketches of the solution to address the gap in our user's experience.
+
+In the spirit of one of my favorite processes we are going to do this phase as lean as possible in an effort to create an MVP that can be sent to real potential users in an effort to test our designed solution to the most pressing user need. In order to do that we must first identify our most pressing user need. Fortunately we created a [needs statement](#) so we can very quickly figure out our users' most pressing need based on quite simply, what top level need has the most sub needs.
+
+The most pressing need from users is a need to be taught. And if we analyze the list of requested needs and perform a few 5 whys analysis we can see that the deepest unknown users need to learn about is themselves. We can now decompose the problem of "enabling the user to learn more about themself" through some design compositions and low-fi concept sketches that we can validate through the use of a Concept Seletion Matrix or a Multi Attribute Utility Analysis.
+
+##Decomposition
+
+Step 1. Blank sheet of paper. Draw a box.
+
+You start with a big design problem, and this problem is probably pretty difficult to understand from a high level. The idea behind decomposition is to take this large rpoblem and divide it into sub problems.
+
+Step 1 is to divide the large problem into subproblems. You can do it by the users latent needs, you can decompose by sequnceof user actions, and you can decompose by function.
+
+###By User Needs
+###By Sequence of User Actions
+###By Function
+##Concept Selection
+###Concept Selection Matrix
+###Multi Attribute Utility Analysis
+
 ---
 #Know Thy User
 
@@ -287,7 +230,6 @@ We began this process by identifying general information about our target audien
 ---
 ---
 
-
 #Defining The Problem
 ![Defining the Problem Illustration - Green](http://imgur.com/HIzRsJz)
 
@@ -449,3 +391,89 @@ Once you write a really strong problem statement, don't feel like you're married
 
 ---
 
+ARCHIVE
+=======
+
+---
+
+Process:
+
+1. Write + Research
+2. Edit for clarity (usually this means reducing word count too)
+	2.1 consistent use of words and tense
+	2.2 use action words
+	2.3 Edit for section headings and evolve outline
+3. Edit for links
+4. Edit for humor
+5. Edit for images
+6. Bonus edits for perfection if there is time
+
+---
+
+#From Idea to App in XXX Steps
+1. Recognize the Problem with 5 Whys  
+2. Determine Your Target Audience  
+3. Identify your target audiences' needs with interviews and surveys
+4. Explore Solutions with Concept Sketches, User Stories and Storyboards
+5. Select the Best Solutions with a Concept Selection Matrix  
+6. Wireframes
+7. Stakeholder Validation  
+8. Lo-fi Prototypes
+9. User Testing
+10. Hi-fi Prototypes + More User Testing
+11. Development
+12. Alpha - Beta - V1
+13. Marketing
+
+---
+
+1. Research and Strategy
+	2. Phase 1: Discovery
+		3. Stakeholder Interviews
+		3. Competitive Research and Analysis
+		3. Benchmark Usability Testing
+		3. Affinity Diagraming
+		3. Requirements Gathering
+		3. Demographic Profiles
+		3. Psychographic Profiles
+		3. Interviews
+		3. Focus Groups
+		3. Surveys
+		3. Contextual Needfinding
+			4. Basic, Latent, Linear + Indifferent
+			4. Ideal Point Model
+			4. Kano Framework
+			4. User Needs Pyramid (http://imgur.com/9m4GoSf)
+		3. Diary Study
+		3. Photo Study
+		3. Card Sort
+		3. Free Listing
+		3. Analytics + AB testing (http://www.nngroup.com/articles/ab-testing-usability-engineering/)
+		3. Social Media Mining
+		3. Comparative Experiments
+		3. Usability Studies
+	2. Phase 2: Analysis
+		3. User Modeling
+		3. Personas (http://aarronwalter.com/design-personas/)
+		3. User Stories
+		3. Scenarios
+		3. Task Analysis
+		3. Storyboards
+		3. Timelines
+		3. user Journeys
+		3. Process Diagrams
+		3. Mental Models
+		3. Conceptual Models
+		3. Interaction Model
+		3. Strategy
+		3. Project and Process Planning
+		3. Project Ecology
+		3. Metrics Development
+		3. Resource Allocation
+		3. Training
+
+3. Concept Exploration
+Users Mental Model
+4. Prototyping
+5. Visual Design
+6. User Testing - System usability scale - http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html (http://www.redpillux.com/services/testing/)
